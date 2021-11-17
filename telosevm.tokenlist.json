@@ -12,10 +12,6 @@
       "stablecoin": {
         "name": "Stablecoin",
         "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-      },
-      "compound": {
-        "name": "Compound Finance",
-        "description": "Tokens that earn interest on compound.finance"
       }
     },
     "timestamp": "2021-11-17T00:00:00+00:00",
