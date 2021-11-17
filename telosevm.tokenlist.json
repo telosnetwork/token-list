@@ -3,6 +3,7 @@
     "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
     "keywords": [
       "audited",
+      "Telos",
       "verified",
       "special tokens",
       "Layer 1 EVM",
@@ -133,8 +134,16 @@
         "symbol": "JRS",
         "name": "Jesse Rocket Super Coin",
         "decimals": 18,
-        "tags": [
-          
+        "tags": [  
+        ]
+      },
+      {
+        "chainId": 40,
+        "address": "0x20e757800e04b370FD1Ed8326709aDFf889d2d6B",
+        "symbol": "TSQRL",
+        "name": "T-Squirrel",
+        "decimals": 18,
+        "tags": [          
         ]
       },
       {
@@ -150,7 +159,7 @@
     ],
     "version": {
       "major": 0,
-      "minor": 1,
+      "minor": 2,
       "patch": 2
     }
   }
