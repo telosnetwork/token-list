@@ -1,6 +1,6 @@
 {
     "name": "TelosEVM Token List",
-    "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
     "keywords": [
       "audited",
       "Telos",
@@ -33,6 +33,7 @@
         "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
         "symbol": "USDT",
         "name": "Tether Stable Coin",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
         "decimals": 6,
         "tags": [
           "stablecoin"
@@ -43,6 +44,7 @@
         "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
         "symbol": "ETH",
         "name": "Ethereum",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
         "decimals": 18,
         "tags": [
           
@@ -53,6 +55,7 @@
         "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
         "symbol": "SUSHI",
         "name": "Sushi",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png",
         "decimals": 18,
         "tags": [
           
@@ -63,6 +66,7 @@
         "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
         "symbol": "MATIC",
         "name": "Polygon",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53/logo.png",
         "decimals": 18,
         "tags": [
           
@@ -73,6 +77,7 @@
         "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
         "symbol": "AVAX",
         "name": "Avalanche",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
         "decimals": 18,
         "tags": [
           
@@ -103,6 +108,7 @@
         "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",
         "decimals": 8,
         "tags": [
           
@@ -121,6 +127,7 @@
       {
         "chainId": 40,
         "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c/logo.png",
         "symbol": "DOUGE",
         "name": "DougeCoin",
         "decimals": 18,
@@ -161,6 +168,6 @@
     "version": {
       "major": 0,
       "minor": 2,
-      "patch": 3
+      "patch": 4
     }
   }
