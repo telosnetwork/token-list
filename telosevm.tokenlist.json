@@ -141,6 +141,7 @@
         "chainId": 40,
         "address": "0x20e757800e04b370FD1Ed8326709aDFf889d2d6B",
         "symbol": "TSQRL",
+        "logoURI": "https://api.dstor.cloud/ipfs/QmbL7uYYp7sZ6URYua1RdWw6MPLR7jnZisMfLbPEhuurKw",
         "name": "T-Squirrel",
         "decimals": 18,
         "tags": [          
@@ -160,6 +161,6 @@
     "version": {
       "major": 0,
       "minor": 2,
-      "patch": 2
+      "patch": 3
     }
   }
