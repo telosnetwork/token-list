@@ -33,7 +33,6 @@
         "symbol": "USDT",
         "name": "Tether Stable Coin",
         "decimals": 8,
-        "logoURI": "",
         "tags": [
           "stablecoin"
         ]
@@ -44,7 +43,6 @@
         "symbol": "ETH",
         "name": "Ethereum",
         "decimals": 8,
-        "logoURI": "",
         "tags": [
           
         ]
@@ -55,7 +53,6 @@
         "symbol": "SUSHI",
         "name": "Sushi",
         "decimals": 8,
-        "logoURI": "",
         "tags": [
           
         ]
@@ -66,7 +63,6 @@
         "symbol": "MATIC",
         "name": "Polygon",
         "decimals": 8,
-        "logoURI": "",
         "tags": [
           
         ]
@@ -77,7 +73,6 @@
         "symbol": "AVAX",
         "name": "Avalanche",
         "decimals": 8,
-        "logoURI": "",
         "tags": [
           
         ]
@@ -88,7 +83,6 @@
         "symbol": "FTM",
         "name": "Fantom",
         "decimals": 8,
-        "logoURI": "",
         "tags": [
           
         ]
@@ -99,7 +93,6 @@
         "symbol": "BNB",
         "name": "Binance Coin",
         "decimals": 8,
-        "logoURI": "",
         "tags": [
           
         ]
@@ -110,7 +103,6 @@
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "decimals": 8,
-        "logoURI": "",
         "tags": [
           
         ]
@@ -121,7 +113,6 @@
         "symbol": "SC",
         "name": "ShibaTelos Coin",
         "decimals": 9,
-        "logoURI": "",
         "tags": [
           
         ]
@@ -132,7 +123,6 @@
         "symbol": "DOUGE",
         "name": "DougeCoin",
         "decimals": 8,
-        "logoURI": "",
         "tags": [
           
         ]
@@ -143,7 +133,6 @@
         "symbol": "JRS",
         "name": "Jesse Rocket Super Coin",
         "decimals": 8,
-        "logoURI": "",
         "tags": [
           
         ]
@@ -154,7 +143,6 @@
         "symbol": "TM",
         "name": "TM Coin",
         "decimals": 18,
-        "logoURI": "",
         "tags": [
           
         ]
@@ -163,6 +151,6 @@
     "version": {
       "major": 0,
       "minor": 1,
-      "patch": 0
+      "patch": 1
     }
   }
