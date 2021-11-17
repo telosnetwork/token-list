@@ -32,7 +32,7 @@
         "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
         "symbol": "USDT",
         "name": "Tether Stable Coin",
-        "decimals": 8,
+        "decimals": 6,
         "tags": [
           "stablecoin"
         ]
@@ -42,7 +42,7 @@
         "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
         "symbol": "ETH",
         "name": "Ethereum",
-        "decimals": 8,
+        "decimals": 18,
         "tags": [
           
         ]
@@ -52,7 +52,7 @@
         "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
         "symbol": "SUSHI",
         "name": "Sushi",
-        "decimals": 8,
+        "decimals": 18,
         "tags": [
           
         ]
@@ -62,7 +62,7 @@
         "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
         "symbol": "MATIC",
         "name": "Polygon",
-        "decimals": 8,
+        "decimals": 18,
         "tags": [
           
         ]
@@ -72,7 +72,7 @@
         "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
         "symbol": "AVAX",
         "name": "Avalanche",
-        "decimals": 8,
+        "decimals": 18,
         "tags": [
           
         ]
@@ -82,7 +82,7 @@
         "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
         "symbol": "FTM",
         "name": "Fantom",
-        "decimals": 8,
+        "decimals": 18,
         "tags": [
           
         ]
@@ -92,7 +92,7 @@
         "address": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
         "symbol": "BNB",
         "name": "Binance Coin",
-        "decimals": 8,
+        "decimals": 18,
         "tags": [
           
         ]
@@ -122,7 +122,7 @@
         "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
         "symbol": "DOUGE",
         "name": "DougeCoin",
-        "decimals": 8,
+        "decimals": 18,
         "tags": [
           
         ]
@@ -132,7 +132,7 @@
         "address": "0x47be534f78c6408b454d36e75415249ad8d10a60",
         "symbol": "JRS",
         "name": "Jesse Rocket Super Coin",
-        "decimals": 8,
+        "decimals": 18,
         "tags": [
           
         ]
@@ -151,6 +151,6 @@
     "version": {
       "major": 0,
       "minor": 1,
-      "patch": 1
+      "patch": 2
     }
   }
