@@ -134,16 +134,6 @@
       },
       {
         "chainId": 40,
-        "address": "0x76ae0b4c828ddca1841a4fe394af5d8679baf118",
-        "symbol": "SC",
-        "name": "ShibaTelos Coin",
-        "decimals": 9,
-        "tags": [
-         "telosevm" 
-        ]
-      },
-      {
-        "chainId": 40,
         "address": "0xcCf69d549a25d90938B3EEA0D7A2d112c971071B",
         "symbol": "TM",
         "name": "TM Coin",
