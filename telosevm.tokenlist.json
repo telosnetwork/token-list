@@ -170,7 +170,7 @@
         "symbol": "DLOS",
         "logoURI": "https://api.dstor.cloud/ipfs/QmebZk5p9u9Gf4QT5hLGnd159GJiQxppkwBWUnWkpiPJBy",
         "name": "DogeLos",
-        "decimals": 18,
+        "decimals": 0,
         "tags": [  
          "telosevm"         
         ]
