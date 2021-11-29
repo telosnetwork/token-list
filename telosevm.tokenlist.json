@@ -163,6 +163,17 @@
         "tags": [  
          "telosevm"         
         ]
+      },            
+      {
+        "chainId": 40,
+        "address": "0x03Cf39c84C7E5C514Ad4b9Aa49B04255aA0cdf87",
+        "symbol": "DLOS",
+        "logoURI": "https://api.dstor.cloud/ipfs/QmebZk5p9u9Gf4QT5hLGnd159GJiQxppkwBWUnWkpiPJBy",
+        "name": "DogeLos",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"         
+        ]
       }
     ],
     "version": {
