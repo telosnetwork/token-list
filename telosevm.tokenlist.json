@@ -137,7 +137,7 @@
         "chainId": 40,
         "address": "0x47be534f78c6408b454d36e75415249ad8d10a60",
         "symbol": "JRS",
-        "logoURI": "https://github.com/telosnetwork/images/blob/master/logos_2021/JesseRocketTokenLogo.png",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/JesseRocketTokenLogo.png",
         "name": "Jesse Rocket Super Coin",
         "decimals": 18,
         "tags": [  
@@ -148,7 +148,7 @@
         "chainId": 40,
         "address": "0xcCf69d549a25d90938B3EEA0D7A2d112c971071B",
         "symbol": "TM",
-        "logoURI": "https://github.com/telosnetwork/images/blob/master/logos_2021/TelosMemeLogo.png",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/TelosMemeLogo.png",
         "name": "TM Coin",
         "decimals": 18,
         "tags": [
@@ -159,7 +159,7 @@
         "chainId": 40,
         "address": "0x20e757800e04b370FD1Ed8326709aDFf889d2d6B",
         "symbol": "TSQRL",
-        "logoURI": "https://github.com/telosnetwork/images/blob/master/logos_2021/T-SquirrelLogo.png",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/T-SquirrelLogo.png",
         "name": "T-Squirrel",
         "decimals": 18,
         "tags": [  
@@ -170,7 +170,7 @@
         "chainId": 40,
         "address": "0x03Cf39c84C7E5C514Ad4b9Aa49B04255aA0cdf87",
         "symbol": "DLOS",
-        "logoURI": "https://github.com/telosnetwork/images/blob/master/logos_2021/dogelosLogo.png",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/dogelosLogo.png",
         "name": "DogeLos",
         "decimals": 0,
         "tags": [  
@@ -181,7 +181,7 @@
         "chainId": 40,
         "address": "0x4EBeD425e637acf55c28e3D2631E4f9A80c448bC",
         "symbol": "BabyEvils",
-        "logoURI": "https://github.com/telosnetwork/images/blob/master/logos_2021/BabyEvilsLogo.png",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/BabyEvilsLogo.png",
         "name": "BabyEvils",
         "decimals": 0,
         "tags": [  
