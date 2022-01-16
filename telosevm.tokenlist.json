@@ -135,8 +135,20 @@
       },
       {
         "chainId": 40,
+        "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
+        "symbol": "CHARM",
+        "logoURI": "https://api.dstor.cloud/ipfs/Qma5JDXwHBYHYQgDoBYpszPNJVRJdLNPwiBhzCuscx4cst",
+        "name": "Omnidex Charm Token",
+        "decimals": 18,
+        "tags": [  
+          "telosevm"
+        ]
+      },
+      {
+        "chainId": 40,
         "address": "0x47be534f78c6408b454d36e75415249ad8d10a60",
         "symbol": "JRS",
+        "logoURI": "https://api.dstor.cloud/ipfs/QmUEJj6CvRzrvDNvTYYpt1C7q4TRtCw1psgzmhfkPaYzEX",
         "name": "Jesse Rocket Super Coin",
         "decimals": 18,
         "tags": [  
