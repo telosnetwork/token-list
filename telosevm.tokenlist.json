@@ -148,7 +148,7 @@
         "chainId": 40,
         "address": "0xcCf69d549a25d90938B3EEA0D7A2d112c971071B",
         "symbol": "TM",
-          "logoURI", "https://github.com/telosnetwork/images/blob/master/logos_2021/TelosMemeLogo.png",
+        "logoURI": "https://github.com/telosnetwork/images/blob/master/logos_2021/TelosMemeLogo.png",
         "name": "TM Coin",
         "decimals": 18,
         "tags": [
