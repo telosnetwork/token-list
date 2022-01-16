@@ -124,6 +124,16 @@
       },      
       {
         "chainId": 40,
+        "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
+        "symbol": "CHARM",
+        "name": "Omnidex",
+        "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq",
+        "decimals": 18,
+        "tags": [
+        ]
+      },    
+      {
+        "chainId": 40,
         "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c/logo.png",
         "symbol": "DOUGE",
