@@ -197,6 +197,17 @@
         "tags": [  
          "telosevm"         
         ]
+      },       
+      {
+        "chainId": 40,
+        "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
+        "symbol": "CHARM",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/CharmLogo.png",
+        "name": "Charm",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"         
+        ]
       }
     ],
     "version": {
