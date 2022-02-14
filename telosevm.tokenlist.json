@@ -189,11 +189,11 @@
       },            
       {
         "chainId": 40,
-        "address": "0x4EBeD425e637acf55c28e3D2631E4f9A80c448bC",
-        "symbol": "BabyEvils",
+        "address": "0x6439DA210988b1fD8DAC8b31CD000a7087416824",
+        "symbol": "BEVIL",
         "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/BabyEvilsLogo.png",
         "name": "BabyEvils",
-        "decimals": 0,
+        "decimals": 18,
         "tags": [  
          "telosevm"         
         ]
