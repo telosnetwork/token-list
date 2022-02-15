@@ -198,6 +198,17 @@
          "telosevm"         
         ]
       }
+       {
+        "chainId": 40,
+        "address": "0x1aCA60694d12A99fa5DdD1C78493b6eFd7416601",
+        "symbol": "ARIS",
+        "logoURI": "https://imgur.com/a/A9aPvqZ",
+        "name": "Aristotle",
+        "decimals": 9,
+        "tags": [  
+         "telosevm"         
+        ]
+      }
     ],
     "version": {
       "major": 0,
