@@ -35,7 +35,7 @@
         "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png",
+        "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png",
         "decimals": 8,
         "tags": [
         ]
@@ -45,7 +45,7 @@
         "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
         "symbol": "ETH",
         "name": "Ethereum",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png",
+        "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
         "decimals": 18,
         "tags": [
         ]
@@ -117,7 +117,7 @@
         "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
         "symbol": "SUSHI",
         "name": "Sushi",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png",
+        "logoURI": "https://cryptologos.cc/logos/sushiswap-sushi-logo.png",
         "decimals": 18,
         "tags": [
         ]
@@ -202,7 +202,7 @@
         "chainId": 40,
         "address": "0x1aCA60694d12A99fa5DdD1C78493b6eFd7416601",
         "symbol": "ARIS",
-        "logoURI": "https://imgur.com/a/A9aPvqZ",
+        "logoURI": "https://i.imgur.com/iYmGhdu.png",
         "name": "Aristotle",
         "decimals": 9,
         "tags": [  
