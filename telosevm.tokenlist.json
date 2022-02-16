@@ -164,18 +164,7 @@
         "tags": [
          "telosevm" 
         ]
-      },            
-      {
-        "chainId": 40,
-        "address": "0x20e757800e04b370FD1Ed8326709aDFf889d2d6B",
-        "symbol": "TSQRL",
-        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/T-SquirrelLogo.png",
-        "name": "T-Squirrel",
-        "decimals": 18,
-        "tags": [  
-         "telosevm"         
-        ]
-      },            
+      },
       {
         "chainId": 40,
         "address": "0x03Cf39c84C7E5C514Ad4b9Aa49B04255aA0cdf87",
