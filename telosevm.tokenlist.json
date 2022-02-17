@@ -208,11 +208,22 @@
         "tags": [  
          "telosevm"         
         ]
+},
+       {
+        "chainId": 40,
+        "address": "0x5C8F2334BD0e7B76e15a7869E31c1F1A654a2B62",
+        "symbol": "DOG",
+        "logoURI": "https://gateway.ipfs.io/ipfs/QmerrZ47zBxoQqkr4gfY53wvoAUqn3JXs6R6VCfE4s9nkK",
+        "name": "Glue Dog",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"         
+        ]
       }
     ],
     "version": {
       "major": 0,
-      "minor": 2,
-      "patch": 6
+      "minor": 3,
+      "patch": 0
     }
   }
