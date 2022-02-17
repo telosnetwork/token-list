@@ -173,9 +173,20 @@
         "name": "DogeLos",
         "decimals": 0,
         "tags": [  
-         "telosevm"         
+         "telosevm" 
         ]
-      },            
+      },
+      {
+        "chainId": 40,
+        "address": "0xF5bA374CF1e85d1a44EC989c5d8A25C4eACA078E",
+        "symbol": "TFELLAS",
+        "logoURI": "https://telosfellas.com/images/tf.png",
+        "name": "TelosFellas",
+        "decimals": 9,
+        "tags": [  
+         "telosevm" 
+        ]
+      },
       {
         "chainId": 40,
         "address": "0x6439DA210988b1fD8DAC8b31CD000a7087416824",
@@ -186,7 +197,7 @@
         "tags": [  
          "telosevm"         
         ]
-      },
+       },
        {
         "chainId": 40,
         "address": "0x1aCA60694d12A99fa5DdD1C78493b6eFd7416601",
