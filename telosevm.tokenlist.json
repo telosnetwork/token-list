@@ -184,6 +184,8 @@
         "decimals": 9,
         "tags": [  
          "telosevm" 
+        ]
+      },
       {
         "chainId": 40,
         "address": "0x6439DA210988b1fD8DAC8b31CD000a7087416824",
