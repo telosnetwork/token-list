@@ -121,7 +121,18 @@
         "decimals": 18,
         "tags": [
         ]
-      },      
+      },
+      {
+        "chainId": 40,
+        "address": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
+        "symbol": "ZAP",
+        "name": "Zappy",
+        "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x9A271E3748F59222f5581BaE2540dAa5806b3F77/logo.png",
+        "decimals": 18,
+        "tags": [
+          "telosevm"
+        ]
+      },
       {
         "chainId": 40,
         "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
