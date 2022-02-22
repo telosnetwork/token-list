@@ -230,6 +230,17 @@
         "tags": [  
          "telosevm"         
         ]
+      },
+       {
+        "chainId": 40,
+        "address": "0x72b4aa5e2361e8e7e1c49c24a79d16106e7c7ecd",
+        "symbol": "BBC",
+        "logoURI": "https://raw.githubusercontent.com/OmniDexFinance/tokenLogo/master/0x72b4aa5e2361e8e7e1c49c24a79d16106e7c7ecd/logo.png",
+        "name": "Baseball Coin",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"         
+        ]
       }
     ],
     "version": {
