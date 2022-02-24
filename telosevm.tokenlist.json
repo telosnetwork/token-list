@@ -219,8 +219,8 @@
         "tags": [  
          "telosevm"         
         ]
-},
-       {
+        },
+        {
         "chainId": 40,
         "address": "0x5C8F2334BD0e7B76e15a7869E31c1F1A654a2B62",
         "symbol": "DOG",
@@ -228,13 +228,24 @@
         "name": "Glue Dog",
         "decimals": 18,
         "tags": [  
-         "telosevm"         
+         "telosevm"
         ]
-      }
+        },
+        {
+        "chainId": 40,
+        "address": "0xE5dE07ec385B1BD55f6bB02c01860547be9D7C0B",
+        "symbol": "PIG",
+        "logoURI": "https://gateway.ipfs.io/ipfs/QmPThPaz3kjWaLjDAZKP8frpzaVm5Rvi5wCcUbag8QhgRL",
+        "name": "Big Pig",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"
+        ]
+        }
     ],
     "version": {
       "major": 0,
       "minor": 3,
-      "patch": 0
+      "patch": 2
     }
   }
