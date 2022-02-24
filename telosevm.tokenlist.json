@@ -124,6 +124,16 @@
       },
       {
         "chainId": 40,
+        "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
+        "symbol": "CHARM",
+        "name": "Omnidex",
+        "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq",
+        "decimals": 18,
+        "tags": [
+        ]
+      },
+      {
+        "chainId": 40,
         "address": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
         "symbol": "ZAP",
         "name": "Zappy",
@@ -133,16 +143,6 @@
           "telosevm"
         ]
       },
-      {
-        "chainId": 40,
-        "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
-        "symbol": "CHARM",
-        "name": "Omnidex",
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq",
-        "decimals": 18,
-        "tags": [
-        ]
-      },    
       {
         "chainId": 40,
         "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
@@ -219,7 +219,7 @@
         "tags": [  
          "telosevm"         
         ]
-},
+       },
        {
         "chainId": 40,
         "address": "0x5C8F2334BD0e7B76e15a7869E31c1F1A654a2B62",
@@ -228,13 +228,24 @@
         "name": "Glue Dog",
         "decimals": 18,
         "tags": [  
-         "telosevm"         
+         "telosevm"
         ]
-      }
+        },
+        {
+        "chainId": 40,
+        "address": "0xE5dE07ec385B1BD55f6bB02c01860547be9D7C0B",
+        "symbol": "PIG",
+        "logoURI": "https://gateway.ipfs.io/ipfs/QmPThPaz3kjWaLjDAZKP8frpzaVm5Rvi5wCcUbag8QhgRL",
+        "name": "Big Pig",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"
+        ]
+        }
     ],
     "version": {
       "major": 0,
       "minor": 3,
-      "patch": 0
+      "patch": 2
     }
   }
