@@ -241,11 +241,22 @@
         "tags": [  
          "telosevm"
         ]
+        },
+        {
+        "chainId": 40,
+        "address": "0x8b377acebccf930fec65e9ccb693bdb1be3fd3c0",
+        "symbol": "PLOU",
+        "logoURI": "https://raw.githubusercontent.com/Geilogandet/token-list/cf290bf5297be0842ada7ad10f7f70bbaf718c05/Ploutus.png",
+        "name": "Ploutus",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"
+        ]
         }
     ],
     "version": {
       "major": 0,
-      "minor": 3,
+      "minor": 4,
       "patch": 2
     }
   }
