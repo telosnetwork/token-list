@@ -241,11 +241,23 @@
         "tags": [  
          "telosevm"
         ]
-        }
-    ],
+        },
+    {
+      "chainId": 40,
+      "address": "0xaf1425c81e4116264b6a6194452dcc1bb17036d2",
+      "symbol": "TGHOST",
+      "logoURI": "https://gateway.ipfs.io/ipfs/QmVhwsRupn3PTpYAsGaSjZ3fMdmGkbjkYWXfrfFqnTETrN",
+      "name": "Telos Ghost",
+      "decimals": 18,
+      "tags": [  
+       "telosevm"
+      ]
+    }
+  ],
     "version": {
       "major": 0,
       "minor": 3,
       "patch": 2
-    }
-  }
+ }
+}
+
