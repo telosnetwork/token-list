@@ -124,6 +124,16 @@
       },
       {
         "chainId": 40,
+        "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
+        "symbol": "CHARM",
+        "name": "Omnidex",
+        "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq",
+        "decimals": 18,
+        "tags": [
+        ]
+      },
+      {
+        "chainId": 40,
         "address": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
         "symbol": "ZAP",
         "name": "Zappy",
@@ -133,16 +143,6 @@
           "telosevm"
         ]
       },
-      {
-        "chainId": 40,
-        "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
-        "symbol": "CHARM",
-        "name": "Omnidex",
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq",
-        "decimals": 18,
-        "tags": [
-        ]
-      },    
       {
         "chainId": 40,
         "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
@@ -219,10 +219,10 @@
         "tags": [  
          "telosevm"         
         ]
-        },
-        {
+<<<<<
+      
         "chainId": 40,
-        "address": "0x5C8F2334BD0e7B76e15a7869E31c1F1A654a2B62",
+        ": "0x5C8F2334BD0e7B76e15a7869E31c1F1A654a2B62",
         "symbol": "DOG",
         "logoURI": "https://gateway.ipfs.io/ipfs/QmerrZ47zBxoQqkr4gfY53wvoAUqn3JXs6R6VCfE4s9nkK",
         "name": "Glue Dog",
@@ -241,11 +241,21 @@
         "tags": [  
          "telosevm"
         ]
-        }
-    ],
+
+   {
+      "chainId": 40,
+      "address": "0xaf1425c81e4116264b6a6194452dcc1bb17036d2",
+      "symbol": "TGHOST",
+      "logoURI": "https://gateway.ipfs.io/ipfs/QmVhwsRupn3PTpYAsGaSjZ3fMdmGkbjkYWXfrfFqnTETrN",
+      "name": "Telos Ghost",
+      "decimals": 18,
+      "tags": [  
+       "telosevm"
+      ]
+    }
+  ],
+
     "version": {
       "major": 0,
       "minor": 3,
       "patch": 2
-    }
-  }
