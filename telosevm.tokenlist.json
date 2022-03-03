@@ -252,7 +252,18 @@
         "tags": [  
          "telosevm"
         ]
-        }
+        },
+        {
+          "chainId": 40,
+          "address": "0x2f15F85a6c346C0a2514Af70075259e503E7137B",
+          "symbol": "DMMY",
+          "logoURI": "https://omnidex.finance/images/tokens/0x2f15F85a6c346C0a2514Af70075259e503E7137B.svg",
+          "name": "dummy☻DAO",
+          "decimals": 18,
+          "tags": [  
+           "telosevm"
+          ]
+          }
     ],
     "version": {
       "major": 0,
