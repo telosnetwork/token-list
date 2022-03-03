@@ -263,11 +263,22 @@
         "tags": [  
          "telosevm"
         ]
+        },
+        {
+        "chainId": 40,
+        "address": "0xEC0a873cdBE667E5bD68AF47932c948f872032d6",
+        "symbol": "GATe",
+        "logoURI": "https://gat.network/gat-logo-200x200.png",
+        "name": "Game Ace Token Extended",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"
+        ]
         }
     ],
     "version": {
       "major": 0,
-      "minor": 4,
+      "minor": 5,
       "patch": 2
     }
   }
