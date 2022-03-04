@@ -121,7 +121,28 @@
         "decimals": 18,
         "tags": [
         ]
-      },
+      },  
+      {
+        "chainId": 40,
+        "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c/logo.png",
+        "symbol": "DOUGE",
+        "name": "DougeCoin",
+        "decimals": 18,
+        "tags": [
+         "telosevm"   
+        ]
+      },        
+      {
+        "chainId": 40,
+        "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
+        "symbol": "CHARM",
+        "name": "Omnidex",
+        "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq",
+        "decimals": 18,
+        "tags": [
+        ]
+      },   
       {
         "chainId": 40,
         "address": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
@@ -135,66 +156,12 @@
       },
       {
         "chainId": 40,
-        "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
-        "symbol": "CHARM",
-        "name": "Omnidex",
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq",
-        "decimals": 18,
-        "tags": [
-        ]
-      },    
-      {
-        "chainId": 40,
-        "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c/logo.png",
-        "symbol": "DOUGE",
-        "name": "DougeCoin",
-        "decimals": 18,
-        "tags": [
-         "telosevm"   
-        ]
-      },
-      {
-        "chainId": 40,
-        "address": "0x47be534f78c6408b454d36e75415249ad8d10a60",
-        "symbol": "JRS",
-        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/JesseRocketTokenLogo1.png",
-        "name": "Jesse Rocket Super Coin",
-        "decimals": 18,
-        "tags": [  
-          "telosevm"
-        ]
-      },
-      {
-        "chainId": 40,
         "address": "0xcCf69d549a25d90938B3EEA0D7A2d112c971071B",
         "symbol": "TM",
         "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/TelosMemeLogo.png",
         "name": "TM Coin",
         "decimals": 18,
         "tags": [
-         "telosevm" 
-        ]
-      },
-      {
-        "chainId": 40,
-        "address": "0x03Cf39c84C7E5C514Ad4b9Aa49B04255aA0cdf87",
-        "symbol": "DLOS",
-        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/dogelosLogo.png",
-        "name": "DogeLos",
-        "decimals": 0,
-        "tags": [  
-         "telosevm" 
-        ]
-      },
-      {
-        "chainId": 40,
-        "address": "0xF5bA374CF1e85d1a44EC989c5d8A25C4eACA078E",
-        "symbol": "TFELLAS",
-        "logoURI": "https://telosfellas.com/images/tf.png",
-        "name": "TelosFellas",
-        "decimals": 9,
-        "tags": [  
          "telosevm" 
         ]
       },
@@ -233,17 +200,6 @@
         },
         {
         "chainId": 40,
-        "address": "0xE5dE07ec385B1BD55f6bB02c01860547be9D7C0B",
-        "symbol": "PIG",
-        "logoURI": "https://gateway.ipfs.io/ipfs/QmPThPaz3kjWaLjDAZKP8frpzaVm5Rvi5wCcUbag8QhgRL",
-        "name": "Big Pig",
-        "decimals": 18,
-        "tags": [  
-         "telosevm"
-        ]
-        },
-        {
-        "chainId": 40,
         "address": "0x8b377acebccf930fec65e9ccb693bdb1be3fd3c0",
         "symbol": "PLOU",
         "logoURI": "https://raw.githubusercontent.com/Geilogandet/token-list/cf290bf5297be0842ada7ad10f7f70bbaf718c05/Ploutus.png",
@@ -255,21 +211,58 @@
         },
         {
         "chainId": 40,
-        "address": "0x2f15F85a6c346C0a2514Af70075259e503E7137B",
-        "symbol": "DMMY",
-        "logoURI": "https://omnidex.finance/images/tokens/0x2f15F85a6c346C0a2514Af70075259e503E7137B.svg",
-        "name": "dummy☻DAO",
+        "address": "0x139f6E939f8778D2A301feA965d44C6881e54206",
+        "symbol": "TLC",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/tlaunch-logo-1024.PNG",
+        "name": "TLaunch Token",
         "decimals": 18,
         "tags": [  
          "telosevm"
         ]
         },
+      {
+        "chainId": 40,
+        "address": "0x47be534f78c6408b454d36e75415249ad8d10a60",
+        "symbol": "JRS",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/JesseRocketTokenLogo1.png",
+        "name": "Jesse Rocket Super Coin",
+        "decimals": 18,
+        "tags": [  
+          "telosevm",
+          "dead"
+        ]
+        },
         {
         "chainId": 40,
-        "address": "0xEC0a873cdBE667E5bD68AF47932c948f872032d6",
-        "symbol": "GATe",
-        "logoURI": "https://gat.network/gat-logo-200x200.png",
-        "name": "Game Ace Token Extended",
+        "address": "0x03Cf39c84C7E5C514Ad4b9Aa49B04255aA0cdf87",
+        "symbol": "DLOS",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/dogelosLogo.png",
+        "name": "DogeLos",
+        "decimals": 0,
+        "tags": [  
+         "telosevm",
+         "dead"
+        ]
+        },
+        
+      {
+        "chainId": 40,
+        "address": "0xF5bA374CF1e85d1a44EC989c5d8A25C4eACA078E",
+        "symbol": "TFELLAS",
+        "logoURI": "https://telosfellas.com/images/tf.png",
+        "name": "TelosFellas",
+        "decimals": 9,
+        "tags": [  
+         "telosevm",
+         "dead"
+        ]
+        },    
+        {
+        "chainId": 40,
+        "address": "0xE5dE07ec385B1BD55f6bB02c01860547be9D7C0B",
+        "symbol": "PIG",
+        "logoURI": "https://gateway.ipfs.io/ipfs/QmPThPaz3kjWaLjDAZKP8frpzaVm5Rvi5wCcUbag8QhgRL",
+        "name": "Big Pig",
         "decimals": 18,
         "tags": [  
          "telosevm"
@@ -279,6 +272,6 @@
     "version": {
       "major": 0,
       "minor": 5,
-      "patch": 2
+      "patch": 0
     }
   }
