@@ -17,9 +17,13 @@
 		"telosevm": {
 			"name": "TelosEVM Native",
 			"description": "Tokens that are native to TelosEVM."
+		},
+		"dead": {
+			"name": "Dead Tokens",
+			"description": "Token projects that have been abandoned or rugged."
 		}
 	},
-	"timestamp": "2021-11-17T00:00:00+00:00",
+	"timestamp": "2022-03-17T12:17:00+00:00",
 	"tokens": [{
 			"chainId": 40,
 			"address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
@@ -264,6 +268,6 @@
 	"version": {
 		"major": 0,
 		"minor": 5,
-		"patch": 0
+		"patch": 1
 	}
 }
