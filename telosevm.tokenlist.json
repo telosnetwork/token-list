@@ -265,7 +265,8 @@
         "name": "Big Pig",
         "decimals": 18,
         "tags": [  
-         "telosevm"
+         "telosevm",
+         "dead"
         ]
         }
     ],
