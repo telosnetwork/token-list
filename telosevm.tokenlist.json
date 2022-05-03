@@ -297,11 +297,22 @@
         "tags": [  
          "telosevm"
         ]
+        },
+        {
+        "chainId": 40,
+        "address": "0xa5E5cf79494643d509A076e3895547086f47a6F1",
+        "symbol": "TSQRL",
+        "logoURI": "https://3hlzh7.dstor.cloud/ipfs/QmbL7uYYp7sZ6URYua1RdWw6MPLR7jnZisMfLbPEhuurKw?filename=TSQRL.png",
+        "name": "T-Squirrel",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"
+        ]
         }
     ],
     "version": {
       "major": 0,
-      "minor": 5,
-      "patch": 2
+      "minor": 6,
+      "patch": 0
     }
   }
