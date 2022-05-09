@@ -296,6 +296,7 @@
         "decimals": 9,
         "tags": [  
          "telosevm"
+        ]
         },
         {
         "chainId": 40,
@@ -311,7 +312,7 @@
     ],
     "version": {
       "major": 0,
-      "minor": 6,
+      "minor": 7,
       "patch": 0
     }
   }
