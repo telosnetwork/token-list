@@ -31,6 +31,15 @@
         "tags": [
         ]
       },{
+        "chainId": 41,
+        "address": "0xaE85Bf723A9e74d6c663dd226996AC1b8d075AA9",
+        "symbol": "WTLOS",
+        "name": "Wrapped TLOS",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+        "decimals": 18,
+        "tags": [
+        ]
+      },{
         "chainId": 40,
         "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
         "symbol": "WBTC",
