@@ -317,6 +317,17 @@
         "tags": [  
          "telosevm"
         ]
+        },
+        {
+        "chainId": 40,
+        "address": "0xF549aE617a524bEC0a77f979B84E62F2928E36A0",
+        "symbol": "GVC",
+        "logoURI": "https://github.com/greenverse/GVC/blob/main/Logo.png",
+        "name": "GreenVerseToken",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"
+        ]
         }
     ],
     "version": {
