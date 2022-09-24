@@ -30,7 +30,8 @@
         "decimals": 18,
         "tags": [
         ]
-      },{
+      },
+      {
         "chainId": 41,
         "address": "0xaE85Bf723A9e74d6c663dd226996AC1b8d075AA9",
         "symbol": "WTLOS",
@@ -39,7 +40,28 @@
         "decimals": 18,
         "tags": [
         ]
-      },{
+      },
+      {
+        "chainId": 40,
+        "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
+        "symbol": "STLOS",
+        "name": "Staked TLOS",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
+        "decimals": 18,
+        "tags": [
+        ]
+      },
+      {
+        "chainId": 41,
+        "address": "0xa9991E4daA44922D00a78B6D986cDf628d46C4DD",
+        "symbol": "STLOS",
+        "name": "Staked TLOS",
+        "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
+        "decimals": 18,
+        "tags": [
+        ]
+      }, 
+      {
         "chainId": 40,
         "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
         "symbol": "WBTC",
