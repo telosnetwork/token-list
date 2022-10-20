@@ -350,11 +350,22 @@
         "tags": [  
          "telosevm"
         ]
+        },
+          {
+        "chainId": 40,
+        "address": "0xCC47EB13916a76e262b0EE48A71e3c7953091e7a",
+        "symbol": "SWAP",
+        "logoURI": "https://raw.githubusercontent.com/evm20/tokens/main/swaptoken.svg",
+        "name": "SWAP",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"
+        ]
         }
     ],
     "version": {
       "major": 0,
-      "minor": 7,
+      "minor": 8,
       "patch": 0
     }
   }
