@@ -105,11 +105,18 @@
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/FORTISCoin.png",
       "symbol": "FORT",
       "account": "fortisledger"
+    },
+    {
+      "name": "Hypha",
+      "logo_sm": "https://hypha.earth/wp-content/uploads/2022/10/hypha.png",
+      "logo_lg": "https://hypha.earth/wp-content/uploads/2022/10/hypha-lg.png",
+      "symbol": "HYPHA",
+      "account": "hypha.hypha"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
