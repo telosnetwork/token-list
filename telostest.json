@@ -1,0 +1,31 @@
+{
+  "name": "Telos Mainnet Token List",
+  "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
+  "keywords": [
+    "Telos"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "telos": {
+      "name": "Telos Native",
+      "description": "Tokens that are native to Telos."
+    }
+  },
+  "tokens": [
+    {
+      "name": "Telos",
+      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
+      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
+      "symbol": "TLOS",
+      "account": "eosio.token"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
