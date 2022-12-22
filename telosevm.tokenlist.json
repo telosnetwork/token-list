@@ -310,6 +310,15 @@
       "name": "ApeSwap Finance Banana",
       "decimals": 18,
       "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
+      "address": "0x72397e7A188EFA8e9BbBa5cBEb4a4bC92752A59a",
+      "symbol": "Y365",
+      "logoURI": "https://365year.net/images/logo.png",
+      "name": "Year 365",
+      "decimals": 18,
+      "tags": ["telosevm"]
     }
   ],
   "version": {
