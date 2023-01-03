@@ -319,7 +319,16 @@
       "name": "Year 365",
       "decimals": 18,
       "tags": ["telosevm"]
-    }
+    },
+    {
+      "chainId": 40,
+      "address": "0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5",
+      "symbol": "Arc",
+      "name": "Archly Arc",
+      "logoURI": "https://archly.fi/tokens/arc-logo.png",
+      "decimals": 18,
+      "tags": ["telosevm"]
+     }
   ],
   "version": {
     "major": 0,
