@@ -1,0 +1,401 @@
+[
+  {
+    "name": "Telos",
+    "symbol": "TLOS",
+    "account": "eosio.token",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png"
+  },
+  {
+    "name": "Qubicles",
+    "symbol": "QBE",
+    "account": "qubicletoken",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/qbe.png"
+  },
+  {
+    "name": "Beatitude",
+    "symbol": "HEART",
+    "account": "revelation21",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/beatitude.png"
+  },
+  {
+    "name": "Cards & Tokens",
+    "symbol": "CNT",
+    "account": "vapaeetokens",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/cnt.png"
+  },
+  {
+    "name": "Viitasphere Token",
+    "symbol": "VIITA",
+    "account": "viitasphere1",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/viitasphere.png"
+  },
+  {
+    "name": "VIITA Certificate Token",
+    "symbol": "VIICT",
+    "account": "viitasphere1",
+    "precision": 0,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/viitasphere.png"
+  },
+  {
+    "name": "Acorn UBI",
+    "symbol": "ACORN",
+    "account": "acornaccount",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/acorn.png"
+  },
+  {
+    "name": "Teachology",
+    "symbol": "TEACH",
+    "account": "teachology14",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/teach.png"
+  },
+  {
+    "name": "BTC (telos)",
+    "symbol": "PBTC",
+    "account": "btc.ptokens",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pbtc.png"
+  },
+  {
+    "name": "LocalScale",
+    "symbol": "LSCL",
+    "account": "token.local",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/local-scale-logo.png"
+  },
+  {
+    "name": "Proxibots",
+    "symbol": "ROBO",
+    "account": "proxibotstkn",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/proxibots.png"
+  },
+  {
+    "name": "TelosDAC",
+    "symbol": "TLOSDAC",
+    "account": "telosdacdrop",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telosdac.png"
+  },
+  {
+    "name": "WORD",
+    "symbol": "WORD",
+    "account": "wordtokeneos",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/word.png"
+  },
+  {
+    "name": "SAND",
+    "symbol": "SAND",
+    "account": "sandiegocoin",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/SANDtelosPNG1.png"
+  },
+  {
+    "name": "SQRL",
+    "symbol": "SQRL",
+    "account": "sqrlwalletio",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/sqrl.png"
+  },
+  {
+    "name": "EOSP on Telos",
+    "symbol": "EOSP",
+    "account": "steemenginex",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/EOSPonTelos2.png"
+  },
+  {
+    "name": "YENT",
+    "symbol": "YNT",
+    "account": "sesacashmain",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/sesacash-sm.png"
+  },
+  {
+    "name": "Legend",
+    "symbol": "LEGEND",
+    "account": "teloslegends",
+    "precision": 0,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/legend.png"
+  },
+  {
+    "name": "PEOPLE (Utility Token)",
+    "symbol": "PEOPLE",
+    "account": "vapaeetokens",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/PEOPLE_Token_256.png"
+  },
+  {
+    "name": "NFD nofoundation",
+    "symbol": "NFD",
+    "account": "vapaeetokens",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/NFD.png"
+  },
+  {
+    "name": "GGWP",
+    "symbol": "GGWP",
+    "account": "vapaeetokens",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/GGWP.png"
+  },
+  {
+    "name": "Telokanda",
+    "symbol": "KANDA",
+    "account": "telokandaone",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/kanda2020new2.png"
+  },
+  {
+    "name": "DDate",
+    "symbol": "DATE",
+    "account": "ddatemintone",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/DDATEratzenPNG1.png"
+  },
+  {
+    "name": "Golos",
+    "symbol": "GOLOS",
+    "account": "golosontelos",
+    "precision": 3,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/TelosGolosPurple.png"
+  },
+  {
+    "name": "ECOIN",
+    "symbol": "ECOIN",
+    "account": "ecoin1nation",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ecoin.png"
+  },
+  {
+    "name": "eZAR",
+    "symbol": "EZAR",
+    "account": "stablecoin.z",
+    "precision": 2,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ezar.png"
+  },
+  {
+    "name": "Koinonos",
+    "symbol": "KOINE",
+    "account": "vapaeetokens",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/koine.png"
+  },
+  {
+    "name": "EuroT",
+    "symbol": "EUROT",
+    "account": "vapaeetokens",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eurot.png"
+  },
+  {
+    "name": "Tips",
+    "symbol": "TIPS",
+    "account": "vapaeetokens",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/tips.png"
+  },
+  {
+    "name": "DiversE",
+    "symbol": "DIVERSE",
+    "account": "vapaeetokens",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/diverse.png"
+  },
+  {
+    "name": "Crypto Mulita",
+    "symbol": "MULITA",
+    "account": "vapaeetokens",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/mulita.png"
+  },
+  {
+    "name": "Vapaée",
+    "symbol": "VPE",
+    "account": "vapaeetokens",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/vapaee.png"
+  },
+  {
+    "name": "Liquid REX",
+    "symbol": "REX",
+    "account": "vapaeetokens",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/rex.png"
+  },
+  {
+    "name": "Vapaée DEX main currency",
+    "symbol": "DEX",
+    "account": "vapaeetokens",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/dex-token.png"
+  },
+  {
+    "name": "Telos SWAP",
+    "symbol": "SWAP",
+    "account": "swap.swaps",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/SWAP.png"
+  },
+  {
+    "name": "TelosUSD TLOSD",
+    "symbol": "TLOSD",
+    "account": "tokens.swaps",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/TLOSD.png"
+  },
+  {
+    "name": "ETH (telos)",
+    "symbol": "PETH",
+    "account": "eth.ptokens",
+    "precision": 9,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/peth.png"
+  },
+  {
+    "name": "PNT (telos)",
+    "symbol": "PNT",
+    "account": "pnt.ptokens",
+    "precision": 9,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pnt.png"
+  },
+  {
+    "name": "LINK (telos)",
+    "symbol": "PLINK",
+    "account": "link.ptokens",
+    "precision": 9,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/plink.png"
+  },
+  {
+    "name": "START",
+    "symbol": "START",
+    "account": "token.start",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/START.png"
+  },
+  {
+    "name": "Daric",
+    "symbol": "DRIC",
+    "account": "persiandaric",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/DRIC.png"
+  },
+  {
+    "name": "The COOL Token",
+    "symbol": "COOL",
+    "account": "thecooltoken",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/COOL.png"
+  },
+  {
+    "name": "San Diego City (telos)",
+    "symbol": "SAND",
+    "account": "sandiegocoin",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/city-seal-Blue-and-Gold-small-300x300.png"
+  },
+  {
+    "name": "TASK",
+    "symbol": "TASK",
+    "account": "telostaskapp",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/TASK.png"
+  },
+  {
+    "name": "Tether (telos)",
+    "symbol": "USDT",
+    "account": "tokens.swaps",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/USDT.png"
+  },
+  {
+    "name": "EOSDT (telos)",
+    "symbol": "EOSDT",
+    "account": "tokens.swaps",
+    "precision": 9,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/EOSDT.png"
+  },
+  {
+    "name": "PUSDT (telos)",
+    "symbol": "PUSDT",
+    "account": "usdt.ptokens",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pUSDT.png"
+  },
+  {
+    "name": "PUSDC (telos)",
+    "symbol": "PUSDC",
+    "account": "usdc.ptokens",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pUSDC.png"
+  },
+  {
+    "name": "TLOSM (telos)",
+    "symbol": "TLOSM",
+    "account": "tokens.swaps",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/TLOSM.png"
+  },
+  {
+    "name": "EOS (telos)",
+    "symbol": "EOS",
+    "account": "tokens.swaps",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eos.png"
+  },
+  {
+    "name": "SEEDS",
+    "symbol": "SEEDS",
+    "account": "token.seeds",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/SEEDS.png"
+  },
+  {
+    "name": "BNT (telos)",
+    "symbol": "BNT",
+    "account": "tokens.swaps",
+    "precision": 10,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/bancor.png"
+  },
+  {
+    "name": "GEM",
+    "symbol": "GEM",
+    "account": "lord",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/GEM.png"
+  },
+  {
+    "name": "EGEM",
+    "symbol": "EGEM",
+    "account": "tokens.swaps",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/GEM.png"
+  },
+  {
+    "name": "HyphaDAO HUSD",
+    "symbol": "HUSD",
+    "account": "husd.hypha",
+    "precision": 2,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/HUSD.png"
+  },
+  {
+    "name": "HyphaDAO HVOICE",
+    "symbol": "HVOICE",
+    "account": "voice.hypha",
+    "precision": 2,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/placeholder.png"
+  },
+  {
+    "name": "LocalScale",
+    "symbol": "LSCL",
+    "account": "token.local",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/LSCL.png"
+  }
+]
