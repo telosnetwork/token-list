@@ -20,105 +20,105 @@
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
       "symbol": "TLOS",
-      "contract": "eosio.token"
+      "account": "eosio.token"
     },
     {
       "name": "pTokens BTC",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pbtc.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pbtc-lg.png",
       "symbol": "PBTC",
-      "contract": "btc.ptokens"
+      "account": "btc.ptokens"
     },
     {
       "name": "pTokens ETH",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/peth.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/peth-lg.png",
       "symbol": "PETH",
-      "contract": "eth.ptokens"
+      "account": "eth.ptokens"
     },
     {
       "name": "pTokens LINK",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/plink.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/plink-lg.png",
       "symbol": "PLINK",
-      "contract": "link.ptokens"
+      "account": "link.ptokens"
     },
     {
       "name": "pTokens USDT",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pusdt.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pusdt-lg.png",
       "symbol": "PUSDT",
-      "contract": "usdt.ptokens"
+      "account": "usdt.ptokens"
     },
     {
       "name": "pTokens USDC",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pusdc.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pusdc-lg.png",
       "symbol": "PUSDC",
-      "contract": "usdc.ptokens"
+      "account": "usdc.ptokens"
     },
     {
       "name": "pNetwork Token",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pnt.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pnt-lg.png",
       "symbol": "PNT",
-      "contract": "pnt.ptokens"
+      "account": "pnt.ptokens"
     },
     {
       "name": "Seeds",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/seeds.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/seeds-lg.png",
       "symbol": "SEEDS",
-      "contract": "token.seeds"
+      "account": "token.seeds"
     },
     {
       "name": "Destiny Coin Telos",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/DECO.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/DECO.png",
       "symbol": "DECO",
-      "contract": "destinytoken"
+      "account": "destinytoken"
     },
     {
       "name": "T-Starter START",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/start-lg.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/start.png",
       "symbol": "START",
-      "contract": "token.start"
+      "account": "token.start"
     },
     {
       "name": "T-Swaps SWAP",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/swap-lg.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/swap.png",
       "symbol": "SWAP",
-      "contract": "swap.swaps"
+      "account": "swap.swaps"
     },
     {
       "name": "Telos Dollar",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/tlosd-lg.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/tlosd.png",
       "symbol": "TLOSD",
-      "contract": "tokens.swaps"
+      "account": "tokens.swaps"
     },
     {
       "name": "Fortis",
       "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/FORTISCoin.png",
       "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/FORTISCoin.png",
       "symbol": "FORT",
-      "contract": "fortisledger"
+      "account": "fortisledger"
     },
     {
       "name": "Hypha",
       "logo_sm": "https://hypha.earth/wp-content/uploads/2022/10/hypha.png",
       "logo_lg": "https://hypha.earth/wp-content/uploads/2022/10/hypha-lg.png",
       "symbol": "HYPHA",
-      "contract": "hypha.hypha"
+      "account": "hypha.hypha"
     },
     {
       "name": "Boid.com",
       "logo_sm": "https://ipfs.animus.is/ipfs/QmPG6CL6QQA17uUFSbwE4QUHeneqzVy5K8SRryK9teu27p?filename=token-logo.png",
       "logo_lg": "https://ipfs.animus.is/ipfs/QmXA1UmJNTSzsukDdGsRYqfxYTzpEPovQ96DG3MNsZSiUr?filename=token-logo-sm.png",
       "symbol": "BOID",
-      "contract": "token.boid"
+      "account": "token.boid"
     }
   ],
   "version": {
