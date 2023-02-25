@@ -2,56 +2,56 @@
   {
     "name": "KARMA",
     "symbol": "KARMA",
-    "account": "theonlykarma",
+    "contract": "theonlykarma",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/karma-wax.png"
   },
   {
     "name": "GPK 30 Cards",
     "symbol": "GPKMEGA",
-    "account": "packs.topps",
+    "contract": "packs.topps",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/gpk.png"
   },
   {
     "name": "GPK 5 Cards",
     "symbol": "GPKFIVE",
-    "account": "packs.topps",
+    "contract": "packs.topps",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/gpk.png"
   },
   {
     "name": "Prospectors",
     "symbol": "PGL",
-    "account": "prospectorsw",
+    "contract": "prospectorsw",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pgl.png"
   },
   {
     "name": "PINK (old)",
     "symbol": "PINK",
-    "account": "pinknettoken",
+    "contract": "pinknettoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pink-old_144.png"
   },
   {
     "name": "WAX",
     "symbol": "WAX",
-    "account": "eosio.token",
+    "contract": "eosio.token",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/wax.png"
   },
   {
     "name": "R-Planet",
     "symbol": "AETHER",
-    "account": "e.rplanet",
+    "contract": "e.rplanet",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/aether.png"
   },
   {
     "name": "Tribal Books",
     "symbol": "MANA",
-    "account": "tribalbooksm",
+    "contract": "tribalbooksm",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/mana.png"
   }

@@ -2,1582 +2,1582 @@
   {
     "name": "Sugar",
     "symbol": "SUGARA",
-    "account": "sugartokensa",
+    "contract": "sugartokensa",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/SUGARA.png"
   },
   {
     "name": "Sugar",
     "symbol": "SUGAR",
-    "account": "sugartokensb",
+    "contract": "sugartokensb",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/SUGAR.png"
   },
   {
     "name": "FINTEH",
     "symbol": "FINTEH",
-    "account": "fintehdeploy",
+    "contract": "fintehdeploy",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/finteh_plane.png"
   },
   {
     "name": "PUML Better Health",
     "symbol": "PUML",
-    "account": "pumlhealthio",
+    "contract": "pumlhealthio",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/PUML.png"
   },
   {
     "name": "AMZCoin",
     "symbol": "AMZ",
-    "account": "amzcoinvault",
+    "contract": "amzcoinvault",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/amzcoinvault.png"
   },
   {
     "name": "OBTC",
     "symbol": "OBTC",
-    "account": "core.ogx",
+    "contract": "core.ogx",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-OBTC.png"
   },
   {
     "name": "ODOT",
     "symbol": "ODOT",
-    "account": "core.ogx",
+    "contract": "core.ogx",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-ODOT.png"
   },
   {
     "name": "OEOS",
     "symbol": "OEOS",
-    "account": "core.ogx",
+    "contract": "core.ogx",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-OEOS.png"
   },
   {
     "name": "OETH",
     "symbol": "OETH",
-    "account": "core.ogx",
+    "contract": "core.ogx",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-OETH.png"
   },
   {
     "name": "OUSD",
     "symbol": "OUSD",
-    "account": "core.ogx",
+    "contract": "core.ogx",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-OUSD.png"
   },
   {
     "name": "OTRX",
     "symbol": "OTRX",
-    "account": "core.ogx",
+    "contract": "core.ogx",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-OTRX.png"
   },
   {
     "name": "OneTimeUtility",
     "symbol": "OTU",
-    "account": "onetimeutil1",
+    "contract": "onetimeutil1",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/OTU.png"
   },
   {
     "name": "SaveTheEarth",
     "symbol": "STE",
-    "account": "savethearth1",
+    "contract": "savethearth1",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/STE.png"
   },
   {
     "name": "ER",
     "symbol": "ER",
-    "account": "eosreeltoken",
+    "contract": "eosreeltoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosreeltoken-er.png"
   },
   {
     "name": "Consortium",
     "symbol": "GOVRN",
-    "account": "consortiumlv",
+    "contract": "consortiumlv",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/consortium.png"
   },
   {
     "name": "Metal Packaging Token",
     "symbol": "MPT",
-    "account": "metpacktoken",
+    "contract": "metpacktoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/metpacktoken-mpt.png"
   },
   {
     "name": "EXE",
     "symbol": "EXE",
-    "account": "isoftpartner",
+    "contract": "isoftpartner",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/8x8_symbol.png"
   },
   {
     "name": "VIG",
     "symbol": "VIG",
-    "account": "vig111111111",
+    "contract": "vig111111111",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/VIG.png"
   },
   {
     "name": "VIGOR",
     "symbol": "VIGOR",
-    "account": "vigortoken11",
+    "contract": "vigortoken11",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/VIGOR.png"
   },
   {
     "name": "UPD",
     "symbol": "UPD",
-    "account": "updtokenacct",
+    "contract": "updtokenacct",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/upd-symbol-icon.png"
   },
   {
     "name": "AdderalCoin",
     "symbol": "ADD",
-    "account": "eosadddddddd",
+    "contract": "eosadddddddd",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "CADEOS.io",
     "symbol": "ADE",
-    "account": "cadeositoken",
+    "contract": "cadeositoken",
     "precision": 6,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ADE-logo-225x225.jpg"
   },
   {
     "name": "EOSNOW",
     "symbol": "ANTE",
-    "account": "eosnowbpower",
+    "contract": "eosnowbpower",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosnow.png"
   },
   {
     "name": "ANOX",
     "symbol": "ANX",
-    "account": "anoxanoxanox",
+    "contract": "anoxanoxanox",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/anx-sm.png"
   },
   {
     "name": "APPICS",
     "symbol": "APX",
-    "account": "appicsappics",
+    "contract": "appicsappics",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/appicsappics-apx.png"
   },
   {
     "name": "Atidium",
     "symbol": "ATD",
-    "account": "eosatidiumio",
+    "contract": "eosatidiumio",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/atidium.jpg"
   },
   {
     "name": "ATMOS",
     "symbol": "ATMOS",
-    "account": "novusphereio",
+    "contract": "novusphereio",
     "precision": 3,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/atmos.png"
   },
   {
     "name": "Banker.Bet",
     "symbol": "BBC",
-    "account": "bbctokencode",
+    "contract": "bbctokencode",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/BBC.png"
   },
   {
     "name": "BEAN",
     "symbol": "BEAN",
-    "account": "thebeantoken",
+    "contract": "thebeantoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bean.png"
   },
   {
     "name": "BOX",
     "symbol": "BOX",
-    "account": "token.defi",
+    "contract": "token.defi",
     "precision": 6,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/token.defi-box.png"
   },
   {
     "name": "BigGame",
     "symbol": "BG",
-    "account": "bgbgbgbgbgbg",
+    "contract": "bgbgbgbgbgbg",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bg.png"
   },
   {
     "name": "EOS BET",
     "symbol": "BET",
-    "account": "betdividends",
+    "contract": "betdividends",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosbet.png"
   },
   {
     "name": "BetKing.io",
     "symbol": "BKT",
-    "account": "betkingtoken",
+    "contract": "betkingtoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/betking.png"
   },
   {
     "name": "eosBLACK",
     "symbol": "BLACK",
-    "account": "eosblackteam",
+    "contract": "eosblackteam",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosblack.png"
   },
   {
     "name": "God.finance",
     "symbol": "BLESS",
-    "account": "godoffinance",
+    "contract": "godoffinance",
     "precision": 12,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bless.png"
   },
   {
     "name": "BNT",
     "symbol": "BNT",
-    "account": "bntbntbntbnt",
+    "contract": "bntbntbntbnt",
     "precision": 10,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bancor.png"
   },
   {
     "name": "BNTEOS",
     "symbol": "BNTEOS",
-    "account": "bnt2eosrelay",
+    "contract": "bnt2eosrelay",
     "precision": 10,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bnteos.png"
   },
   {
     "name": "BNTUSDT",
     "symbol": "BNTUSDT",
-    "account": "bancorr11232",
+    "contract": "bancorr11232",
     "precision": 10,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bntusdt.jpeg"
   },
   {
     "name": "ETHBNT",
     "symbol": "ETHBNT",
-    "account": "ethbntethbnt",
+    "contract": "ethbntethbnt",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ethbnt.jpeg"
   },
   {
     "name": "BOID",
     "symbol": "BOID",
-    "account": "boidcomtoken",
+    "contract": "boidcomtoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/boidlogo.png"
   },
   {
     "name": "BOS",
     "symbol": "BOS",
-    "account": "bosibc.io",
+    "contract": "bosibc.io",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bos.png"
   },
   {
     "name": "The EOS Button",
     "symbol": "BTN",
-    "account": "eosbuttonbtn",
+    "contract": "eosbuttonbtn",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "CARMEL",
     "symbol": "CARMEL",
-    "account": "carmeltokens",
+    "contract": "carmeltokens",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/carmel.png"
   },
   {
     "name": "Chaince",
     "symbol": "CET",
-    "account": "eosiochaince",
+    "contract": "eosiochaince",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/chaince.jpg"
   },
   {
     "name": "Chintai",
     "symbol": "CHEX",
-    "account": "chexchexchex",
+    "contract": "chexchexchex",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/chintai-chex.png"
   },
   {
     "name": "Challenge DAC",
     "symbol": "CHL",
-    "account": "challengedac",
+    "contract": "challengedac",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/CHLnewPNG500.png"
   },
   {
     "name": "Carbon",
     "symbol": "CUSD",
-    "account": "stablecarbon",
+    "contract": "stablecarbon",
     "precision": 2,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/carbonlogo-64.png"
   },
   {
     "name": "DAPP Network",
     "symbol": "DAPP",
-    "account": "dappservices",
+    "contract": "dappservices",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dapp.png"
   },
   {
     "name": "DAI",
     "symbol": "DAI",
-    "account": "etherctokens",
+    "contract": "etherctokens",
     "precision": 6,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dai.png"
   },
   {
     "name": "DEOS Games",
     "symbol": "DEOS",
-    "account": "thedeosgames",
+    "contract": "thedeosgames",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/deosgames.png"
   },
   {
     "name": "DeFind",
     "symbol": "DEFI",
-    "account": "defind.io",
+    "contract": "defind.io",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/defi.png"
   },
   {
     "name": "Down Coin",
     "symbol": "DOWN",
-    "account": "elliottkelly",
+    "contract": "elliottkelly",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/downcoinlogo.png"
   },
   {
     "name": "DICE",
     "symbol": "DICE",
-    "account": "betdicetoken",
+    "contract": "betdicetoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dice.png"
   },
   {
     "name": "Dig Coin",
     "symbol": "DIG",
-    "account": "digcoinsmine",
+    "contract": "digcoinsmine",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dig.png"
   },
   {
     "name": "Dragon Option",
     "symbol": "DRAGON",
-    "account": "eosdragontkn",
+    "contract": "eosdragontkn",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dragon.png"
   },
   {
     "name": "DS",
     "symbol": "DS",
-    "account": "dsdsdsdsdsds",
+    "contract": "dsdsdsdsdsds",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/DS.png"
   },
   {
     "name": "Ecoin",
     "symbol": "ECOIN",
-    "account": "ecointoken12",
+    "contract": "ecointoken12",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ecoin.png"
   },
   {
     "name": "EOS AUCTION PLATFORM",
     "symbol": "EAP",
-    "account": "eosauctionpt",
+    "contract": "eosauctionpt",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eap.png"
   },
   {
     "name": "EBTC",
     "symbol": "EBTC",
-    "account": "bitpietokens",
+    "contract": "bitpietokens",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bitpietokens-ebtc.png"
   },
   {
     "name": "eosCASH",
     "symbol": "ECASH",
-    "account": "horustokenio",
+    "contract": "horustokenio",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ECASH.png"
   },
   {
     "name": "EETH",
     "symbol": "EETH",
-    "account": "ethsidechain",
+    "contract": "ethsidechain",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "EETH",
     "symbol": "EETH",
-    "account": "bitpietokens",
+    "contract": "bitpietokens",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "Effect.AI",
     "symbol": "EFX",
-    "account": "effecttokens",
+    "contract": "effecttokens",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/efx.png"
   },
   {
     "name": "Emanate MNX",
     "symbol": "MNX",
-    "account": "emanatenekot",
+    "contract": "emanatenekot",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/emanate-mnx.png"
   },
   {
     "name": "Emanate",
     "symbol": "EMT",
-    "account": "emanateoneos",
+    "contract": "emanateoneos",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/emanate.png"
   },
   {
     "name": "eosDAC",
     "symbol": "EOSDAC",
-    "account": "eosdactokens",
+    "contract": "eosdactokens",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosdac.jpg"
   },
   {
     "name": "EOSN",
     "symbol": "EOSN",
-    "account": "eosnationinc",
+    "contract": "eosnationinc",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosn.jpg"
   },
   {
     "name": "EOSDT",
     "symbol": "EOSDT",
-    "account": "eosdtsttoken",
+    "contract": "eosdtsttoken",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosdt.png"
   },
   {
     "name": "EOX Commerce",
     "symbol": "EOX",
-    "account": "eoxeoxeoxeox",
+    "contract": "eoxeoxeoxeox",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eoxcommerce.png"
   },
   {
     "name": "ERO",
     "symbol": "ERO",
-    "account": "eoslandadmin",
+    "contract": "eoslandadmin",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ero.png"
   },
   {
     "name": "EOSLAND RARE ORE",
     "symbol": "ERO",
-    "account": "eoslandadmin",
+    "contract": "eoslandadmin",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ero.png"
   },
   {
     "name": "Europechain",
     "symbol": "XEC",
-    "account": "europe.chain",
+    "contract": "europe.chain",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/europechain.png"
   },
   {
     "name": "EUSD",
     "symbol": "EUSD",
-    "account": "bitpietokens",
+    "contract": "bitpietokens",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "FairEOS",
     "symbol": "FAIR",
-    "account": "faireostoken",
+    "contract": "faireostoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/fair.jpg"
   },
   {
     "name": "FastWin",
     "symbol": "FAST",
-    "account": "fastecoadmin",
+    "contract": "fastecoadmin",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/fast.png"
   },
   {
     "name": "Horus Pay",
     "symbol": "HORUS",
-    "account": "horustokenio",
+    "contract": "horustokenio",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/horuspay.jpg"
   },
   {
     "name": "HASHFUN",
     "symbol": "HFC",
-    "account": "hashfuncoins",
+    "contract": "hashfuncoins",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/HFC.png"
   },
   {
     "name": "HireVibes",
     "symbol": "HVT",
-    "account": "hirevibeshvt",
+    "contract": "hirevibeshvt",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/hvt.png"
   },
   {
     "name": "eHUB",
     "symbol": "HUB",
-    "account": "eoshubtokens",
+    "contract": "eoshubtokens",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/hub.png"
   },
   {
     "name": "Infinicoin",
     "symbol": "INF",
-    "account": "infinicoinio",
+    "contract": "infinicoinio",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/infiniverse.png"
   },
   {
     "name": "IPOS",
     "symbol": "IPOS",
-    "account": "oo1122334455",
+    "contract": "oo1122334455",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "Everipedia",
     "symbol": "IQ",
-    "account": "everipediaiq",
+    "contract": "everipediaiq",
     "precision": 3,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/everipedia.jpg"
   },
   {
     "name": "EOSJacks",
     "symbol": "JKR",
-    "account": "eosjackscoin",
+    "contract": "eosjackscoin",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosjacks.png"
   },
   {
     "name": "KARMA",
     "symbol": "KARMA",
-    "account": "therealkarma",
+    "contract": "therealkarma",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/karma.png"
   },
   {
     "name": "KEOS",
     "symbol": "KEOS",
-    "account": "keoskorea111",
+    "contract": "keoskorea111",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "KROWN",
     "symbol": "KROWN",
-    "account": "krowndactokn",
+    "contract": "krowndactokn",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/KROWN.png"
   },
   {
     "name": "LED",
     "symbol": "LED",
-    "account": "okkkkkkkkkkk",
+    "contract": "okkkkkkkkkkk",
     "precision": 6,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/led.png"
   },
   {
     "name": "LICC",
     "symbol": "LICC",
-    "account": "liccommunity",
+    "contract": "liccommunity",
     "precision": 3,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/licc.png"
   },
   {
     "name": "LuckyGo",
     "symbol": "LKG",
-    "account": "luckygotoken",
+    "contract": "luckygotoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lkg.jpg"
   },
   {
     "name": "Lelego",
     "symbol": "LLG",
-    "account": "llgonebtotal",
+    "contract": "llgonebtotal",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lelego.png"
   },
   {
     "name": "LUCKY",
     "symbol": "LUCKY",
-    "account": "eoslucktoken",
+    "contract": "eoslucktoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "Lumeos",
     "symbol": "LUME",
-    "account": "lumetokenctr",
+    "contract": "lumetokenctr",
     "precision": 3,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lumeos.png"
   },
   {
     "name": "LYNX",
     "symbol": "LYNX",
-    "account": "worktokenbvi",
+    "contract": "worktokenbvi",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/worktokenbviLYNX.png"
   },
   {
     "name": "dmail",
     "symbol": "MAIL",
-    "account": "d.mail",
+    "contract": "d.mail",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dmail.png"
   },
   {
     "name": "MAX",
     "symbol": "MAX",
-    "account": "eosmax1token",
+    "contract": "eosmax1token",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "MEET.ONE",
     "symbol": "MEETONE",
-    "account": "eosiomeetone",
+    "contract": "eosiomeetone",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/meetone.jpg"
   },
   {
     "name": "Rexnet",
     "symbol": "REXNET",
-    "account": "tokensfather",
+    "contract": "tokensfather",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/rexnet.png"
   },
   {
     "name": "Royal Online Vegas",
     "symbol": "MEV",
-    "account": "eosvegascoin",
+    "contract": "eosvegascoin",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/mev.jpg"
   },
   {
     "name": "MORTYS",
     "symbol": "MORTYS",
-    "account": "mrpoopybutt1",
+    "contract": "mrpoopybutt1",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/mortys.png"
   },
   {
     "name": "Effect Network",
     "symbol": "NFX",
-    "account": "effecttokens",
+    "contract": "effecttokens",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/nfx.png"
   },
   {
     "name": "NDX",
     "symbol": "NDX",
-    "account": "newdexissuer",
+    "contract": "newdexissuer",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ndx.png"
   },
   {
     "name": "Oracle Chain",
     "symbol": "OCT",
-    "account": "octtothemoon",
+    "contract": "octtothemoon",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/oraclechain.png"
   },
   {
     "name": "PAY",
     "symbol": "PAY",
-    "account": "fastecoadmin",
+    "contract": "fastecoadmin",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pay.png"
   },
   {
     "name": "PEOS",
     "symbol": "PEOS",
-    "account": "thepeostoken",
+    "contract": "thepeostoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/peos.png"
   },
   {
     "name": "PHOTON",
     "symbol": "PHOTON",
-    "account": "holongwealth",
+    "contract": "holongwealth",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/holon.png"
   },
   {
     "name": "pixEOS",
     "symbol": "PIXEOS",
-    "account": "pixeos1token",
+    "contract": "pixeos1token",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pixeos.png"
   },
   {
     "name": "PIZZA",
     "symbol": "PIZZA",
-    "account": "pizzatotoken",
+    "contract": "pizzatotoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/PIZZA.png"
   },
   {
     "name": "EOS Poker",
     "symbol": "POKER",
-    "account": "eospokercoin",
+    "contract": "eospokercoin",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/poker.jpg"
   },
   {
     "name": "Poorman Token",
     "symbol": "POOR",
-    "account": "poormantoken",
+    "contract": "poormantoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/poorman.png"
   },
   {
     "name": "Prospectors",
     "symbol": "PGL",
-    "account": "prospectorsg",
+    "contract": "prospectorsg",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pgl.png"
   },
   {
     "name": "Starteos Pool",
     "symbol": "POOL",
-    "account": "stpool.eos",
+    "contract": "stpool.eos",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pool.png"
   },
   {
     "name": "USDT/USN Curve.SX LP",
     "symbol": "SXA",
-    "account": "lptoken.sx",
+    "contract": "lptoken.sx",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lptoken.sx-sxa.png"
   },
   {
     "name": "EOS Vaults.SX",
     "symbol": "SXEOS",
-    "account": "token.sx",
+    "contract": "token.sx",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sx.png"
   },
   {
     "name": "USDT Vaults.SX",
     "symbol": "SXUSDT",
-    "account": "token.sx",
+    "contract": "token.sx",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sx.png"
   },
   {
     "name": "CPU Push.SX",
     "symbol": "SXCPU",
-    "account": "token.sx",
+    "contract": "token.sx",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sx.png"
   },
   {
     "name": "Carrot",
     "symbol": "CRT",
-    "account": "carrotstoken",
+    "contract": "carrotstoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/crt.png"
   },
   {
     "name": "Crypto Peso",
     "symbol": "PSO",
-    "account": "cryptopesosc",
+    "contract": "cryptopesosc",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/cryptopeso.png"
   },
   {
     "name": "PUBLYTO",
     "symbol": "PUB",
-    "account": "publytoken11",
+    "contract": "publytoken11",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pub.png"
   },
   {
     "name": "CryptoPIX PXS",
     "symbol": "PXS",
-    "account": "pxstokensapp",
+    "contract": "pxstokensapp",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pixels.jpeg"
   },
   {
     "name": "RAMtoken",
     "symbol": "RAM",
-    "account": "ramtokenmoon",
+    "contract": "ramtokenmoon",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ramtoken.png"
   },
   {
     "name": "RCX",
     "symbol": "RCX",
-    "account": "boatwingtkio",
+    "contract": "boatwingtkio",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/rcx.png"
   },
   {
     "name": "RIDL",
     "symbol": "RIDL",
-    "account": "ridlridlcoin",
+    "contract": "ridlridlcoin",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ridl.png"
   },
   {
     "name": "Rocket Battles",
     "symbol": "ROCKET",
-    "account": "rocketbattle",
+    "contract": "rocketbattle",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/rocketbattle.png"
   },
   {
     "name": "ROJI",
     "symbol": "ROJI",
-    "account": "rojirojiroji",
+    "contract": "rojirojiroji",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/roji.png"
   },
   {
     "name": "ROM",
     "symbol": "ROM",
-    "account": "issue.rom",
+    "contract": "issue.rom",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.rom-rom.png"
   },
   {
     "name": "Road Of Rich",
     "symbol": "ROR",
-    "account": "roadofrichio",
+    "contract": "roadofrichio",
     "precision": 6,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ror.png"
   },
   {
     "name": "Real World Coupon",
     "symbol": "RWC",
-    "account": "realworldcpn",
+    "contract": "realworldcpn",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/rwc.png"
   },
   {
     "name": "Parsl Seed",
     "symbol": "SEED",
-    "account": "parslseed123",
+    "contract": "parslseed123",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/seed.png"
   },
   {
     "name": "Sense",
     "symbol": "SENSE",
-    "account": "sensegenesis",
+    "contract": "sensegenesis",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sense.png"
   },
   {
     "name": "Sprtshubcoin",
     "symbol": "SHC",
-    "account": "sprtshubcoin",
+    "contract": "sprtshubcoin",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sprtshubcoin.png"
   },
   {
     "name": "SOLIT",
     "symbol": "SLT",
-    "account": "nblabtokenss",
+    "contract": "nblabtokenss",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/solit.png"
   },
   {
     "name": "SOV",
     "symbol": "SOV",
-    "account": "sovmintofeos",
+    "contract": "sovmintofeos",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sov.png"
   },
   {
     "name": "eoseven",
     "symbol": "SVN",
-    "account": "eoseventoken",
+    "contract": "eoseventoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "TRUST",
     "symbol": "TXT",
-    "account": "trusteamwins",
+    "contract": "trusteamwins",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/txt.png"
   },
   {
     "name": "EOS",
     "symbol": "EOS",
-    "account": "eosio.token",
+    "contract": "eosio.token",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eos.png"
   },
   {
     "name": "TOOKTOOK",
     "symbol": "TOOK",
-    "account": "taketooktook",
+    "contract": "taketooktook",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/took.jpg"
   },
   {
     "name": "TokenPocket",
     "symbol": "TPT",
-    "account": "eosiotptoken",
+    "contract": "eosiotptoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/tpt.png"
   },
   {
     "name": "TREOS Origin",
     "symbol": "TRO",
-    "account": "mytreosworld",
+    "contract": "mytreosworld",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/tro_256.png"
   },
   {
     "name": "TRYBE",
     "symbol": "TRYBE",
-    "account": "trybenetwork",
+    "contract": "trybenetwork",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/trybe.png"
   },
   {
     "name": "USDB",
     "symbol": "USDB",
-    "account": "usdbusdbusdb",
+    "contract": "usdbusdbusdb",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/usdb.png"
   },
   {
     "name": "USDE",
     "symbol": "USDE",
-    "account": "usdetotokens",
+    "contract": "usdetotokens",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/usdetotokens-usde.png"
   },
   {
     "name": "USDT",
     "symbol": "USDT",
-    "account": "tethertether",
+    "contract": "tethertether",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/USDT.png"
   },
   {
     "name": "USDT",
     "symbol": "USDT",
-    "account": "tokens.wal",
+    "contract": "tokens.wal",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/USDT.png"
   },
   {
     "name": "USN",
     "symbol": "USN",
-    "account": "danchortoken",
+    "contract": "danchortoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/usn.png"
   },
   {
     "name": "WhaleEx",
     "symbol": "WAL",
-    "account": "whaleextoken",
+    "contract": "whaleextoken",
     "precision": 3,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/whaleex.png"
   },
   {
     "name": "Green Light Planet",
     "symbol": "GL",
-    "account": "token.gl",
+    "contract": "token.gl",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/gl.png"
   },
   {
     "name": "Gamblr",
     "symbol": "GAMBLR",
-    "account": "gamblrtokens",
+    "contract": "gamblrtokens",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/gamblr.png"
   },
   {
     "name": "WRK",
     "symbol": "WRK",
-    "account": "worktokenbvi",
+    "contract": "worktokenbvi",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/worktokenbviWRK.png"
   },
   {
     "name": "Billionaire Token",
     "symbol": "XBL",
-    "account": "billionairet",
+    "contract": "billionairet",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/billionaire.png"
   },
   {
     "name": "ZKS",
     "symbol": "ZKS",
-    "account": "zkstokensr4u",
+    "contract": "zkstokensr4u",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/zks.png"
   },
   {
     "name": "MyCryptoVegas Token",
     "symbol": "CTS",
-    "account": "cryptovgscts",
+    "contract": "cryptovgscts",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/cts.png"
   },
   {
     "name": "WORD",
     "symbol": "WORD",
-    "account": "wordtokeneos",
+    "contract": "wordtokeneos",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/word.png"
   },
   {
     "name": "Yakee chain",
     "symbol": "YKC",
-    "account": "okkkkkkkkkkk",
+    "contract": "okkkkkkkkkkk",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/YKC.png"
   },
   {
     "name": "NUT",
     "symbol": "NUT",
-    "account": "eosdtnutoken",
+    "contract": "eosdtnutoken",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/nut_225x225.png"
   },
   {
     "name": "San Diego City (eos)",
     "symbol": "SAND",
-    "account": "sandiegocoin",
+    "contract": "sandiegocoin",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/city-seal-Blue-and-Gold-small-300x300.png"
   },
   {
     "name": "POW",
     "symbol": "POW",
-    "account": "powhcontract",
+    "contract": "powhcontract",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pow.png"
   },
   {
     "name": "POWX",
     "symbol": "POWX",
-    "account": "powxtokenpow",
+    "contract": "powxtokenpow",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/powx.png"
   },
   {
     "name": "GoldenChip",
     "symbol": "GCHIP",
-    "account": "goldenchipio",
+    "contract": "goldenchipio",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/goldenchip.png"
   },
   {
     "name": "One Thousand Coin",
     "symbol": "OTC",
-    "account": "thousandcoin",
+    "contract": "thousandcoin",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/OTCeoslogo1.png"
   },
   {
     "name": "STEEMP on EOS",
     "symbol": "STEEMP",
-    "account": "steemoneosio",
+    "contract": "steemoneosio",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/EOSSTEEMpFULLres-527x504.png"
   },
   {
     "name": "WEEDCASH",
     "symbol": "WEED",
-    "account": "weedcashntwk",
+    "contract": "weedcashntwk",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/weedcashnew1SteemEOSlogos1png.png"
   },
   {
     "name": "TLOSP on EOS",
     "symbol": "TLOSP",
-    "account": "steemenginex",
+    "contract": "steemenginex",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/TLOSPonEOS.png"
   },
   {
     "name": "EIDOS",
     "symbol": "EIDOS",
-    "account": "eidosonecoin",
+    "contract": "eidosonecoin",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eidos.png"
   },
   {
     "name": "YAS Network",
     "symbol": "YAS",
-    "account": "yastokencode",
+    "contract": "yastokencode",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/yas.png"
   },
   {
     "name": "MARF",
     "symbol": "MARF",
-    "account": "themarftoken",
+    "contract": "themarftoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/MARF.png"
   },
   {
     "name": "BTCP on EOS",
     "symbol": "BTCP",
-    "account": "steemenginex",
+    "contract": "steemenginex",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/EOSBTCPzaxan.png"
   },
   {
     "name": "BOX/EOS Defibox LP",
     "symbol": "BOXGL",
-    "account": "lptoken.defi",
+    "contract": "lptoken.defi",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lptoken-boxgl.png"
   },
   {
     "name": "USDT/EOS Defibox LP",
     "symbol": "BOXL",
-    "account": "lptoken.defi",
+    "contract": "lptoken.defi",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lptoken-boxl.png"
   },
   {
     "name": "FAST/EOS Defibox LP",
     "symbol": "BOXFC",
-    "account": "lptoken.defi",
+    "contract": "lptoken.defi",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lptoken-boxfc.png"
   },
   {
     "name": "DolphinSwap",
     "symbol": "DOP",
-    "account": "dolphintoken",
+    "contract": "dolphintoken",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dop.png"
   },
   {
     "name": "VII",
     "symbol": "VII",
-    "account": "seventokenio",
+    "contract": "seventokenio",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/7chain_logo_black.png"
   },
   {
     "name": "Telokanda",
     "symbol": "KANDA",
-    "account": "telokandaone",
+    "contract": "telokandaone",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/kanda2020new2.png"
   },
   {
     "name": "Newdex BTC",
     "symbol": "BTC",
-    "account": "issue.newdex",
+    "contract": "issue.newdex",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-btc.png"
   },
   {
     "name": "Newdex ETH",
     "symbol": "ETH",
-    "account": "issue.newdex",
+    "contract": "issue.newdex",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-eth.png"
   },
   {
     "name": "Newdex USDT",
     "symbol": "USDT",
-    "account": "issue.newdex",
+    "contract": "issue.newdex",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-usdt.png"
   },
   {
     "name": "Newdex RRB",
     "symbol": "RRB",
-    "account": "issue.newdex",
+    "contract": "issue.newdex",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-rrb.png"
   },
   {
     "name": "Newdex MNT",
     "symbol": "MNT",
-    "account": "issue.newdex",
+    "contract": "issue.newdex",
     "precision": 6,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-mnt.png"
   },
   {
     "name": "Newdex ETHFI",
     "symbol": "ETHFI",
-    "account": "issue.newdex",
+    "contract": "issue.newdex",
     "precision": 6,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-ethfi.png"
   },
   {
     "name": "Newdex DF",
     "symbol": "DF",
-    "account": "issue.newdex",
+    "contract": "issue.newdex",
     "precision": 6,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-df.png"
   },
   {
     "name": "Newdex VINX",
     "symbol": "VINX",
-    "account": "issue.newdex",
+    "contract": "issue.newdex",
     "precision": 6,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-vinx.png"
   },
   {
     "name": "Newdex COMP",
     "symbol": "COMP",
-    "account": "issue.newdex",
+    "contract": "issue.newdex",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-comp.png"
   },
   {
     "name": "Newdex TMH",
     "symbol": "TMH",
-    "account": "issue.newdex",
+    "contract": "issue.newdex",
     "precision": 6,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-tmh.png"
   },
   {
     "name": "Tatch Capital Note",
     "symbol": "TCN",
-    "account": "capitaltatch",
+    "contract": "capitaltatch",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/TCN-Tatch-transp.png"
   },
   {
     "name": "Croneos",
     "symbol": "CRON",
-    "account": "token.cron",
+    "contract": "token.cron",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/cron_token_logo.png"
   },
   {
     "name": "Lichang",
     "symbol": "LC",
-    "account": "lichangtoken",
+    "contract": "lichangtoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/LC.png"
   },
   {
     "name": "pizza.live BTCUP",
     "symbol": "BTCUP",
-    "account": "plvtcreaters",
+    "contract": "plvtcreaters",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/btcup.png"
   },
   {
     "name": "pizza.live BTCDOWN",
     "symbol": "BTCDOWN",
-    "account": "plvtcreaters",
+    "contract": "plvtcreaters",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/btcdown.png"
   },
   {
     "name": "EOSUSDT",
     "symbol": "EOSUSDT",
-    "account": "evolutiondex",
+    "contract": "evolutiondex",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosusdt.png"
   },
   {
     "name": "Nice1",
     "symbol": "NICEONE",
-    "account": "niceonetoken",
+    "contract": "niceonetoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/NICEONE.png"
   },
   {
     "name": "BlockBase BBT",
     "symbol": "BBT",
-    "account": "blockbasetkn",
+    "contract": "blockbasetkn",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bbt.png"
   },
   {
     "name": "Quadrillion Token Derivatives Alcor",
     "symbol": "QUAD",
-    "account": "sandiegocoin",
+    "contract": "sandiegocoin",
     "precision": 3,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/QUAD.png"
   },
   {
     "name": "VOID",
     "symbol": "VOID",
-    "account": "onessusblock",
+    "contract": "onessusblock",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/VOID.png"
   },
   {
     "name": "YUP",
     "symbol": "YUP",
-    "account": "token.yup",
+    "contract": "token.yup",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/yup.png"
   },
   {
     "name": "VisionFinTec RED",
     "symbol": "RED",
-    "account": "visionfintec",
+    "contract": "visionfintec",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-RED-100.png"
   },
   {
     "name": "VisionFinTec ORANGE",
     "symbol": "ORANGE",
-    "account": "visionfintec",
+    "contract": "visionfintec",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-ORANGE-100.png"
   },
   {
     "name": "VisionFinTec YELLOW",
     "symbol": "YELLOW",
-    "account": "visionfintec",
+    "contract": "visionfintec",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-YELLOW-100.png"
   },
   {
     "name": "VisionFinTec GREEN",
     "symbol": "GREEN",
-    "account": "visionfintec",
+    "contract": "visionfintec",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-GREEN-100.png"
   },
   {
     "name": "VisionFinTec BLUE",
     "symbol": "BLUE",
-    "account": "visionfintec",
+    "contract": "visionfintec",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-BLUE-100.png"
   },
   {
     "name": "VisionFinTec INDIGO",
     "symbol": "INDIGO",
-    "account": "visionfintec",
+    "contract": "visionfintec",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-INDIGO-100.png"
   },
   {
     "name": "VisionFinTec VIOLET",
     "symbol": "VIOLET",
-    "account": "visionfintec",
+    "contract": "visionfintec",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-VIOLET-100.png"
   },
   {
     "name": "DAD",
     "symbol": "DAD",
-    "account": "dadtoken1111",
+    "contract": "dadtoken1111",
     "precision": 6,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dad-logo.png"
   },
   {
     "name": "ETH (eos)",
     "symbol": "PETH",
-    "account": "eth.ptokens",
+    "contract": "eth.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/peth.png"
   },
   {
     "name": "LTC (eos)",
     "symbol": "PLTC",
-    "account": "ltc.ptokens",
+    "contract": "ltc.ptokens",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pltc.png"
   },
   {
     "name": "MKR (eos)",
     "symbol": "PMKR",
-    "account": "mkr.ptokens",
+    "contract": "mkr.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pmkr.png"
   },
   {
     "name": "YFI (eos)",
     "symbol": "PYFI",
-    "account": "yfi.ptokens",
+    "contract": "yfi.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pyfi.png"
   },
   {
     "name": "LINK (eos)",
     "symbol": "PLINK",
-    "account": "link.ptokens",
+    "contract": "link.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/plink.png"
   },
   {
     "name": "PNT (eos)",
     "symbol": "PNT",
-    "account": "pnt.ptokens",
+    "contract": "pnt.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pnt.png"
   },
   {
     "name": "BAL (eos)",
     "symbol": "PBAL",
-    "account": "bal.ptokens",
+    "contract": "bal.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pbal.png"
   },
   {
     "name": "BAND (eos)",
     "symbol": "PBAND",
-    "account": "band.ptokens",
+    "contract": "band.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pband.png"
   },
   {
     "name": "COMP (eos)",
     "symbol": "PCOMP",
-    "account": "comp.ptokens",
+    "contract": "comp.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pcomp.png"
   },
   {
     "name": "SNX (eos)",
     "symbol": "PSNX",
-    "account": "snx.ptokens",
+    "contract": "snx.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/psnx.png"
   },
   {
     "name": "ANT (eos)",
     "symbol": "PANT",
-    "account": "ant.ptokens",
+    "contract": "ant.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pant.png"
   },
   {
     "name": "BAT (eos)",
     "symbol": "PBAT",
-    "account": "bat.ptokens",
+    "contract": "bat.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pbat.png"
   },
   {
     "name": "DAI (eos)",
     "symbol": "PDAI",
-    "account": "dai.ptokens",
+    "contract": "dai.ptokens",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pdai.png"
   },
   {
     "name": "LRC (eos)",
     "symbol": "PLRC",
-    "account": "lrc.ptokens",
+    "contract": "lrc.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/plrc.png"
   },
   {
     "name": "OMG (eos)",
     "symbol": "POMG",
-    "account": "omg.ptokens",
+    "contract": "omg.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pomg.png"
   },
   {
     "name": "ZRX (eos)",
     "symbol": "PZRX",
-    "account": "zrx.ptokens",
+    "contract": "zrx.ptokens",
     "precision": 9,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pzrx.png"
   },
   {
     "name": "CAT Token",
     "symbol": "CAT",
-    "account": "eoscatstoken",
+    "contract": "eoscatstoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/cat.png"
   },
   {
     "name": "FISH Token",
     "symbol": "FISH",
-    "account": "fisheostoken",
+    "contract": "fisheostoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/fish.png"
   },
   {
     "name": "RAT",
     "symbol": "RAT",
-    "account": "eosratstoken",
+    "contract": "eosratstoken",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/rat.png"
   },
   {
     "name": "DECO",
     "symbol": "DECO",
-    "account": "destinytoken",
+    "contract": "destinytoken",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/DECO.png"
   },
   {
     "name": "USDCASH",
     "symbol": "USDCASH",
-    "account": "token.pcash",
+    "contract": "token.pcash",
     "precision": 5,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/USDCASH.png"
   },
   {
     "name": "RUBCASH",
     "symbol": "RUBCASH",
-    "account": "token.pcash",
+    "contract": "token.pcash",
     "precision": 5,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/RUBCASH.png"
   },
   {
     "name": "UAHCASH",
     "symbol": "UAHCASH",
-    "account": "token.pcash",
+    "contract": "token.pcash",
     "precision": 5,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/UAHCASH.png"
   },
   {
     "name": "LIRUMOW",
     "symbol": "LIRUMOW",
-    "account": "token.list",
+    "contract": "token.list",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/LIRUMOW.png"
   },
   {
     "name": "LIUAIEV",
     "symbol": "LIUAIEV",
-    "account": "token.list",
+    "contract": "token.list",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/LIUAIEV.png"
   }
