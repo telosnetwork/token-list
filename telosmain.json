@@ -1,6 +1,6 @@
 {
   "name": "Telos Mainnet Token List",
-  "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
+  "logoURI": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/telos.png",
   "keywords": [
     "Telos"
   ],
@@ -17,92 +17,92 @@
   "tokens": [
     {
       "name": "Telos",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/telos.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/telos.png",
       "symbol": "TLOS",
       "account": "eosio.token"
     },
     {
       "name": "pTokens BTC",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pbtc.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pbtc-lg.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pbtc.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pbtc-lg.png",
       "symbol": "PBTC",
       "account": "btc.ptokens"
     },
     {
       "name": "pTokens ETH",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/peth.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/peth-lg.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/peth.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/peth-lg.png",
       "symbol": "PETH",
       "account": "eth.ptokens"
     },
     {
       "name": "pTokens LINK",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/plink.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/plink-lg.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/plink.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/plink-lg.png",
       "symbol": "PLINK",
       "account": "link.ptokens"
     },
     {
       "name": "pTokens USDT",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pusdt.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pusdt-lg.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pusdt.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pusdt-lg.png",
       "symbol": "PUSDT",
       "account": "usdt.ptokens"
     },
     {
       "name": "pTokens USDC",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pusdc.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pusdc-lg.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pusdc.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pusdc-lg.png",
       "symbol": "PUSDC",
       "account": "usdc.ptokens"
     },
     {
       "name": "pNetwork Token",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pnt.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pnt-lg.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pnt.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pnt-lg.png",
       "symbol": "PNT",
       "account": "pnt.ptokens"
     },
     {
       "name": "Seeds",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/seeds.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/seeds-lg.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/seeds.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/seeds-lg.png",
       "symbol": "SEEDS",
       "account": "token.seeds"
     },
     {
       "name": "Destiny Coin Telos",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/DECO.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/DECO.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/DECO.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/DECO.png",
       "symbol": "DECO",
       "account": "destinytoken"
     },
     {
       "name": "T-Starter START",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/start-lg.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/start.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/start-lg.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/start.png",
       "symbol": "START",
       "account": "token.start"
     },
     {
       "name": "T-Swaps SWAP",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/swap-lg.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/swap.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/swap-lg.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/swap.png",
       "symbol": "SWAP",
       "account": "swap.swaps"
     },
     {
       "name": "Telos Dollar",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/tlosd-lg.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/tlosd.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/tlosd-lg.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/tlosd.png",
       "symbol": "TLOSD",
       "account": "tokens.swaps"
     },
     {
       "name": "Fortis",
-      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/FORTISCoin.png",
-      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/FORTISCoin.png",
+      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/FORTISCoin.png",
+      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/FORTISCoin.png",
       "symbol": "FORT",
       "account": "fortisledger"
     },

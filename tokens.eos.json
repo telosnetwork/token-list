@@ -4,1581 +4,1581 @@
     "symbol": "SUGARA",
     "account": "sugartokensa",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/SUGARA.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/SUGARA.png"
   },
   {
     "name": "Sugar",
     "symbol": "SUGAR",
     "account": "sugartokensb",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/SUGAR.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/SUGAR.png"
   },
   {
     "name": "FINTEH",
     "symbol": "FINTEH",
     "account": "fintehdeploy",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/finteh_plane.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/finteh_plane.png"
   },
   {
     "name": "PUML Better Health",
     "symbol": "PUML",
     "account": "pumlhealthio",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/PUML.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/PUML.png"
   },
   {
     "name": "AMZCoin",
     "symbol": "AMZ",
     "account": "amzcoinvault",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/amzcoinvault.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/amzcoinvault.png"
   },
   {
     "name": "OBTC",
     "symbol": "OBTC",
     "account": "core.ogx",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/core.ogx-OBTC.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-OBTC.png"
   },
   {
     "name": "ODOT",
     "symbol": "ODOT",
     "account": "core.ogx",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/core.ogx-ODOT.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-ODOT.png"
   },
   {
     "name": "OEOS",
     "symbol": "OEOS",
     "account": "core.ogx",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/core.ogx-OEOS.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-OEOS.png"
   },
   {
     "name": "OETH",
     "symbol": "OETH",
     "account": "core.ogx",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/core.ogx-OETH.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-OETH.png"
   },
   {
     "name": "OUSD",
     "symbol": "OUSD",
     "account": "core.ogx",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/core.ogx-OUSD.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-OUSD.png"
   },
   {
     "name": "OTRX",
     "symbol": "OTRX",
     "account": "core.ogx",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/core.ogx-OTRX.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/core.ogx-OTRX.png"
   },
   {
     "name": "OneTimeUtility",
     "symbol": "OTU",
     "account": "onetimeutil1",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/OTU.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/OTU.png"
   },
   {
     "name": "SaveTheEarth",
     "symbol": "STE",
     "account": "savethearth1",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/STE.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/STE.png"
   },
   {
     "name": "ER",
     "symbol": "ER",
     "account": "eosreeltoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eosreeltoken-er.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosreeltoken-er.png"
   },
   {
     "name": "Consortium",
     "symbol": "GOVRN",
     "account": "consortiumlv",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/consortium.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/consortium.png"
   },
   {
     "name": "Metal Packaging Token",
     "symbol": "MPT",
     "account": "metpacktoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/metpacktoken-mpt.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/metpacktoken-mpt.png"
   },
   {
     "name": "EXE",
     "symbol": "EXE",
     "account": "isoftpartner",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/8x8_symbol.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/8x8_symbol.png"
   },
   {
     "name": "VIG",
     "symbol": "VIG",
     "account": "vig111111111",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/VIG.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/VIG.png"
   },
   {
     "name": "VIGOR",
     "symbol": "VIGOR",
     "account": "vigortoken11",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/VIGOR.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/VIGOR.png"
   },
   {
     "name": "UPD",
     "symbol": "UPD",
     "account": "updtokenacct",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/upd-symbol-icon.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/upd-symbol-icon.png"
   },
   {
     "name": "AdderalCoin",
     "symbol": "ADD",
     "account": "eosadddddddd",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/placeholder.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "CADEOS.io",
     "symbol": "ADE",
     "account": "cadeositoken",
     "precision": 6,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ADE-logo-225x225.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ADE-logo-225x225.jpg"
   },
   {
     "name": "EOSNOW",
     "symbol": "ANTE",
     "account": "eosnowbpower",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eosnow.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosnow.png"
   },
   {
     "name": "ANOX",
     "symbol": "ANX",
     "account": "anoxanoxanox",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/anx-sm.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/anx-sm.png"
   },
   {
     "name": "APPICS",
     "symbol": "APX",
     "account": "appicsappics",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/appicsappics-apx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/appicsappics-apx.png"
   },
   {
     "name": "Atidium",
     "symbol": "ATD",
     "account": "eosatidiumio",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/atidium.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/atidium.jpg"
   },
   {
     "name": "ATMOS",
     "symbol": "ATMOS",
     "account": "novusphereio",
     "precision": 3,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/atmos.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/atmos.png"
   },
   {
     "name": "Banker.Bet",
     "symbol": "BBC",
     "account": "bbctokencode",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/BBC.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/BBC.png"
   },
   {
     "name": "BEAN",
     "symbol": "BEAN",
     "account": "thebeantoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/bean.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bean.png"
   },
   {
     "name": "BOX",
     "symbol": "BOX",
     "account": "token.defi",
     "precision": 6,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/token.defi-box.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/token.defi-box.png"
   },
   {
     "name": "BigGame",
     "symbol": "BG",
     "account": "bgbgbgbgbgbg",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/bg.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bg.png"
   },
   {
     "name": "EOS BET",
     "symbol": "BET",
     "account": "betdividends",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eosbet.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosbet.png"
   },
   {
     "name": "BetKing.io",
     "symbol": "BKT",
     "account": "betkingtoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/betking.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/betking.png"
   },
   {
     "name": "eosBLACK",
     "symbol": "BLACK",
     "account": "eosblackteam",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eosblack.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosblack.png"
   },
   {
     "name": "God.finance",
     "symbol": "BLESS",
     "account": "godoffinance",
     "precision": 12,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/bless.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bless.png"
   },
   {
     "name": "BNT",
     "symbol": "BNT",
     "account": "bntbntbntbnt",
     "precision": 10,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/bancor.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bancor.png"
   },
   {
     "name": "BNTEOS",
     "symbol": "BNTEOS",
     "account": "bnt2eosrelay",
     "precision": 10,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/bnteos.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bnteos.png"
   },
   {
     "name": "BNTUSDT",
     "symbol": "BNTUSDT",
     "account": "bancorr11232",
     "precision": 10,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/bntusdt.jpeg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bntusdt.jpeg"
   },
   {
     "name": "ETHBNT",
     "symbol": "ETHBNT",
     "account": "ethbntethbnt",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ethbnt.jpeg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ethbnt.jpeg"
   },
   {
     "name": "BOID",
     "symbol": "BOID",
     "account": "boidcomtoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/boidlogo.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/boidlogo.png"
   },
   {
     "name": "BOS",
     "symbol": "BOS",
     "account": "bosibc.io",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/bos.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bos.png"
   },
   {
     "name": "The EOS Button",
     "symbol": "BTN",
     "account": "eosbuttonbtn",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/placeholder.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "CARMEL",
     "symbol": "CARMEL",
     "account": "carmeltokens",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/carmel.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/carmel.png"
   },
   {
     "name": "Chaince",
     "symbol": "CET",
     "account": "eosiochaince",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/chaince.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/chaince.jpg"
   },
   {
     "name": "Chintai",
     "symbol": "CHEX",
     "account": "chexchexchex",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/chintai-chex.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/chintai-chex.png"
   },
   {
     "name": "Challenge DAC",
     "symbol": "CHL",
     "account": "challengedac",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/CHLnewPNG500.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/CHLnewPNG500.png"
   },
   {
     "name": "Carbon",
     "symbol": "CUSD",
     "account": "stablecarbon",
     "precision": 2,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/carbonlogo-64.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/carbonlogo-64.png"
   },
   {
     "name": "DAPP Network",
     "symbol": "DAPP",
     "account": "dappservices",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/dapp.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dapp.png"
   },
   {
     "name": "DAI",
     "symbol": "DAI",
     "account": "etherctokens",
     "precision": 6,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/dai.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dai.png"
   },
   {
     "name": "DEOS Games",
     "symbol": "DEOS",
     "account": "thedeosgames",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/deosgames.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/deosgames.png"
   },
   {
     "name": "DeFind",
     "symbol": "DEFI",
     "account": "defind.io",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/defi.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/defi.png"
   },
   {
     "name": "Down Coin",
     "symbol": "DOWN",
     "account": "elliottkelly",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/downcoinlogo.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/downcoinlogo.png"
   },
   {
     "name": "DICE",
     "symbol": "DICE",
     "account": "betdicetoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/dice.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dice.png"
   },
   {
     "name": "Dig Coin",
     "symbol": "DIG",
     "account": "digcoinsmine",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/dig.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dig.png"
   },
   {
     "name": "Dragon Option",
     "symbol": "DRAGON",
     "account": "eosdragontkn",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/dragon.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dragon.png"
   },
   {
     "name": "DS",
     "symbol": "DS",
     "account": "dsdsdsdsdsds",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/DS.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/DS.png"
   },
   {
     "name": "Ecoin",
     "symbol": "ECOIN",
     "account": "ecointoken12",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ecoin.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ecoin.png"
   },
   {
     "name": "EOS AUCTION PLATFORM",
     "symbol": "EAP",
     "account": "eosauctionpt",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eap.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eap.png"
   },
   {
     "name": "EBTC",
     "symbol": "EBTC",
     "account": "bitpietokens",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/bitpietokens-ebtc.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bitpietokens-ebtc.png"
   },
   {
     "name": "eosCASH",
     "symbol": "ECASH",
     "account": "horustokenio",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ECASH.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ECASH.png"
   },
   {
     "name": "EETH",
     "symbol": "EETH",
     "account": "ethsidechain",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/placeholder.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "EETH",
     "symbol": "EETH",
     "account": "bitpietokens",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/placeholder.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "Effect.AI",
     "symbol": "EFX",
     "account": "effecttokens",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/efx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/efx.png"
   },
   {
     "name": "Emanate MNX",
     "symbol": "MNX",
     "account": "emanatenekot",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/emanate-mnx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/emanate-mnx.png"
   },
   {
     "name": "Emanate",
     "symbol": "EMT",
     "account": "emanateoneos",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/emanate.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/emanate.png"
   },
   {
     "name": "eosDAC",
     "symbol": "EOSDAC",
     "account": "eosdactokens",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eosdac.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosdac.jpg"
   },
   {
     "name": "EOSN",
     "symbol": "EOSN",
     "account": "eosnationinc",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eosn.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosn.jpg"
   },
   {
     "name": "EOSDT",
     "symbol": "EOSDT",
     "account": "eosdtsttoken",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eosdt.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosdt.png"
   },
   {
     "name": "EOX Commerce",
     "symbol": "EOX",
     "account": "eoxeoxeoxeox",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eoxcommerce.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eoxcommerce.png"
   },
   {
     "name": "ERO",
     "symbol": "ERO",
     "account": "eoslandadmin",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ero.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ero.png"
   },
   {
     "name": "EOSLAND RARE ORE",
     "symbol": "ERO",
     "account": "eoslandadmin",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ero.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ero.png"
   },
   {
     "name": "Europechain",
     "symbol": "XEC",
     "account": "europe.chain",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/europechain.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/europechain.png"
   },
   {
     "name": "EUSD",
     "symbol": "EUSD",
     "account": "bitpietokens",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/placeholder.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "FairEOS",
     "symbol": "FAIR",
     "account": "faireostoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/fair.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/fair.jpg"
   },
   {
     "name": "FastWin",
     "symbol": "FAST",
     "account": "fastecoadmin",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/fast.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/fast.png"
   },
   {
     "name": "Horus Pay",
     "symbol": "HORUS",
     "account": "horustokenio",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/horuspay.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/horuspay.jpg"
   },
   {
     "name": "HASHFUN",
     "symbol": "HFC",
     "account": "hashfuncoins",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/HFC.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/HFC.png"
   },
   {
     "name": "HireVibes",
     "symbol": "HVT",
     "account": "hirevibeshvt",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/hvt.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/hvt.png"
   },
   {
     "name": "eHUB",
     "symbol": "HUB",
     "account": "eoshubtokens",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/hub.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/hub.png"
   },
   {
     "name": "Infinicoin",
     "symbol": "INF",
     "account": "infinicoinio",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/infiniverse.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/infiniverse.png"
   },
   {
     "name": "IPOS",
     "symbol": "IPOS",
     "account": "oo1122334455",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/placeholder.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "Everipedia",
     "symbol": "IQ",
     "account": "everipediaiq",
     "precision": 3,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/everipedia.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/everipedia.jpg"
   },
   {
     "name": "EOSJacks",
     "symbol": "JKR",
     "account": "eosjackscoin",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eosjacks.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosjacks.png"
   },
   {
     "name": "KARMA",
     "symbol": "KARMA",
     "account": "therealkarma",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/karma.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/karma.png"
   },
   {
     "name": "KEOS",
     "symbol": "KEOS",
     "account": "keoskorea111",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/placeholder.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "KROWN",
     "symbol": "KROWN",
     "account": "krowndactokn",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/KROWN.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/KROWN.png"
   },
   {
     "name": "LED",
     "symbol": "LED",
     "account": "okkkkkkkkkkk",
     "precision": 6,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/led.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/led.png"
   },
   {
     "name": "LICC",
     "symbol": "LICC",
     "account": "liccommunity",
     "precision": 3,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/licc.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/licc.png"
   },
   {
     "name": "LuckyGo",
     "symbol": "LKG",
     "account": "luckygotoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/lkg.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lkg.jpg"
   },
   {
     "name": "Lelego",
     "symbol": "LLG",
     "account": "llgonebtotal",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/lelego.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lelego.png"
   },
   {
     "name": "LUCKY",
     "symbol": "LUCKY",
     "account": "eoslucktoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/placeholder.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "Lumeos",
     "symbol": "LUME",
     "account": "lumetokenctr",
     "precision": 3,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/lumeos.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lumeos.png"
   },
   {
     "name": "LYNX",
     "symbol": "LYNX",
     "account": "worktokenbvi",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/worktokenbviLYNX.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/worktokenbviLYNX.png"
   },
   {
     "name": "dmail",
     "symbol": "MAIL",
     "account": "d.mail",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/dmail.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dmail.png"
   },
   {
     "name": "MAX",
     "symbol": "MAX",
     "account": "eosmax1token",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/placeholder.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "MEET.ONE",
     "symbol": "MEETONE",
     "account": "eosiomeetone",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/meetone.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/meetone.jpg"
   },
   {
     "name": "Rexnet",
     "symbol": "REXNET",
     "account": "tokensfather",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/rexnet.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/rexnet.png"
   },
   {
     "name": "Royal Online Vegas",
     "symbol": "MEV",
     "account": "eosvegascoin",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/mev.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/mev.jpg"
   },
   {
     "name": "MORTYS",
     "symbol": "MORTYS",
     "account": "mrpoopybutt1",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/mortys.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/mortys.png"
   },
   {
     "name": "Effect Network",
     "symbol": "NFX",
     "account": "effecttokens",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/nfx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/nfx.png"
   },
   {
     "name": "NDX",
     "symbol": "NDX",
     "account": "newdexissuer",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ndx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ndx.png"
   },
   {
     "name": "Oracle Chain",
     "symbol": "OCT",
     "account": "octtothemoon",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/oraclechain.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/oraclechain.png"
   },
   {
     "name": "PAY",
     "symbol": "PAY",
     "account": "fastecoadmin",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pay.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pay.png"
   },
   {
     "name": "PEOS",
     "symbol": "PEOS",
     "account": "thepeostoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/peos.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/peos.png"
   },
   {
     "name": "PHOTON",
     "symbol": "PHOTON",
     "account": "holongwealth",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/holon.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/holon.png"
   },
   {
     "name": "pixEOS",
     "symbol": "PIXEOS",
     "account": "pixeos1token",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pixeos.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pixeos.png"
   },
   {
     "name": "PIZZA",
     "symbol": "PIZZA",
     "account": "pizzatotoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/PIZZA.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/PIZZA.png"
   },
   {
     "name": "EOS Poker",
     "symbol": "POKER",
     "account": "eospokercoin",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/poker.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/poker.jpg"
   },
   {
     "name": "Poorman Token",
     "symbol": "POOR",
     "account": "poormantoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/poorman.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/poorman.png"
   },
   {
     "name": "Prospectors",
     "symbol": "PGL",
     "account": "prospectorsg",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pgl.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pgl.png"
   },
   {
     "name": "Starteos Pool",
     "symbol": "POOL",
     "account": "stpool.eos",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pool.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pool.png"
   },
   {
     "name": "USDT/USN Curve.SX LP",
     "symbol": "SXA",
     "account": "lptoken.sx",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/lptoken.sx-sxa.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lptoken.sx-sxa.png"
   },
   {
     "name": "EOS Vaults.SX",
     "symbol": "SXEOS",
     "account": "token.sx",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/sx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sx.png"
   },
   {
     "name": "USDT Vaults.SX",
     "symbol": "SXUSDT",
     "account": "token.sx",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/sx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sx.png"
   },
   {
     "name": "CPU Push.SX",
     "symbol": "SXCPU",
     "account": "token.sx",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/sx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sx.png"
   },
   {
     "name": "Carrot",
     "symbol": "CRT",
     "account": "carrotstoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/crt.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/crt.png"
   },
   {
     "name": "Crypto Peso",
     "symbol": "PSO",
     "account": "cryptopesosc",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/cryptopeso.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/cryptopeso.png"
   },
   {
     "name": "PUBLYTO",
     "symbol": "PUB",
     "account": "publytoken11",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pub.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pub.png"
   },
   {
     "name": "CryptoPIX PXS",
     "symbol": "PXS",
     "account": "pxstokensapp",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pixels.jpeg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pixels.jpeg"
   },
   {
     "name": "RAMtoken",
     "symbol": "RAM",
     "account": "ramtokenmoon",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ramtoken.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ramtoken.png"
   },
   {
     "name": "RCX",
     "symbol": "RCX",
     "account": "boatwingtkio",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/rcx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/rcx.png"
   },
   {
     "name": "RIDL",
     "symbol": "RIDL",
     "account": "ridlridlcoin",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ridl.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ridl.png"
   },
   {
     "name": "Rocket Battles",
     "symbol": "ROCKET",
     "account": "rocketbattle",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/rocketbattle.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/rocketbattle.png"
   },
   {
     "name": "ROJI",
     "symbol": "ROJI",
     "account": "rojirojiroji",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/roji.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/roji.png"
   },
   {
     "name": "ROM",
     "symbol": "ROM",
     "account": "issue.rom",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/issue.rom-rom.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.rom-rom.png"
   },
   {
     "name": "Road Of Rich",
     "symbol": "ROR",
     "account": "roadofrichio",
     "precision": 6,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ror.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/ror.png"
   },
   {
     "name": "Real World Coupon",
     "symbol": "RWC",
     "account": "realworldcpn",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/rwc.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/rwc.png"
   },
   {
     "name": "Parsl Seed",
     "symbol": "SEED",
     "account": "parslseed123",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/seed.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/seed.png"
   },
   {
     "name": "Sense",
     "symbol": "SENSE",
     "account": "sensegenesis",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/sense.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sense.png"
   },
   {
     "name": "Sprtshubcoin",
     "symbol": "SHC",
     "account": "sprtshubcoin",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/sprtshubcoin.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sprtshubcoin.png"
   },
   {
     "name": "SOLIT",
     "symbol": "SLT",
     "account": "nblabtokenss",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/solit.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/solit.png"
   },
   {
     "name": "SOV",
     "symbol": "SOV",
     "account": "sovmintofeos",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/sov.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/sov.png"
   },
   {
     "name": "eoseven",
     "symbol": "SVN",
     "account": "eoseventoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/placeholder.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/placeholder.png"
   },
   {
     "name": "TRUST",
     "symbol": "TXT",
     "account": "trusteamwins",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/txt.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/txt.png"
   },
   {
     "name": "EOS",
     "symbol": "EOS",
     "account": "eosio.token",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eos.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eos.png"
   },
   {
     "name": "TOOKTOOK",
     "symbol": "TOOK",
     "account": "taketooktook",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/took.jpg"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/took.jpg"
   },
   {
     "name": "TokenPocket",
     "symbol": "TPT",
     "account": "eosiotptoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/tpt.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/tpt.png"
   },
   {
     "name": "TREOS Origin",
     "symbol": "TRO",
     "account": "mytreosworld",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/tro_256.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/tro_256.png"
   },
   {
     "name": "TRYBE",
     "symbol": "TRYBE",
     "account": "trybenetwork",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/trybe.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/trybe.png"
   },
   {
     "name": "USDB",
     "symbol": "USDB",
     "account": "usdbusdbusdb",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/usdb.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/usdb.png"
   },
   {
     "name": "USDE",
     "symbol": "USDE",
     "account": "usdetotokens",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/usdetotokens-usde.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/usdetotokens-usde.png"
   },
   {
     "name": "USDT",
     "symbol": "USDT",
     "account": "tethertether",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/USDT.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/USDT.png"
   },
   {
     "name": "USDT",
     "symbol": "USDT",
     "account": "tokens.wal",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/USDT.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/USDT.png"
   },
   {
     "name": "USN",
     "symbol": "USN",
     "account": "danchortoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/usn.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/usn.png"
   },
   {
     "name": "WhaleEx",
     "symbol": "WAL",
     "account": "whaleextoken",
     "precision": 3,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/whaleex.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/whaleex.png"
   },
   {
     "name": "Green Light Planet",
     "symbol": "GL",
     "account": "token.gl",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/gl.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/gl.png"
   },
   {
     "name": "Gamblr",
     "symbol": "GAMBLR",
     "account": "gamblrtokens",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/gamblr.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/gamblr.png"
   },
   {
     "name": "WRK",
     "symbol": "WRK",
     "account": "worktokenbvi",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/worktokenbviWRK.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/worktokenbviWRK.png"
   },
   {
     "name": "Billionaire Token",
     "symbol": "XBL",
     "account": "billionairet",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/billionaire.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/billionaire.png"
   },
   {
     "name": "ZKS",
     "symbol": "ZKS",
     "account": "zkstokensr4u",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/zks.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/zks.png"
   },
   {
     "name": "MyCryptoVegas Token",
     "symbol": "CTS",
     "account": "cryptovgscts",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/cts.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/cts.png"
   },
   {
     "name": "WORD",
     "symbol": "WORD",
     "account": "wordtokeneos",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/word.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/word.png"
   },
   {
     "name": "Yakee chain",
     "symbol": "YKC",
     "account": "okkkkkkkkkkk",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/YKC.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/YKC.png"
   },
   {
     "name": "NUT",
     "symbol": "NUT",
     "account": "eosdtnutoken",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/nut_225x225.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/nut_225x225.png"
   },
   {
     "name": "San Diego City (eos)",
     "symbol": "SAND",
     "account": "sandiegocoin",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/city-seal-Blue-and-Gold-small-300x300.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/city-seal-Blue-and-Gold-small-300x300.png"
   },
   {
     "name": "POW",
     "symbol": "POW",
     "account": "powhcontract",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pow.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pow.png"
   },
   {
     "name": "POWX",
     "symbol": "POWX",
     "account": "powxtokenpow",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/powx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/powx.png"
   },
   {
     "name": "GoldenChip",
     "symbol": "GCHIP",
     "account": "goldenchipio",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/goldenchip.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/goldenchip.png"
   },
   {
     "name": "One Thousand Coin",
     "symbol": "OTC",
     "account": "thousandcoin",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/OTCeoslogo1.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/OTCeoslogo1.png"
   },
   {
     "name": "STEEMP on EOS",
     "symbol": "STEEMP",
     "account": "steemoneosio",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/EOSSTEEMpFULLres-527x504.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/EOSSTEEMpFULLres-527x504.png"
   },
   {
     "name": "WEEDCASH",
     "symbol": "WEED",
     "account": "weedcashntwk",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/weedcashnew1SteemEOSlogos1png.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/weedcashnew1SteemEOSlogos1png.png"
   },
   {
     "name": "TLOSP on EOS",
     "symbol": "TLOSP",
     "account": "steemenginex",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/TLOSPonEOS.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/TLOSPonEOS.png"
   },
   {
     "name": "EIDOS",
     "symbol": "EIDOS",
     "account": "eidosonecoin",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eidos.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eidos.png"
   },
   {
     "name": "YAS Network",
     "symbol": "YAS",
     "account": "yastokencode",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/yas.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/yas.png"
   },
   {
     "name": "MARF",
     "symbol": "MARF",
     "account": "themarftoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/MARF.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/MARF.png"
   },
   {
     "name": "BTCP on EOS",
     "symbol": "BTCP",
     "account": "steemenginex",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/EOSBTCPzaxan.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/EOSBTCPzaxan.png"
   },
   {
     "name": "BOX/EOS Defibox LP",
     "symbol": "BOXGL",
     "account": "lptoken.defi",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/lptoken-boxgl.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lptoken-boxgl.png"
   },
   {
     "name": "USDT/EOS Defibox LP",
     "symbol": "BOXL",
     "account": "lptoken.defi",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/lptoken-boxl.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lptoken-boxl.png"
   },
   {
     "name": "FAST/EOS Defibox LP",
     "symbol": "BOXFC",
     "account": "lptoken.defi",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/lptoken-boxfc.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/lptoken-boxfc.png"
   },
   {
     "name": "DolphinSwap",
     "symbol": "DOP",
     "account": "dolphintoken",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/dop.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dop.png"
   },
   {
     "name": "VII",
     "symbol": "VII",
     "account": "seventokenio",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/7chain_logo_black.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/7chain_logo_black.png"
   },
   {
     "name": "Telokanda",
     "symbol": "KANDA",
     "account": "telokandaone",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/kanda2020new2.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/kanda2020new2.png"
   },
   {
     "name": "Newdex BTC",
     "symbol": "BTC",
     "account": "issue.newdex",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/issue.newdex-btc.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-btc.png"
   },
   {
     "name": "Newdex ETH",
     "symbol": "ETH",
     "account": "issue.newdex",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/issue.newdex-eth.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-eth.png"
   },
   {
     "name": "Newdex USDT",
     "symbol": "USDT",
     "account": "issue.newdex",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/issue.newdex-usdt.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-usdt.png"
   },
   {
     "name": "Newdex RRB",
     "symbol": "RRB",
     "account": "issue.newdex",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/issue.newdex-rrb.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-rrb.png"
   },
   {
     "name": "Newdex MNT",
     "symbol": "MNT",
     "account": "issue.newdex",
     "precision": 6,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/issue.newdex-mnt.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-mnt.png"
   },
   {
     "name": "Newdex ETHFI",
     "symbol": "ETHFI",
     "account": "issue.newdex",
     "precision": 6,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/issue.newdex-ethfi.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-ethfi.png"
   },
   {
     "name": "Newdex DF",
     "symbol": "DF",
     "account": "issue.newdex",
     "precision": 6,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/issue.newdex-df.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-df.png"
   },
   {
     "name": "Newdex VINX",
     "symbol": "VINX",
     "account": "issue.newdex",
     "precision": 6,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/issue.newdex-vinx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-vinx.png"
   },
   {
     "name": "Newdex COMP",
     "symbol": "COMP",
     "account": "issue.newdex",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/issue.newdex-comp.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-comp.png"
   },
   {
     "name": "Newdex TMH",
     "symbol": "TMH",
     "account": "issue.newdex",
     "precision": 6,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/issue.newdex-tmh.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/issue.newdex-tmh.png"
   },
   {
     "name": "Tatch Capital Note",
     "symbol": "TCN",
     "account": "capitaltatch",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/TCN-Tatch-transp.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/TCN-Tatch-transp.png"
   },
   {
     "name": "Croneos",
     "symbol": "CRON",
     "account": "token.cron",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/cron_token_logo.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/cron_token_logo.png"
   },
   {
     "name": "Lichang",
     "symbol": "LC",
     "account": "lichangtoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/LC.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/LC.png"
   },
   {
     "name": "pizza.live BTCUP",
     "symbol": "BTCUP",
     "account": "plvtcreaters",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/btcup.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/btcup.png"
   },
   {
     "name": "pizza.live BTCDOWN",
     "symbol": "BTCDOWN",
     "account": "plvtcreaters",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/btcdown.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/btcdown.png"
   },
   {
     "name": "EOSUSDT",
     "symbol": "EOSUSDT",
     "account": "evolutiondex",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eosusdt.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/eosusdt.png"
   },
   {
     "name": "Nice1",
     "symbol": "NICEONE",
     "account": "niceonetoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/NICEONE.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/NICEONE.png"
   },
   {
     "name": "BlockBase BBT",
     "symbol": "BBT",
     "account": "blockbasetkn",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/bbt.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/bbt.png"
   },
   {
     "name": "Quadrillion Token Derivatives Alcor",
     "symbol": "QUAD",
     "account": "sandiegocoin",
     "precision": 3,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/QUAD.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/QUAD.png"
   },
   {
     "name": "VOID",
     "symbol": "VOID",
     "account": "onessusblock",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/VOID.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/VOID.png"
   },
   {
     "name": "YUP",
     "symbol": "YUP",
     "account": "token.yup",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/yup.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/yup.png"
   },
   {
     "name": "VisionFinTec RED",
     "symbol": "RED",
     "account": "visionfintec",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/visionfintec-RED-100.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-RED-100.png"
   },
   {
     "name": "VisionFinTec ORANGE",
     "symbol": "ORANGE",
     "account": "visionfintec",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/visionfintec-ORANGE-100.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-ORANGE-100.png"
   },
   {
     "name": "VisionFinTec YELLOW",
     "symbol": "YELLOW",
     "account": "visionfintec",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/visionfintec-YELLOW-100.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-YELLOW-100.png"
   },
   {
     "name": "VisionFinTec GREEN",
     "symbol": "GREEN",
     "account": "visionfintec",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/visionfintec-GREEN-100.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-GREEN-100.png"
   },
   {
     "name": "VisionFinTec BLUE",
     "symbol": "BLUE",
     "account": "visionfintec",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/visionfintec-BLUE-100.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-BLUE-100.png"
   },
   {
     "name": "VisionFinTec INDIGO",
     "symbol": "INDIGO",
     "account": "visionfintec",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/visionfintec-INDIGO-100.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-INDIGO-100.png"
   },
   {
     "name": "VisionFinTec VIOLET",
     "symbol": "VIOLET",
     "account": "visionfintec",
     "precision": 0,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/visionfintec-VIOLET-100.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/visionfintec-VIOLET-100.png"
   },
   {
     "name": "DAD",
     "symbol": "DAD",
     "account": "dadtoken1111",
     "precision": 6,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/dad-logo.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/dad-logo.png"
   },
   {
     "name": "ETH (eos)",
     "symbol": "PETH",
     "account": "eth.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/peth.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/peth.png"
   },
   {
     "name": "LTC (eos)",
     "symbol": "PLTC",
     "account": "ltc.ptokens",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pltc.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pltc.png"
   },
   {
     "name": "MKR (eos)",
     "symbol": "PMKR",
     "account": "mkr.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pmkr.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pmkr.png"
   },
   {
     "name": "YFI (eos)",
     "symbol": "PYFI",
     "account": "yfi.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pyfi.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pyfi.png"
   },
   {
     "name": "LINK (eos)",
     "symbol": "PLINK",
     "account": "link.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/plink.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/plink.png"
   },
   {
     "name": "PNT (eos)",
     "symbol": "PNT",
     "account": "pnt.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pnt.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pnt.png"
   },
   {
     "name": "BAL (eos)",
     "symbol": "PBAL",
     "account": "bal.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pbal.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pbal.png"
   },
   {
     "name": "BAND (eos)",
     "symbol": "PBAND",
     "account": "band.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pband.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pband.png"
   },
   {
     "name": "COMP (eos)",
     "symbol": "PCOMP",
     "account": "comp.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pcomp.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pcomp.png"
   },
   {
     "name": "SNX (eos)",
     "symbol": "PSNX",
     "account": "snx.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/psnx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/psnx.png"
   },
   {
     "name": "ANT (eos)",
     "symbol": "PANT",
     "account": "ant.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pant.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pant.png"
   },
   {
     "name": "BAT (eos)",
     "symbol": "PBAT",
     "account": "bat.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pbat.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pbat.png"
   },
   {
     "name": "DAI (eos)",
     "symbol": "PDAI",
     "account": "dai.ptokens",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pdai.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pdai.png"
   },
   {
     "name": "LRC (eos)",
     "symbol": "PLRC",
     "account": "lrc.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/plrc.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/plrc.png"
   },
   {
     "name": "OMG (eos)",
     "symbol": "POMG",
     "account": "omg.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pomg.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pomg.png"
   },
   {
     "name": "ZRX (eos)",
     "symbol": "PZRX",
     "account": "zrx.ptokens",
     "precision": 9,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/pzrx.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/pzrx.png"
   },
   {
     "name": "CAT Token",
     "symbol": "CAT",
     "account": "eoscatstoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/cat.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/cat.png"
   },
   {
     "name": "FISH Token",
     "symbol": "FISH",
     "account": "fisheostoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/fish.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/fish.png"
   },
   {
     "name": "RAT",
     "symbol": "RAT",
     "account": "eosratstoken",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/rat.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/rat.png"
   },
   {
     "name": "DECO",
     "symbol": "DECO",
     "account": "destinytoken",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/DECO.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/DECO.png"
   },
   {
     "name": "USDCASH",
     "symbol": "USDCASH",
     "account": "token.pcash",
     "precision": 5,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/USDCASH.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/USDCASH.png"
   },
   {
     "name": "RUBCASH",
     "symbol": "RUBCASH",
     "account": "token.pcash",
     "precision": 5,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/RUBCASH.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/RUBCASH.png"
   },
   {
     "name": "UAHCASH",
     "symbol": "UAHCASH",
     "account": "token.pcash",
     "precision": 5,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/UAHCASH.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/UAHCASH.png"
   },
   {
     "name": "LIRUMOW",
     "symbol": "LIRUMOW",
     "account": "token.list",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/LIRUMOW.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/LIRUMOW.png"
   },
   {
     "name": "LIUAIEV",
     "symbol": "LIUAIEV",
     "account": "token.list",
     "precision": 8,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/LIUAIEV.png"
+    "logo": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/LIUAIEV.png"
   }
 ]
