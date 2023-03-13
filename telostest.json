@@ -1,6 +1,6 @@
 {
   "name": "Telos Testnet Token List",
-  "logoURI": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/telos.png",
+  "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
   "keywords": [
     "Telos", "testnet"
   ],
@@ -17,8 +17,8 @@
   "tokens": [
     {
       "name": "Telos",
-      "logo_sm": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/telos.png",
-      "logo_lg": "https://raw.githubusercontent.com/Viterbo/token-list/master/logos/telos.png",
+      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
+      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
       "symbol": "TLOS",
       "account": "eosio.token"
     },
