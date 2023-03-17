@@ -1,5 +1,16 @@
 # token-list
-EVM Token List
+We are working to keep updated all native standard tokens from all Antilope blockchains. We just started...
+
+Update ists are:
+
+**Telos:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.telos.json   
+**Testnet:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.testnet.json   
+**EOS:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.eos.json   
+**WAX:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.wax.json   
+
+------
+
+The following JSON files have been deprecated and are intended to be replaced by the previous version. However, they will be retained for an indefinite period.
 
 EVM Tokenlist URL
 https://raw.githubusercontent.com/telosnetwork/token-list/main/telosevm.tokenlist.json
@@ -9,5 +20,3 @@ https://raw.githubusercontent.com/telosnetwork/token-list/main/telosmain.json
 
 For tokens native to Telos EVM, make sure to tag with `telosevm`
 For tokens native to Telos, make sure to tag with `telos`
-
-For versioning, X.Y.Z if you are adding a token increment the minor version (Y), if you are editing an existing token increment the patch version (Z)

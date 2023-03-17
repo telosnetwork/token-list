@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Koinonos",
+    "symbol": "KOINE",
+    "contract": "vapaeetokens",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/koine.png"
+  },
+  {
+    "name": "EuroT",
+    "symbol": "EUROT",
+    "contract": "vapaeetokens",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/eurot.png"
+  },
+  {
+    "name": "Tips",
+    "symbol": "TIPS",
+    "contract": "vapaeetokens",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/tips.png"
+  },
+  {
+    "name": "DiversE",
+    "symbol": "DIVERSE",
+    "contract": "vapaeetokens",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/diverse.png"
+  },
+  {
+    "name": "Crypto Mulita",
+    "symbol": "MULITA",
+    "contract": "vapaeetokens",
+    "precision": 2,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/mulita.png"
+  },
+  {
+    "name": "Vapaée",
+    "symbol": "VPE",
+    "contract": "vapaeetokens",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/vapaee.png"
+  },
+  {
+    "name": "Acorn UBI",
+    "symbol": "ACORN",
+    "contract": "acornaccount",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/acorn.png"
+  },
+  {
+    "name": "Telos",
+    "symbol": "TLOS",
+    "contract": "eosio.token",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png"
+  },
+  {
+    "name": "Tether (telos)",
+    "symbol": "USDT",
+    "contract": "tokens.swaps",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/USDT.png"
+  }
+]
