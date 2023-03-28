@@ -149,6 +149,15 @@
       "decimals": 18,
       "tags": ["telosevm"]
     },
+     {
+       "chainId": 40,
+       "address": "0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64",
+       "symbol": "KARMA",
+       "name": "Charm Dojo",
+       "logoURI": "https://raw.githubusercontent.com/OmniDexFinance/tokenLogo/master/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64/logo.svg",
+       "decimals": 18,
+       "tags": ["telosevm"]
+      },
     {
       "chainId": 40,
       "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
@@ -341,7 +350,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 11,
+    "minor": 12,
     "patch": 0
   }
 }
