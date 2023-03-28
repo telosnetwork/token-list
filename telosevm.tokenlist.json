@@ -328,6 +328,15 @@
        "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
        "decimals": 18,
        "tags": ["telosevm"]
+      },
+     {
+       "chainId": 40,
+       "address": "0x14e374CEF17d800109710aa2c2D73e50db76d367",
+       "symbol": "sPOPS",
+       "name": "POPSBar",
+       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/other/Swapsicle-logo.png",
+       "decimals": 18,
+       "tags": ["telosevm"]
       }
   ],
   "version": {
