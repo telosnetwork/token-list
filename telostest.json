@@ -1,0 +1,38 @@
+{
+  "name": "Telos Testnet Token List",
+  "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
+  "keywords": [
+    "Telos", "testnet"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "telos": {
+      "name": "Telos Native",
+      "description": "Tokens that are native to Telos."
+    }
+  },
+  "tokens": [
+    {
+      "name": "Telos",
+      "logo_sm": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
+      "logo_lg": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png",
+      "symbol": "TLOS",
+      "account": "eosio.token"
+    },
+    {
+      "name": "Boid.com",
+      "logo_sm": "https://ipfs.animus.is/ipfs/QmPG6CL6QQA17uUFSbwE4QUHeneqzVy5K8SRryK9teu27p?filename=token-logo.png",
+      "logo_lg": "https://ipfs.animus.is/ipfs/QmXA1UmJNTSzsukDdGsRYqfxYTzpEPovQ96DG3MNsZSiUr?filename=token-logo-sm.png",
+      "symbol": "BOID",
+      "account": "token.boid"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
