@@ -397,5 +397,11 @@
     "contract": "token.local",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/LSCL.png"
+  }, {
+    "name": "Fortis",
+    "symbol": "FORT",
+    "contract": "fortisledger",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/Fortis.png"
   }
 ]
