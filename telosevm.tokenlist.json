@@ -149,6 +149,15 @@
       "decimals": 18,
       "tags": ["telosevm"]
     },
+     {
+       "chainId": 40,
+       "address": "0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64",
+       "symbol": "KARMA",
+       "name": "Charm Dojo",
+       "logoURI": "https://omnidex.finance/images/tokens/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64.svg",
+       "decimals": 18,
+       "tags": ["telosevm"]
+      },
     {
       "chainId": 40,
       "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
@@ -160,38 +169,11 @@
     },
     {
       "chainId": 40,
-      "address": "0x47be534f78c6408b454d36e75415249ad8d10a60",
-      "symbol": "JRS",
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/JesseRocketTokenLogo1.png",
-      "name": "Jesse Rocket Super Coin",
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
       "address": "0xcCf69d549a25d90938B3EEA0D7A2d112c971071B",
       "symbol": "TM",
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/TelosMemeLogo.png",
       "name": "TM Coin",
       "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0x03Cf39c84C7E5C514Ad4b9Aa49B04255aA0cdf87",
-      "symbol": "DLOS",
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/dogelosLogo.png",
-      "name": "DogeLos",
-      "decimals": 0,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xF5bA374CF1e85d1a44EC989c5d8A25C4eACA078E",
-      "symbol": "TFELLAS",
-      "logoURI": "https://telosfellas.com/images/tf.png",
-      "name": "TelosFellas",
-      "decimals": 9,
       "tags": ["telosevm"]
     },
     {
@@ -286,6 +268,15 @@
     },
     {
       "chainId": 40,
+      "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+      "symbol": "ELK",
+      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+      "name": "ELK",
+      "decimals": 18,
+      "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
       "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
       "symbol": "ELK",
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
@@ -328,11 +319,56 @@
       "logoURI": "https://archly.fi/tokens/arc-logo.png",
       "decimals": 18,
       "tags": ["telosevm"]
-     }
+     },
+    {
+      "chainId": 40,
+      "address": "0x34f94EaDBba78C784431a331EC683ce2efb9F838",
+      "symbol": "X365",
+      "logoURI": "https://365year.net/images/logoX.png",
+      "name": "X365",
+      "decimals": 18,
+      "tags": ["telosevm"]
+    },
+     {
+      "chainId": 40,
+      "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
+      "symbol": "PE",
+      "name": "Positron",
+      "logoURI": "https://raw.githubusercontent.com/OmniDexFinance/tokenLogo/master/0xE56c325a68b489812081E8A7b60b4017fd2AD280.png",
+      "decimals": 4,
+      "tags": ["telosevm"]
+     },
+     {
+      "chainId": 40,
+      "address": "0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A",
+      "symbol": "DECO",
+      "name": "Destiny Coin",
+      "logoURI": "https://api.dstor.cloud/ipfs/QmVx1uSPTW7UQWGbz3ba5Nf7DPVyieEdRnQGHogo7t9Pw6",
+      "decimals": 4,
+      "tags": ["telosevm"]
+     },
+     {
+       "chainId": 40,
+       "address": "0x173fd7434b8b50df08e3298f173487ebdb35fd14",
+       "symbol": "POPS",
+       "name": "Swapsicle POPS",
+       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
+       "decimals": 18,
+       "tags": ["telosevm"]
+      },
+     {
+       "chainId": 40,
+       "address": "0x14e374CEF17d800109710aa2c2D73e50db76d367",
+       "symbol": "sPOPS",
+       "name": "POPSBar",
+       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/other/Swapsicle-logo.png",
+       "decimals": 18,
+       "tags": ["telosevm"]
+      }
   ],
   "version": {
     "major": 0,
-    "minor": 10,
+    "minor": 12,
     "patch": 0
   }
 }
