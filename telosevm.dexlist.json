@@ -4,7 +4,11 @@
   "tags": {
     "uniswap": {
       "name": "Uniswap",
-      "description": "Uniswap clone"
+      "description": "Uniswap fork"
+    },
+    "solidly": {
+      "name": "Solidly",
+      "description": "Solidly fork"
     }
   },
   "timestamp": "2023-04-17T00:00:00+00:00",
@@ -12,32 +16,47 @@
     {
       "name": "Omnidex",
       "url": "https://omnidex.finance/",
-      "factoryContract": "",
+      "factoryContracts": {
+        "mainnet": "0x7a2A35706f5d1CeE2faa8A254dd6F6D7d7Becc25",
+        "testnet": "0x987d70a3b49bcC6A1774255f883F902Be247418B"
+      },
       "tags": ["uniswap"]
     },
     {
       "name": "Zappy",
       "url": "https://www.zappy.finance/",
-      "factoryContract": "",
+      "factoryContracts": {
+        "mainnet": "",
+        "testnet": ""
+      },
       "tags": ["uniswap"]
     },
     {
       "name": "Apeswap",
       "url": "https://apeswap.finance/",
-      "factoryContract": "",
+      "factoryContracts": {
+        "mainnet": "0x411172Dfcd5f68307656A1ff35520841C2F7fAec",
+        "testnet": ""
+      },
       "tags": ["uniswap"]
     },
     {
       "name": "Swapsicle",
       "url": "https://www.swapsicle.io/",
-      "factoryContract": "",
+      "factoryContracts": {
+        "mainnet": "0xb630f53df13645bff0ef55eb44a8a490a7dd4514",
+        "testnet": ""
+      },
       "tags": []
     },
     {
       "name": "Archly",
       "url": "https://archly.fi/",
-      "factoryContract": "",
-      "tags": []
+      "factoryContracts": {
+        "mainnet": "0x39fdd4Fec9b41e9AcD339a7cf75250108D32906c",
+        "testnet": "0xCEE3e7189913335D83c41aDfC3089B2B17a6a740"
+      },
+      "tags": ["solidly"]
     },
   ]
 }
