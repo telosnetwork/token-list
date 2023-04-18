@@ -1,3 +1,37 @@
 {
-  
+  "name": "TelosEVM Dex List",
+  "keywords": ["audited", "verified"],
+  "tags": {
+    "uniswap": {
+      "name": "Uniswap",
+      "description": "Uniswap clone"
+    }
+  },
+  "timestamp": "2023-04-17T00:00:00+00:00",
+  "dexes": [
+    {
+      "name": "Omnidex",
+      "url": "https://omnidex.finance/",
+      "factoryContract": "",
+      "tags": ["uniswap"]
+    },
+    {
+      "name": "Zappy",
+      "url": "https://www.zappy.finance/",
+      "factoryContract": "",
+      "tags": ["uniswap"]
+    },
+    {
+      "name": "Apeswap",
+      "url": "https://apeswap.finance/",
+      "factoryContract": "",
+      "tags": ["uniswap"]
+    },
+    {
+      "name": "Swapsicle",
+      "url": "https://www.swapsicle.io/",
+      "factoryContract": "",
+      "tags": []
+    },
+  ]
 }
