@@ -402,7 +402,7 @@
       "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
       "symbol": "PE",
       "name": "Positron",
-      "coingeckoId": false
+      "coingeckoId": false,
       "cmcSlug": false,
       "logoURI": "https://raw.githubusercontent.com/OmniDexFinance/tokenLogo/master/0xE56c325a68b489812081E8A7b60b4017fd2AD280.png",
       "decimals": 4,
