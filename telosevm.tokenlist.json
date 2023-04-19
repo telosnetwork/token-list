@@ -230,6 +230,7 @@
       "logoURI": "https://i.imgur.com/iYmGhdu.png",
       "name": "Aristotle",
       "coingeckoId": false,
+      "cmcSlug": false,
       "decimals": 9,
       "tags": ["telosevm"]
     },
