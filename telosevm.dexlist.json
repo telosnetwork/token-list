@@ -2,9 +2,13 @@
   "name": "TelosEVM Dex List",
   "keywords": ["audited", "verified"],
   "tags": {
-    "uniswap": {
-      "name": "Uniswap",
-      "description": "Uniswap fork"
+    "uniswapv2": {
+      "name": "Uniswap v2",
+      "description": "Uniswap v2 fork"
+    },
+    "uniswapv3": {
+      "name": "Uniswap v3",
+      "description": "Uniswap v3 fork"
     },
     "solidly": {
       "name": "Solidly",
@@ -20,7 +24,7 @@
         "mainnet": "0x7a2A35706f5d1CeE2faa8A254dd6F6D7d7Becc25",
         "testnet": "0x987d70a3b49bcC6A1774255f883F902Be247418B"
       },
-      "tags": ["uniswap"]
+      "tags": ["uniswapv2"]
     },
     {
       "name": "Zappy",
@@ -29,7 +33,7 @@
         "mainnet": "",
         "testnet": ""
       },
-      "tags": ["uniswap"]
+      "tags": ["uniswapv2"]
     },
     {
       "name": "Apeswap",
@@ -38,7 +42,7 @@
         "mainnet": "0x411172Dfcd5f68307656A1ff35520841C2F7fAec",
         "testnet": ""
       },
-      "tags": ["uniswap"]
+      "tags": ["uniswapv2"]
     },
     {
       "name": "Swapsicle",
