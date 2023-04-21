@@ -452,6 +452,17 @@
        "logoURI": "https://www.gitbook.com/cdn-cgi/image/width=64,dpr=2,height=64,fit=contain,format=auto/https%3A%2F%2F22989732-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-Mfe_ZkXph_BoaZts9vG%252Favatar-1628517290226.png%3Fgeneration%3D1628517290903816%26alt%3Dmedia",
        "decimals": 6,
        "tags": ["telosevm"]
+      },
+      {
+       "chainId": 40,
+       "address": "0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF",
+       "symbol": "FORT",
+       "name": "Fortis Coin",
+       "coingeckoId": false,
+       "cmcSlug": false,
+       "logoURI": "https://app.fortisfinance.io/Fortis.png",
+       "decimals": 18,
+       "tags": ["telosevm"]
       }
   ],
   "version": {
