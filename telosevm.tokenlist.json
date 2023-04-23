@@ -435,10 +435,10 @@
        "chainId": 40,
        "address": "0x14e374CEF17d800109710aa2c2D73e50db76d367",
        "symbol": "sPOPS",
-       "name": "POPSBar",
+       "name": "Staked POPS",
        "coingeckoId": false,
        "cmcSlug": false,
-       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/other/Swapsicle-logo.png",
+       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x5108176bC1B7e72440e6B48862c51d7eB0AEd5c4/logo.svg",
        "decimals": 18,
        "tags": ["telosevm"]
       },
