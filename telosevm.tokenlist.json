@@ -203,65 +203,10 @@
     },
     {
       "chainId": 40,
-      "address": "0xcCf69d549a25d90938B3EEA0D7A2d112c971071B",
-      "symbol": "TM",
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/TelosMemeLogo.png",
-      "name": "TM Coin",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0x6439DA210988b1fD8DAC8b31CD000a7087416824",
-      "symbol": "BEVIL",
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/BabyEvilsLogo.png",
-      "name": "BabyEvils",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0x1aCA60694d12A99fa5DdD1C78493b6eFd7416601",
-      "symbol": "ARIS",
-      "logoURI": "https://i.imgur.com/iYmGhdu.png",
-      "name": "Aristotle",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 9,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
       "address": "0xE5dE07ec385B1BD55f6bB02c01860547be9D7C0B",
       "symbol": "PIG",
       "logoURI": "https://gateway.ipfs.io/ipfs/QmPThPaz3kjWaLjDAZKP8frpzaVm5Rvi5wCcUbag8QhgRL",
       "name": "Big Pig",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0x8b377acebccf930fec65e9ccb693bdb1be3fd3c0",
-      "symbol": "PLOU",
-      "logoURI": "https://raw.githubusercontent.com/Geilogandet/token-list/cf290bf5297be0842ada7ad10f7f70bbaf718c05/Ploutus.png",
-      "name": "Ploutus",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0x2f15F85a6c346C0a2514Af70075259e503E7137B",
-      "symbol": "DMMY",
-      "logoURI": "https://omnidex.finance/images/tokens/0x2f15F85a6c346C0a2514Af70075259e503E7137B.svg",
-      "name": "dummy☻DAO",
       "coingeckoId": false,
       "cmcId": false,
       "decimals": 18,
@@ -287,17 +232,6 @@
       "coingeckoId": false,
       "cmcId": false,
       "decimals": 9,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xa5E5cf79494643d509A076e3895547086f47a6F1",
-      "symbol": "TSQRL",
-      "logoURI": "https://3hlzh7.dstor.cloud/ipfs/QmbL7uYYp7sZ6URYua1RdWw6MPLR7jnZisMfLbPEhuurKw?filename=TSQRL.png",
-      "name": "T-Squirrel",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
       "tags": ["telosevm"]
     },
     {
