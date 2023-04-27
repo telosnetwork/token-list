@@ -236,28 +236,6 @@
     },
     {
       "chainId": 40,
-      "address": "0x5C8F2334BD0e7B76e15a7869E31c1F1A654a2B62",
-      "symbol": "DOG",
-      "logoURI": "https://gateway.ipfs.io/ipfs/QmerrZ47zBxoQqkr4gfY53wvoAUqn3JXs6R6VCfE4s9nkK",
-      "name": "Glue Dog",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0x470Bb4C2499726DC7329A7874E82b9b3578eA891",
-      "symbol": "USDOG",
-      "logoURI": "https://glue.dog/wp-content/uploads/2022/02/stabledog-768x630.png",
-      "name": "Stabledog",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
       "address": "0xE5dE07ec385B1BD55f6bB02c01860547be9D7C0B",
       "symbol": "PIG",
       "logoURI": "https://gateway.ipfs.io/ipfs/QmPThPaz3kjWaLjDAZKP8frpzaVm5Rvi5wCcUbag8QhgRL",
