@@ -1,0 +1,47 @@
+{
+  "name": "TelosEVM Token List",
+  "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
+  "keywords": ["audited", "Telos", "verified", "special tokens", "Layer 1 EVM", "DeFi tokens"],
+  "tags": {
+    "art": {
+      "name": "Art",
+      "description": "Art NFTs"
+    },
+    "image": {
+      "name": "Image",
+      "description": "Image NFTs"
+    },
+    "social": {
+      "name": "Social",
+      "description": "Social NFTs"
+    },
+    "finance": {
+      "name": "Finance",
+      "description": "Finance NFTs"
+    }
+  },
+  "timestamp": "2021-11-17T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 40,
+      "address": "0x2d7d3B1f9569037635eDfbE04C640BB4556A4EA6",
+      "symbol": "TP",
+      "name": "Telos Punks V2",
+      "logoURI": "https://telospunksmint.netlify.app/config/images/example.gif",
+      "tags": ["art", "image"]
+    },
+    {
+      "chainId": 40,
+      "address": "0x63F8948c2Ee0670758A4E60EED80aAa6Cf093356",
+      "symbol": "NFT",
+      "name": "Apish Punks",
+      "logoURI": "https://apish.me/images/token.png",
+      "tags": ["art", "image"]
+    },
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
