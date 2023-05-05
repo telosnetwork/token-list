@@ -159,6 +159,17 @@
     },
     {
       "chainId": 40,
+      "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
+      "symbol": "ONE",
+      "name": "Harmony",
+      "coingeckoId": "harmony",
+      "cmcId": 3945,
+      "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png?1565065793",
+      "decimals": 18,
+      "tags": ["telosevm"]
+     },
+    {
+      "chainId": 40,
       "address": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
       "symbol": "ZAP",
       "name": "Zappy",
