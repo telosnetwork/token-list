@@ -51,7 +51,7 @@
         "mainnet": "0xb630f53df13645bff0ef55eb44a8a490a7dd4514",
         "testnet": ""
       },
-      "tags": []
+      "tags": ["uniswapv2"]
     },
     {
       "name": "Archly",
