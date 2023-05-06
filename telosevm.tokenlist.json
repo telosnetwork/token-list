@@ -258,6 +258,17 @@
     },
     {
       "chainId": 40,
+      "address": "0xB153FB3d196A8eB25522705560ac152eeEc57901",
+      "symbol": "WELT",
+      "logoURI": "https://assets.coingecko.com/coins/images/20505/small/welt.PNG?1637143324",
+      "name": "Fabwelt",
+      "coingeckoId": "fabwelt",
+      "cmcId": 14681,
+      "decimals": 18,
+      "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
       "address": "0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4",
       "symbol": "APISH",
       "logoURI": "https://apish.me/images/token.png",
