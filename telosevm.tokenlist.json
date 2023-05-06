@@ -148,6 +148,17 @@
     },
     {
       "chainId": 40,
+      "address": "0xc46fedc533E9f14c99C4c5124e2085701fa9B255",
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "coingeckoId": "pepe",
+      "cmcId": 24478,
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg?1682922725",
+      "decimals": 18,
+      "tags": []
+    },
+    {
+      "chainId": 40,
       "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
       "symbol": "SUSHI",
       "name": "Sushi",
