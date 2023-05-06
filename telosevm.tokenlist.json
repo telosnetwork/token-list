@@ -148,6 +148,17 @@
     },
     {
       "chainId": 40,
+      "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4",
+      "symbol": "LINK",
+      "name": "ChainLink Token",
+      "coingeckoId": "chainlink",
+      "cmcId": 1975,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
+      "decimals": 18,
+      "tags": []
+    },
+    {
+      "chainId": 40,
       "address": "0xc46fedc533E9f14c99C4c5124e2085701fa9B255",
       "symbol": "PEPE",
       "name": "Pepe",
