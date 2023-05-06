@@ -23,7 +23,7 @@
       "cmcId": 4660,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
       "decimals": 18,
-      "tags": []
+      "tags": ["telosevm"]
     },
     {
       "chainId": 41,
@@ -34,7 +34,7 @@
       "cmcId": 4660,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
       "decimals": 18,
-      "tags": []
+      "tags": ["telosevm"]
     },
     {
       "chainId": 40,
@@ -45,7 +45,7 @@
       "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
       "decimals": 18,
-      "tags": []
+      "tags": ["telosevm"]
     },
     {
       "chainId": 41,
@@ -56,7 +56,7 @@
       "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
       "decimals": 18,
-      "tags": []
+      "tags": ["telosevm"]
     },
     {
       "chainId": 40,
@@ -276,7 +276,7 @@
       "coingeckoId": "elk-finance",
       "cmcId": 10095,
       "decimals": 18,
-      "tags": ["telosevm"]
+      "tags": []
     },
     {
       "chainId": 40,
@@ -287,7 +287,7 @@
       "coingeckoId": "elk-finance",
       "cmcId": 10095,
       "decimals": 18,
-      "tags": ["telosevm"]
+      "tags": []
     },
     {
       "chainId": 40,
@@ -309,7 +309,7 @@
       "coingeckoId": "apeswap-finance",
       "cmcId": 8497,
       "decimals": 18,
-      "tags": ["telosevm"]
+      "tags": []
     },
     {
       "chainId": 40,
