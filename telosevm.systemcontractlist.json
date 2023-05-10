@@ -1,0 +1,43 @@
+{
+  "name": "TelosEVM System Contract List",
+  "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
+  "keywords": ["token", "Telos", "verified", "special tokens", "Layer 1 EVM", "DeFi tokens"],
+  "tags": {
+    "token": {
+      "name": "Token",
+      "description": "Tokens"
+    },
+  },
+  "timestamp": "2021-11-17T00:00:00+00:00",
+  "contracts": [
+    {
+      "chainId": 40,
+      "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+      "name": "Wrapped TLOS",
+      "tags": ["token"]
+    },
+    {
+      "chainId": 41,
+      "address": "0xaE85Bf723A9e74d6c663dd226996AC1b8d075AA9",
+      "name": "Wrapped TLOS",
+      "tags": ["token"]
+    },
+    {
+      "chainId": 40,
+      "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
+      "name": "Stacked TLOS",
+      "tags": ["token"]
+    },
+    {
+      "chainId": 41,
+      "address": "0xa9991E4daA44922D00a78B6D986cDf628d46C4DD",
+      "name": "Stacked TLOS",
+      "tags": ["token"]
+    },
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
