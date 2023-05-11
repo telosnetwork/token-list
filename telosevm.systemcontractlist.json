@@ -5,7 +5,11 @@
   "tags": {
     "token": {
       "name": "Token",
-      "description": "Tokens"
+      "description": "Token contracts"
+    },
+    "escrow": {
+      "name": "Escrow",
+      "description": "Escrow contracts"
     }
   },
   "timestamp": "2021-11-17T00:00:00+00:00",
@@ -33,6 +37,18 @@
       "address": "0xa9991E4daA44922D00a78B6D986cDf628d46C4DD",
       "name": "Stacked TLOS",
       "tags": ["token"]
+    }
+    {
+      "chainId": 40,
+      "address": "0x95F5713A1422Aa3FBD3DCB8D553945C128ee3855",
+      "name": "Telos Escrow",
+      "tags": ["escrow"]
+    },
+    {
+      "chainId": 41,
+      "address": "0x7E9cF9fBc881652B05BB8F26298fFAB538163b6f",
+      "name": "Telos Escrow",
+      "tags": ["escrow"]
     }
   ],
   "version": {
