@@ -6,7 +6,7 @@
     "token": {
       "name": "Token",
       "description": "Tokens"
-    },
+    }
   },
   "timestamp": "2021-11-17T00:00:00+00:00",
   "contracts": [
@@ -33,7 +33,7 @@
       "address": "0xa9991E4daA44922D00a78B6D986cDf628d46C4DD",
       "name": "Stacked TLOS",
       "tags": ["token"]
-    },
+    }
   ],
   "version": {
     "major": 0,
