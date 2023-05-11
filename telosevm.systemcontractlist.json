@@ -7,6 +7,10 @@
       "name": "Token",
       "description": "Token contracts"
     },
+    "proxy": {
+      "name": "proxy",
+      "description": "Proxy contracts"
+    },
     "escrow": {
       "name": "Escrow",
       "description": "Escrow contracts"
@@ -14,6 +18,18 @@
   },
   "timestamp": "2021-11-17T00:00:00+00:00",
   "contracts": [
+    {
+      "chainId": 40,
+      "address": "0x8525AD7D4D52FC58589d6C880377B9d1667AD328",
+      "name": "prods.evm native linked account",
+      "tags": ["proxy"]
+    },
+    {
+      "chainId": 41,
+      "address": "0x7c56101c01EaAeCe3d1bb330910c8E9183b39dBD",
+      "name": "prods.evm native linked account",
+      "tags": ["proxy"]
+    },
     {
       "chainId": 40,
       "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
