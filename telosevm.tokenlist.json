@@ -181,6 +181,17 @@
     },
     {
       "chainId": 40,
+      "address": "0x3D632d9e1a60a0880Dd45E61f279D919b5748377",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "coingeckoId": "arbitrum",
+      "cmcId": 11841,
+      "logoURI": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg?1680097630",
+      "decimals": 18,
+      "tags": []
+    },
+    {
+      "chainId": 40,
       "address": "0xc46fedc533E9f14c99C4c5124e2085701fa9B255",
       "symbol": "PEPE",
       "name": "Pepe",
