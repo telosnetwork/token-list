@@ -126,6 +126,17 @@
     },
     {
       "chainId": 40,
+      "address": "0x33C80d5492b04BFB94F2757FCA88a2d7f49211e6",
+      "symbol": "OP",
+      "name": "Optimism",
+      "coingeckoId" : "optimism",
+      "cmcId": 11840,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png?1660904599",
+      "decimals": 18,
+      "tags": []
+    },
+    {
+      "chainId": 40,
       "address": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
       "symbol": "BNB",
       "name": "Binance Coin",
