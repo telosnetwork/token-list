@@ -159,6 +159,17 @@
     },
     {
       "chainId": 40,
+      "address": "0x22648C12acD87912EA1710357B1302c6a4154Ebc",
+      "symbol": "XRP",
+      "name": "Ripple",
+      "coingeckoId": "ripple",
+      "cmcId": 52,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+      "decimals": 6,
+      "tags": []
+    },
+    {
+      "chainId": 40,
       "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4",
       "symbol": "LINK",
       "name": "ChainLink Token",
