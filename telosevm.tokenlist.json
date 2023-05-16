@@ -384,7 +384,7 @@
       "name": "Archly Arc",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://archly.fi/tokens/arc-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/logos/0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5.png",
       "decimals": 18,
       "tags": ["telosevm"]
      },
