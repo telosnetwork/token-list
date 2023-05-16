@@ -461,7 +461,7 @@
        "name": "Robinos",
        "coingeckoId": false,
        "cmcId": false,
-       "logoURI": "https://www.gitbook.com/cdn-cgi/image/width=64,dpr=2,height=64,fit=contain,format=auto/https%3A%2F%2F22989732-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-Mfe_ZkXph_BoaZts9vG%252Favatar-1628517290226.png%3Fgeneration%3D1628517290903816%26alt%3Dmedia",
+       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/logos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63.png",
        "decimals": 6,
        "tags": ["telosevm"]
       },
