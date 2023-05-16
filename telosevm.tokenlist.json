@@ -263,7 +263,7 @@
      "name": "Charm Dojo",
      "coingeckoId": false,
      "cmcId": false,
-     "logoURI": "https://omnidex.finance/images/tokens/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64.svg",
+     "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/logos/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64.svg",
      "decimals": 18,
      "tags": ["telosevm"]
     },
