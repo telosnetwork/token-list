@@ -423,6 +423,17 @@
      },
      {
        "chainId": 40,
+       "address": "0xE35b6D08050fef8E2bA2b1ED9C8f966a2346A500",
+       "symbol": "WAG",
+       "name": "WagyuSwap Token",
+       "coingeckoId": "wagyuswap",
+       "cmcId": 11354,
+       "logoURI": "https://raw.githubusercontent.com/wagyuswapapp/assets/master/blockchains/telos/assets/0xe35b6d08050fef8e2ba2b1ed9c8f966a2346a500/logo.png",
+       "decimals": 18,
+       "tags": ["telosevm"]
+      },
+     {
+       "chainId": 40,
        "address": "0x173fd7434b8b50df08e3298f173487ebdb35fd14",
        "symbol": "POPS",
        "name": "Swapsicle POPS",
