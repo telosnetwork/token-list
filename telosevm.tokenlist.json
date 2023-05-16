@@ -315,7 +315,7 @@
       "chainId": 40,
       "address": "0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4",
       "symbol": "APISH",
-      "logoURI": "https://apish.me/images/token.png",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/logos/0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4.png",
       "name": "APISH ME",
       "coingeckoId": false,
       "cmcId": false,
