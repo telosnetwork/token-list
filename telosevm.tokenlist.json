@@ -263,7 +263,7 @@
      "name": "Charm Dojo",
      "coingeckoId": false,
      "cmcId": false,
-     "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/logos/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64.svg",
+     "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64.svg",
      "decimals": 18,
      "tags": ["telosevm"]
     },
@@ -315,7 +315,7 @@
       "chainId": 40,
       "address": "0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4",
       "symbol": "APISH",
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/logos/0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4.png",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4.png",
       "name": "APISH ME",
       "coingeckoId": false,
       "cmcId": false,
@@ -384,7 +384,7 @@
       "name": "Archly Arc",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/logos/0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5.png",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5.png",
       "decimals": 18,
       "tags": ["telosevm"]
      },
@@ -461,7 +461,7 @@
        "name": "Robinos",
        "coingeckoId": false,
        "cmcId": false,
-       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/logos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63.png",
+       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63.png",
        "decimals": 6,
        "tags": ["telosevm"]
       },
