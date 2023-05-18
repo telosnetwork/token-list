@@ -37,6 +37,28 @@
       "tags": ["telosevm"]
     },
     {
+      "chainId": 41,
+      "address": "0xD159C4E586421a507907faD705e067bfB350dc07",
+      "symbol": "FIAT",
+      "name": "Inflationary Asset (DEX Demo)",
+      "coingeckoId": false,
+      "cmcId": false,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xD159C4E586421a507907faD705e067bfB350dc07.png",
+      "decimals": 4,
+      "tags": ["telosevm"]
+    },
+    {
+      "chainId": 41,
+      "address": "0xd9151F839a9d8D280C0a3a694C82b6865BbCa099",
+      "symbol": "CAKE",
+      "name": "PancakeSwap (DEX Demo)",
+      "coingeckoId": false,
+      "cmcId": false,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xd9151F839a9d8D280C0a3a694C82b6865BbCa099.png",
+      "decimals": 18,
+      "tags": ["telosevm"]
+    },
+    {
       "chainId": 40,
       "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
       "symbol": "STLOS",
