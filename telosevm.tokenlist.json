@@ -170,6 +170,17 @@
     },
     {
       "chainId": 40,
+      "address": "0x4f3Aff3A747fCADe12598081e80c6605A8be192F",
+      "symbol": "GAMI",
+      "name": "Gami Studio",
+      "coingeckoId" : "gami",
+      "cmcId": 18680,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x4f3Aff3A747fCADe12598081e80c6605A8be192F.png",
+      "decimals": 18,
+      "tags": []
+    },
+    {
+      "chainId": 40,
       "address": "0x33C80d5492b04BFB94F2757FCA88a2d7f49211e6",
       "symbol": "OP",
       "name": "Optimism",
