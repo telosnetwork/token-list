@@ -159,6 +159,17 @@
     },
     {
       "chainId": 40,
+      "address": "0x86B3F23B6e90F5bbfac59b5b2661134Ef8Ffd255",
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "coingeckoId" : "apecoin",
+      "cmcId": 18876,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x86B3F23B6e90F5bbfac59b5b2661134Ef8Ffd255.png",
+      "decimals": 18,
+      "tags": []
+    },
+    {
+      "chainId": 40,
       "address": "0x33C80d5492b04BFB94F2757FCA88a2d7f49211e6",
       "symbol": "OP",
       "name": "Optimism",
