@@ -148,6 +148,17 @@
     },
     {
       "chainId": 40,
+      "address": "0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC",
+      "symbol": "MOVR",
+      "name": "Moonriver",
+      "coingeckoId" : "moonriver",
+      "cmcId": 9285,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC.png",
+      "decimals": 18,
+      "tags": []
+    },
+    {
+      "chainId": 40,
       "address": "0x33C80d5492b04BFB94F2757FCA88a2d7f49211e6",
       "symbol": "OP",
       "name": "Optimism",
