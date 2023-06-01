@@ -487,7 +487,18 @@
        "decimals": 18,
        "tags": ["telosevm"]
       },
-     {
+      {
+       "chainId": 41,
+       "address": "0x950570d7B3CeC2d93b506d2D4eB53f38cbD130b0",
+       "symbol": "POPS",
+       "name": "Swapsicle POPS",
+       "coingeckoId": "swapsicle-pops",
+       "cmcId": 20438,
+       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
+       "decimals": 18,
+       "tags": ["telosevm"]
+      },
+      {
        "chainId": 40,
        "address": "0x173fd7434b8b50df08e3298f173487ebdb35fd14",
        "symbol": "POPS",
