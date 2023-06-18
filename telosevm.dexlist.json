@@ -36,15 +36,6 @@
       "tags": ["uniswapv2"]
     },
     {
-      "name": "Apeswap",
-      "url": "https://apeswap.finance/",
-      "factoryContracts": {
-        "mainnet": "0x411172Dfcd5f68307656A1ff35520841C2F7fAec",
-        "testnet": ""
-      },
-      "tags": ["uniswapv2"]
-    },
-    {
       "name": "Swapsicle",
       "url": "https://www.swapsicle.io/",
       "factoryContracts": {
