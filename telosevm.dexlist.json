@@ -27,15 +27,6 @@
       "tags": ["uniswapv2"]
     },
     {
-      "name": "Zappy",
-      "url": "https://www.zappy.finance/",
-      "factoryContracts": {
-        "mainnet": "",
-        "testnet": ""
-      },
-      "tags": ["uniswapv2"]
-    },
-    {
       "name": "Swapsicle",
       "url": "https://www.swapsicle.io/",
       "factoryContracts": {
