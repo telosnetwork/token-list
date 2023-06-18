@@ -44,5 +44,10 @@
       },
       "tags": ["solidly"]
     },
-  ]
+  ],
+  "version": {
+    "major": 10,
+    "minor": 0,
+    "patch": 0
+  }
 }
