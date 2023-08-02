@@ -24,8 +24,8 @@
     },
     {
       "name": "Boid.com",
-      "logo_sm": "https://ipfs.animus.is/ipfs/QmPG6CL6QQA17uUFSbwE4QUHeneqzVy5K8SRryK9teu27p?filename=token-logo.png",
-      "logo_lg": "https://ipfs.animus.is/ipfs/QmXA1UmJNTSzsukDdGsRYqfxYTzpEPovQ96DG3MNsZSiUr?filename=token-logo-sm.png",
+      "logo_sm": "https://raw.githubusercontent.com/animuslabs/boid-branding/main/token-logo-sm.png",
+      "logo_lg": "https://raw.githubusercontent.com/animuslabs/boid-branding/main/token-logo.png",
       "symbol": "BOID",
       "account": "token.boid"
     }
