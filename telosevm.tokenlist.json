@@ -87,8 +87,8 @@
       "issuer": "Multichain",
       "issuer_link": "https://app.multichain.org/",
       "name": "Wrapped Bitcoin",
-      "coingeckoId": "bitcoin",
-      "cmcId": 1,
+      "coingeckoId": false,
+      "cmcId": false,
       "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png",
       "decimals": 8,
       "tags": []
@@ -100,8 +100,8 @@
       "issuer": "Multichain",
       "issuer_link": "https://app.multichain.org/",
       "name": "Ethereum",
-      "coingeckoId": "ethereum",
-      "cmcId": 1027,
+      "coingeckoId": false,
+      "cmcId": false,
       "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
       "decimals": 18,
       "tags": []
@@ -114,7 +114,7 @@
       "issuer_link": "https://app.multichain.org/",
       "name": "USD Coin",
       "coingeckoId" : "usd-coin",
-      "cmcId": 3408,
+      "cmcId": false,
       "decimals": 6,
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": ["stablecoin"]
@@ -127,7 +127,7 @@
       "issuer_link": "https://app.multichain.org/",
       "name": "Tether Stable Coin",
       "coingeckoId" : "tether",
-      "cmcId": 825,
+      "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
       "decimals": 6,
       "tags": ["stablecoin"]
@@ -140,7 +140,7 @@
       "issuer_link": "https://app.multichain.org/",
       "name": "Binance USD",
       "coingeckoId" : "binance-usd",
-      "cmcId": 4687,
+      "cmcId": false,
       "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
       "decimals": 18,
       "tags": ["stablecoin"]
@@ -153,7 +153,7 @@
       "issuer_link": "https://app.multichain.org/",
       "name": "Avalanche",
       "coingeckoId" : "avalanche-2",
-      "cmcId": 5805,
+      "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
       "decimals": 18,
       "tags": []
@@ -166,7 +166,7 @@
       "issuer_link": "https://app.multichain.org/",
       "name": "Moonriver",
       "coingeckoId" : "moonriver",
-      "cmcId": 9285,
+      "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC.png",
       "decimals": 18,
       "tags": []
@@ -179,7 +179,7 @@
       "issuer_link": "https://app.multichain.org/",
       "name": "ApeCoin",
       "coingeckoId" : "apecoin",
-      "cmcId": 18876,
+      "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x86B3F23B6e90F5bbfac59b5b2661134Ef8Ffd255.png",
       "decimals": 18,
       "tags": []
@@ -192,7 +192,7 @@
       "issuer_link": "https://app.multichain.org/",
       "name": "Gami Studio",
       "coingeckoId" : "gami",
-      "cmcId": 18680,
+      "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x4f3Aff3A747fCADe12598081e80c6605A8be192F.png",
       "decimals": 18,
       "tags": []
@@ -205,7 +205,7 @@
       "issuer_link": "https://app.multichain.org/",
       "name": "Optimism",
       "coingeckoId" : "optimism",
-      "cmcId": 11840,
+      "cmcId": false,
       "logoURI": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png?1660904599",
       "decimals": 18,
       "tags": []
@@ -218,7 +218,7 @@
       "issuer_link": "https://app.multichain.org/",
       "name": "Binance Coin",
       "coingeckoId" : "binancecoin",
-      "cmcId": 1839,
+      "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
       "decimals": 18,
       "tags": []
@@ -231,7 +231,7 @@
       "issuer_link": "https://app.multichain.org/",
       "name": "Fantom",
       "coingeckoId" : "fantom",
-      "cmcId": 3513,
+      "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
       "decimals": 18,
       "tags": []
@@ -243,8 +243,8 @@
       "issuer": "Multichain",
       "issuer_link": "https://app.multichain.org/",
       "name": "Polygon",
-      "coingeckoId": "matic-network",
-      "cmcId": 3890,
+      "coingeckoId": false,
+      "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53/logo.png",
       "decimals": 18,
       "tags": []
@@ -256,8 +256,8 @@
       "issuer": "Multichain",
       "issuer_link": "https://app.multichain.org/",
       "name": "Ripple",
-      "coingeckoId": "ripple",
-      "cmcId": 52,
+      "coingeckoId": false,
+      "cmcId": false,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
       "decimals": 6,
       "tags": []
@@ -269,8 +269,8 @@
       "issuer": "Multichain",
       "issuer_link": "https://app.multichain.org/",
       "name": "ChainLink Token",
-      "coingeckoId": "chainlink",
-      "cmcId": 1975,
+      "coingeckoId": false,
+      "cmcId": false,
       "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
       "decimals": 18,
       "tags": []
@@ -282,8 +282,8 @@
       "issuer": "Multichain",
       "issuer_link": "https://app.multichain.org/",
       "name": "Arbitrum",
-      "coingeckoId": "arbitrum",
-      "cmcId": 11841,
+      "coingeckoId": false,
+      "cmcId": false,
       "logoURI": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg?1680097630",
       "decimals": 18,
       "tags": []
@@ -295,8 +295,8 @@
       "issuer": "Multichain",
       "issuer_link": "https://app.multichain.org/",
       "name": "Pepe",
-      "coingeckoId": "pepe",
-      "cmcId": 24478,
+      "coingeckoId": false,
+      "cmcId": false,
       "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg?1682922725",
       "decimals": 18,
       "tags": []
@@ -319,8 +319,8 @@
       "issuer": "Multichain",
       "issuer_link": "https://app.multichain.org/",
       "name": "Harmony",
-      "coingeckoId": "harmony",
-      "cmcId": 3945,
+      "coingeckoId": false,
+      "cmcId": false,
       "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png?1565065793",
       "decimals": 18,
       "tags": ["telosevm"]
@@ -399,8 +399,8 @@
       "name": "Fabwelt",
       "issuer": "Multichain",
       "issuer_link": "https://app.multichain.org/",
-      "coingeckoId": "fabwelt",
-      "cmcId": 14681,
+      "coingeckoId": false,
+      "cmcId": false,
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -460,8 +460,8 @@
       "name": "ApeSwap Finance Banana",
       "issuer": "Multichain",
       "issuer_link": "https://app.multichain.org/",
-      "coingeckoId": "apeswap-finance",
-      "cmcId": 8497,
+      "coingeckoId": false,
+      "cmcId": false,
       "decimals": 18,
       "tags": []
     },
@@ -542,8 +542,8 @@
        "name": "Swapsicle POPS",
        "issuer": "Multichain",
        "issuer_link": "https://app.multichain.org/",
-       "coingeckoId": "swapsicle-pops",
-       "cmcId": 20438,
+       "coingeckoId": false,
+       "cmcId": false,
        "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
        "decimals": 18,
        "tags": ["telosevm"]
@@ -555,8 +555,8 @@
        "name": "Swapsicle POPS",
        "issuer": "Multichain",
        "issuer_link": "https://app.multichain.org/",
-       "coingeckoId": "swapsicle-pops",
-       "cmcId": 20438,
+       "coingeckoId": false,
+       "cmcId": false,
        "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
        "decimals": 18,
        "tags": ["telosevm"]
