@@ -1,625 +1,696 @@
 {
   "name": "TelosEVM Token List",
   "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
-  "keywords": ["audited", "Telos", "verified", "special tokens", "Layer 1 EVM", "DeFi tokens"],
+  "keywords": [
+      "audited",
+      "Telos",
+      "verified",
+      "special tokens",
+      "Layer 1 EVM",
+      "DeFi tokens"
+  ],
   "tags": {
-    "stablecoin": {
-      "name": "Stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-    },
-    "telosevm": {
-      "name": "TelosEVM Native",
-      "description": "Tokens that are native to TelosEVM."
-    }
+      "stablecoin": {
+          "name": "Stablecoin",
+          "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+      },
+      "telosevm": {
+          "name": "TelosEVM Native",
+          "description": "Tokens that are native to TelosEVM."
+      }
   },
   "timestamp": "2021-11-17T00:00:00+00:00",
   "tokens": [
-    {
-      "chainId": 40,
-      "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
-      "symbol": "WTLOS",
-      "name": "Wrapped TLOS",
-      "coingeckoId": "telos",
-      "cmcId": 4660,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 41,
-      "address": "0xaE85Bf723A9e74d6c663dd226996AC1b8d075AA9",
-      "symbol": "WTLOS",
-      "name": "Wrapped TLOS",
-      "coingeckoId": "telos",
-      "cmcId": 4660,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 41,
-      "address": "0xD159C4E586421a507907faD705e067bfB350dc07",
-      "symbol": "FIAT",
-      "name": "Inflationary Asset (DEX Demo)",
-      "coingeckoId": false,
-      "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xD159C4E586421a507907faD705e067bfB350dc07.png",
-      "decimals": 4,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 41,
-      "address": "0xd9151F839a9d8D280C0a3a694C82b6865BbCa099",
-      "symbol": "CAKE",
-      "name": "PancakeSwap (DEX Demo)",
-      "coingeckoId": false,
-      "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xd9151F839a9d8D280C0a3a694C82b6865BbCa099.png",
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
-      "symbol": "STLOS",
-      "name": "Staked TLOS",
-      "coingeckoId": false,
-      "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 41,
-      "address": "0xa9991E4daA44922D00a78B6D986cDf628d46C4DD",
-      "symbol": "STLOS",
-      "name": "Staked TLOS",
-      "coingeckoId": false,
-      "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
-      "symbol": "WBTC",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Wrapped Bitcoin",
-      "coingeckoId": "bitcoin",
-      "cmcId": 1,
-      "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png",
-      "decimals": 8,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
-      "symbol": "ETH",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Ethereum",
-      "coingeckoId": "ethereum",
-      "cmcId": 1027,
-      "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
-      "symbol": "USDC",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "USD Coin",
-      "coingeckoId" : "usd-coin",
-      "cmcId": 3408,
-      "decimals": 6,
-      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
-      "tags": ["stablecoin"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-      "symbol": "USDT",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Tether Stable Coin",
-      "coingeckoId" : "tether",
-      "cmcId": 825,
-      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
-      "decimals": 6,
-      "tags": ["stablecoin"]
-    },
-    {
-      "chainId": 40,
-      "address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
-      "symbol": "BUSD",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Binance USD",
-      "coingeckoId" : "binance-usd",
-      "cmcId": 4687,
-      "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
-      "decimals": 18,
-      "tags": ["stablecoin"]
-    },
-    {
-      "chainId": 40,
-      "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
-      "symbol": "AVAX",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Avalanche",
-      "coingeckoId" : "avalanche-2",
-      "cmcId": 5805,
-      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC",
-      "symbol": "MOVR",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Moonriver",
-      "coingeckoId" : "moonriver",
-      "cmcId": 9285,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC.png",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x86B3F23B6e90F5bbfac59b5b2661134Ef8Ffd255",
-      "symbol": "APE",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "ApeCoin",
-      "coingeckoId" : "apecoin",
-      "cmcId": 18876,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x86B3F23B6e90F5bbfac59b5b2661134Ef8Ffd255.png",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x4f3Aff3A747fCADe12598081e80c6605A8be192F",
-      "symbol": "GAMI",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Gami Studio",
-      "coingeckoId" : "gami",
-      "cmcId": 18680,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x4f3Aff3A747fCADe12598081e80c6605A8be192F.png",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x33C80d5492b04BFB94F2757FCA88a2d7f49211e6",
-      "symbol": "OP",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Optimism",
-      "coingeckoId" : "optimism",
-      "cmcId": 11840,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png?1660904599",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
-      "symbol": "BNB",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Binance Coin",
-      "coingeckoId" : "binancecoin",
-      "cmcId": 1839,
-      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
-      "symbol": "FTM",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Fantom",
-      "coingeckoId" : "fantom",
-      "cmcId": 3513,
-      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
-      "symbol": "MATIC",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Polygon",
-      "coingeckoId": "matic-network",
-      "cmcId": 3890,
-      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53/logo.png",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x22648C12acD87912EA1710357B1302c6a4154Ebc",
-      "symbol": "XRP",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Ripple",
-      "coingeckoId": "ripple",
-      "cmcId": 52,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
-      "decimals": 6,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4",
-      "symbol": "LINK",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "ChainLink Token",
-      "coingeckoId": "chainlink",
-      "cmcId": 1975,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x3D632d9e1a60a0880Dd45E61f279D919b5748377",
-      "symbol": "ARB",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Arbitrum",
-      "coingeckoId": "arbitrum",
-      "cmcId": 11841,
-      "logoURI": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg?1680097630",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0xc46fedc533E9f14c99C4c5124e2085701fa9B255",
-      "symbol": "PEPE",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Pepe",
-      "coingeckoId": "pepe",
-      "cmcId": 24478,
-      "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg?1682922725",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
-      "symbol": "SUSHI",
-      "name": "Sushi",
-      "coingeckoId": "sushi",
-      "cmcId": 6758,
-      "logoURI": "https://cryptologos.cc/logos/sushiswap-sushi-logo.png",
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
-      "symbol": "ONE",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "name": "Harmony",
-      "coingeckoId": "harmony",
-      "cmcId": 3945,
-      "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png?1565065793",
-      "decimals": 18,
-      "tags": ["telosevm"]
-     },
-    {
-      "chainId": 40,
-      "address": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
-      "symbol": "ZAP",
-      "name": "Zappy",
-      "coingeckoId": false,
-      "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x9A271E3748F59222f5581BaE2540dAa5806b3F77/logo.png",
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
-      "symbol": "CHARM",
-      "name": "Omnidex",
-      "coingeckoId": false,
-      "cmcId": false,
-      "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq",
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-     "chainId": 40,
-     "address": "0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64",
-     "symbol": "KARMA",
-     "name": "Charm Dojo",
-     "coingeckoId": false,
-     "cmcId": false,
-     "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64.svg",
-     "decimals": 18,
-     "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
-      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c/logo.png",
-      "symbol": "DOUGE",
-      "name": "DougeCoin",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xE5dE07ec385B1BD55f6bB02c01860547be9D7C0B",
-      "symbol": "PIG",
-      "logoURI": "https://gateway.ipfs.io/ipfs/QmPThPaz3kjWaLjDAZKP8frpzaVm5Rvi5wCcUbag8QhgRL",
-      "name": "Big Pig",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xEC0a873cdBE667E5bD68AF47932c948f872032d6",
-      "symbol": "GATe",
-      "logoURI": "https://gat.network/gat-logo-200x200.png",
-      "name": "Game Ace Token Extended",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xB153FB3d196A8eB25522705560ac152eeEc57901",
-      "symbol": "WELT",
-      "logoURI": "https://assets.coingecko.com/coins/images/20505/small/welt.PNG?1637143324",
-      "name": "Fabwelt",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "coingeckoId": "fabwelt",
-      "cmcId": 14681,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4",
-      "symbol": "APISH",
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4.png",
-      "name": "APISH ME",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 9,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-      "symbol": "ELK",
-      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-      "name": "ELK",
-      "issuer": "Elk Finance",
-      "issuer_link": "https://elk.finance/",
-      "coingeckoId": "elk-finance",
-      "cmcId": 10095,
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
-      "symbol": "ELK",
-      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
-      "name": "ELK",
-      "issuer": "Elk Finance",
-      "issuer_link": "https://elk.finance/",
-      "coingeckoId": "elk-finance",
-      "cmcId": 10095,
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0xCC47EB13916a76e262b0EE48A71e3c7953091e7a",
-      "symbol": "SWAP",
-      "logoURI": "https://raw.githubusercontent.com/evm20/tokens/main/swaptoken.svg",
-      "name": "SWAP",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0x667fd83e24ca1d935d36717d305d54fa0cac991c",
-      "symbol": "BANANA",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
-      "name": "ApeSwap Finance Banana",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "coingeckoId": "apeswap-finance",
-      "cmcId": 8497,
-      "decimals": 18,
-      "tags": []
-    },
-    {
-      "chainId": 40,
-      "address": "0x72397e7A188EFA8e9BbBa5cBEb4a4bC92752A59a",
-      "symbol": "Y365",
-      "logoURI": "https://365year.net/images/logo.png",
-      "name": "Year 365",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-    {
-      "chainId": 40,
-      "address": "0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5",
-      "symbol": "Arc",
-      "name": "Archly Arc",
-      "coingeckoId": false,
-      "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5.png",
-      "decimals": 18,
-      "tags": ["telosevm"]
-     },
-    {
-      "chainId": 40,
-      "address": "0x34f94EaDBba78C784431a331EC683ce2efb9F838",
-      "symbol": "X365",
-      "logoURI": "https://365year.net/images/logoX.png",
-      "name": "X365",
-      "issuer": "Multichain",
-      "issuer_link": "https://app.multichain.org/",
-      "coingeckoId": false,
-      "cmcId": false,
-      "decimals": 18,
-      "tags": ["telosevm"]
-    },
-     {
-      "chainId": 40,
-      "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
-      "symbol": "PE",
-      "name": "Positron",
-      "coingeckoId": false,
-      "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/OmniDexFinance/tokenLogo/master/0xE56c325a68b489812081E8A7b60b4017fd2AD280.png",
-      "decimals": 4,
-      "tags": ["telosevm"]
-     },
-     {
-      "chainId": 40,
-      "address": "0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A",
-      "symbol": "DECO",
-      "name": "Destiny Coin",
-      "coingeckoId": false,
-      "cmcId": false,
-      "logoURI": "https://api.dstor.cloud/ipfs/QmVx1uSPTW7UQWGbz3ba5Nf7DPVyieEdRnQGHogo7t9Pw6",
-      "decimals": 4,
-      "tags": ["telosevm"]
-     },
-     {
-       "chainId": 40,
-       "address": "0xE35b6D08050fef8E2bA2b1ED9C8f966a2346A500",
-       "symbol": "WAG",
-       "name": "WagyuSwap Token",
-       "coingeckoId": "wagyuswap",
-       "cmcId": 11354,
-       "logoURI": "https://raw.githubusercontent.com/wagyuswapapp/assets/master/blockchains/telos/assets/0xe35b6d08050fef8e2ba2b1ed9c8f966a2346a500/logo.png",
-       "decimals": 18,
-       "tags": ["telosevm"]
+      {
+          "chainId": 40,
+          "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+          "symbol": "WTLOS",
+          "name": "Wrapped TLOS",
+          "coingeckoId": "telos",
+          "cmcId": 4660,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
       },
       {
-       "chainId": 41,
-       "address": "0x950570d7B3CeC2d93b506d2D4eB53f38cbD130b0",
-       "symbol": "POPS",
-       "name": "Swapsicle POPS",
-       "issuer": "Multichain",
-       "issuer_link": "https://app.multichain.org/",
-       "coingeckoId": "swapsicle-pops",
-       "cmcId": 20438,
-       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
-       "decimals": 18,
-       "tags": ["telosevm"]
+          "chainId": 41,
+          "address": "0xaE85Bf723A9e74d6c663dd226996AC1b8d075AA9",
+          "symbol": "WTLOS",
+          "name": "Wrapped TLOS",
+          "coingeckoId": "telos",
+          "cmcId": 4660,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
       },
       {
-       "chainId": 40,
-       "address": "0x173fd7434b8b50df08e3298f173487ebdb35fd14",
-       "symbol": "POPS",
-       "name": "Swapsicle POPS",
-       "issuer": "Multichain",
-       "issuer_link": "https://app.multichain.org/",
-       "coingeckoId": "swapsicle-pops",
-       "cmcId": 20438,
-       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
-       "decimals": 18,
-       "tags": ["telosevm"]
-      },
-     {
-       "chainId": 40,
-       "address": "0x14e374CEF17d800109710aa2c2D73e50db76d367",
-       "symbol": "sPOPS",
-       "name": "Staked POPS",
-       "coingeckoId": false,
-       "cmcId": false,
-       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x5108176bC1B7e72440e6B48862c51d7eB0AEd5c4/logo.svg",
-       "decimals": 18,
-       "tags": ["telosevm"]
+          "chainId": 41,
+          "address": "0xD159C4E586421a507907faD705e067bfB350dc07",
+          "symbol": "FIAT",
+          "name": "Inflationary Asset (DEX Demo)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xD159C4E586421a507907faD705e067bfB350dc07.png",
+          "decimals": 4,
+          "tags": [
+              "telosevm"
+          ]
       },
       {
-       "chainId": 40,
-       "address": "0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63",
-       "symbol": "RBN",
-       "name": "Robinos",
-       "coingeckoId": false,
-       "cmcId": false,
-       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63.png",
-       "decimals": 6,
-       "tags": ["telosevm"]
+          "chainId": 41,
+          "address": "0xd9151F839a9d8D280C0a3a694C82b6865BbCa099",
+          "symbol": "CAKE",
+          "name": "PancakeSwap (DEX Demo)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xd9151F839a9d8D280C0a3a694C82b6865BbCa099.png",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
       },
       {
-        "chainId": 40,
-        "address": "0x2f15F85a6c346C0a2514Af70075259e503E7137B",
-        "symbol": "DMMY",
-        "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/dmmy.svg",
-        "name": "dummy☻DAO",
-        "coingeckoId": false,
-        "cmcId": false,
-        "decimals": 18,
-        "tags": ["telosevm"]
+          "chainId": 40,
+          "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
+          "symbol": "STLOS",
+          "name": "Staked TLOS",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
       },
       {
-       "chainId": 40,
-       "address": "0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF",
-       "symbol": "FORT",
-       "name": "Fortis Coin (Legacy)",
-       "coingeckoId": false,
-       "cmcId": false,
-       "logoURI": "https://app.fortisfinance.io/Fortis.png",
-       "decimals": 18,
-       "tags": ["telosevm"]
+          "chainId": 41,
+          "address": "0xa9991E4daA44922D00a78B6D986cDf628d46C4DD",
+          "symbol": "STLOS",
+          "name": "Staked TLOS",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
       },
       {
-       "chainId": 40,
-       "address": "0xd0208c3BE89002f62e42141d4542b15F45FB48aB",
-       "symbol": "FORT",
-       "name": "Fortis Coin",
-       "coingeckoId": false,
-       "cmcId": false,
-       "logoURI": "https://fortisnetwork.io/logos/White.svg",
-       "decimals": 18,
-       "tags": ["telosevm"]
+          "chainId": 40,
+          "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
+          "symbol": "WBTC",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Wrapped Bitcoin (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png",
+          "decimals": 8,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+          "symbol": "ETH",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Ethereum (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+          "symbol": "USDC",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "USD Coin (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "decimals": 6,
+          "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+          "tags": [
+              "stablecoin"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+          "symbol": "USDT",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Tether Stable Coin (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
+          "decimals": 6,
+          "tags": [
+              "stablecoin"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
+          "symbol": "BUSD",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Binance USD (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
+          "decimals": 18,
+          "tags": [
+              "stablecoin"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
+          "symbol": "AVAX",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Avalanche (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC",
+          "symbol": "MOVR",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Moonriver (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC.png",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x86B3F23B6e90F5bbfac59b5b2661134Ef8Ffd255",
+          "symbol": "APE",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "ApeCoin (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x86B3F23B6e90F5bbfac59b5b2661134Ef8Ffd255.png",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x4f3Aff3A747fCADe12598081e80c6605A8be192F",
+          "symbol": "GAMI",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Gami Studio (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x4f3Aff3A747fCADe12598081e80c6605A8be192F.png",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x33C80d5492b04BFB94F2757FCA88a2d7f49211e6",
+          "symbol": "OP",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Optimism (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://assets.coingecko.com/coins/images/25244/small/Optimism.png?1660904599",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+          "symbol": "BNB",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Binance Coin (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
+          "symbol": "FTM",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Fantom (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
+          "symbol": "MATIC",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Polygon (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x885ca6663E1E19DAD31c1e08D9958a2b8F538D53/logo.png",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x22648C12acD87912EA1710357B1302c6a4154Ebc",
+          "symbol": "XRP",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Ripple (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+          "decimals": 6,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4",
+          "symbol": "LINK",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "ChainLink Token (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x3D632d9e1a60a0880Dd45E61f279D919b5748377",
+          "symbol": "ARB",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Arbitrum (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://assets.coingecko.com/coins/images/16547/small/photo_2023-03-29_21.47.00.jpeg?1680097630",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0xc46fedc533E9f14c99C4c5124e2085701fa9B255",
+          "symbol": "PEPE",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Pepe (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg?1682922725",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
+          "symbol": "SUSHI",
+          "name": "Sushi",
+          "coingeckoId": "sushi",
+          "cmcId": 6758,
+          "logoURI": "https://cryptologos.cc/logos/sushiswap-sushi-logo.png",
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
+          "symbol": "ONE",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "name": "Harmony (Multichain)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png?1565065793",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
+          "symbol": "ZAP",
+          "name": "Zappy",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x9A271E3748F59222f5581BaE2540dAa5806b3F77/logo.png",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
+          "symbol": "CHARM",
+          "name": "Omnidex",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://gateway.pinata.cloud/ipfs/QmUEJGwPMGBV154hcV8kp65a9TDM6XHJHTz5EFdfW3nDiq",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64",
+          "symbol": "KARMA",
+          "name": "Charm Dojo",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64.svg",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c",
+          "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xc6BC7A8dfA0f57Fe7746Ac434c01cD39679b372c/logo.png",
+          "symbol": "DOUGE",
+          "name": "DougeCoin",
+          "coingeckoId": false,
+          "cmcId": false,
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xE5dE07ec385B1BD55f6bB02c01860547be9D7C0B",
+          "symbol": "PIG",
+          "logoURI": "https://gateway.ipfs.io/ipfs/QmPThPaz3kjWaLjDAZKP8frpzaVm5Rvi5wCcUbag8QhgRL",
+          "name": "Big Pig",
+          "coingeckoId": false,
+          "cmcId": false,
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xEC0a873cdBE667E5bD68AF47932c948f872032d6",
+          "symbol": "GATe",
+          "logoURI": "https://gat.network/gat-logo-200x200.png",
+          "name": "Game Ace Token Extended",
+          "coingeckoId": false,
+          "cmcId": false,
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xB153FB3d196A8eB25522705560ac152eeEc57901",
+          "symbol": "WELT",
+          "logoURI": "https://assets.coingecko.com/coins/images/20505/small/welt.PNG?1637143324",
+          "name": "Fabwelt (Multichain)",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "coingeckoId": false,
+          "cmcId": false,
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4",
+          "symbol": "APISH",
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4.png",
+          "name": "APISH ME",
+          "coingeckoId": false,
+          "cmcId": false,
+          "decimals": 9,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+          "symbol": "ELK",
+          "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+          "name": "ELK",
+          "issuer": "Elk Finance",
+          "issuer_link": "https://elk.finance/",
+          "coingeckoId": "elk-finance",
+          "cmcId": 10095,
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+          "symbol": "ELK",
+          "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+          "name": "ELK",
+          "issuer": "Elk Finance",
+          "issuer_link": "https://elk.finance/",
+          "coingeckoId": "elk-finance",
+          "cmcId": 10095,
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0xCC47EB13916a76e262b0EE48A71e3c7953091e7a",
+          "symbol": "SWAP",
+          "logoURI": "https://raw.githubusercontent.com/evm20/tokens/main/swaptoken.svg",
+          "name": "SWAP",
+          "coingeckoId": false,
+          "cmcId": false,
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0x667fd83e24ca1d935d36717d305d54fa0cac991c",
+          "symbol": "BANANA",
+          "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
+          "name": "ApeSwap Finance Banana (Multichain)",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "coingeckoId": false,
+          "cmcId": false,
+          "decimals": 18,
+          "tags": []
+      },
+      {
+          "chainId": 40,
+          "address": "0x72397e7A188EFA8e9BbBa5cBEb4a4bC92752A59a",
+          "symbol": "Y365",
+          "logoURI": "https://365year.net/images/logo.png",
+          "name": "Year 365 (Multichain)",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "coingeckoId": false,
+          "cmcId": false,
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5",
+          "symbol": "Arc",
+          "name": "Archly Arc",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5.png",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0x34f94EaDBba78C784431a331EC683ce2efb9F838",
+          "symbol": "X365",
+          "logoURI": "https://365year.net/images/logoX.png",
+          "name": "X365 (Multichain)",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "coingeckoId": false,
+          "cmcId": false,
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xE56c325a68b489812081E8A7b60b4017fd2AD280",
+          "symbol": "PE",
+          "name": "Positron",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/OmniDexFinance/tokenLogo/master/0xE56c325a68b489812081E8A7b60b4017fd2AD280.png",
+          "decimals": 4,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0x7e1cfe10949A6086A28C38aA4A43fDeAB34f198A",
+          "symbol": "DECO",
+          "name": "Destiny Coin",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://api.dstor.cloud/ipfs/QmVx1uSPTW7UQWGbz3ba5Nf7DPVyieEdRnQGHogo7t9Pw6",
+          "decimals": 4,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xE35b6D08050fef8E2bA2b1ED9C8f966a2346A500",
+          "symbol": "WAG",
+          "name": "WagyuSwap Token",
+          "coingeckoId": "wagyuswap",
+          "cmcId": 11354,
+          "logoURI": "https://raw.githubusercontent.com/wagyuswapapp/assets/master/blockchains/telos/assets/0xe35b6d08050fef8e2ba2b1ed9c8f966a2346a500/logo.png",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 41,
+          "address": "0x950570d7B3CeC2d93b506d2D4eB53f38cbD130b0",
+          "symbol": "POPS",
+          "name": "Swapsicle POPS (Multichain)",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0x173fd7434b8b50df08e3298f173487ebdb35fd14",
+          "symbol": "POPS",
+          "name": "Swapsicle POPS (Multichain)",
+          "issuer": "Multichain",
+          "issuer_link": "https://app.multichain.org/",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.svg",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0x14e374CEF17d800109710aa2c2D73e50db76d367",
+          "symbol": "sPOPS",
+          "name": "Staked POPS",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x5108176bC1B7e72440e6B48862c51d7eB0AEd5c4/logo.svg",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63",
+          "symbol": "RBN",
+          "name": "Robinos",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63.png",
+          "decimals": 6,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0x2f15F85a6c346C0a2514Af70075259e503E7137B",
+          "symbol": "DMMY",
+          "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/dmmy.svg",
+          "name": "dummy\u263bDAO",
+          "coingeckoId": false,
+          "cmcId": false,
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xBA7DC28e0E33685ae4Ee2430BC4e418DbEa532FF",
+          "symbol": "FORT",
+          "name": "Fortis Coin (Legacy)",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://app.fortisfinance.io/Fortis.png",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
+      },
+      {
+          "chainId": 40,
+          "address": "0xd0208c3BE89002f62e42141d4542b15F45FB48aB",
+          "symbol": "FORT",
+          "name": "Fortis Coin",
+          "coingeckoId": false,
+          "cmcId": false,
+          "logoURI": "https://fortisnetwork.io/logos/White.svg",
+          "decimals": 18,
+          "tags": [
+              "telosevm"
+          ]
       }
   ],
   "version": {
-    "major": 0,
-    "minor": 13,
-    "patch": 0
+      "major": 0,
+      "minor": 13,
+      "patch": 0
   }
 }
