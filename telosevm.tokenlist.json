@@ -38,6 +38,17 @@
     },
     {
       "chainId": 41,
+      "address": "0xe1aFB545B5701D884a674d90b31927BBd0fcA380",
+      "symbol": "USDT",
+      "name": "Tether USD (testnet)",
+      "coingeckoId": false,
+      "cmcId": false,
+      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
+      "decimals": 6,
+      "tags": []
+    },
+    {
+      "chainId": 41,
       "address": "0xD159C4E586421a507907faD705e067bfB350dc07",
       "symbol": "FIAT",
       "name": "Inflationary Asset (DEX Demo)",
