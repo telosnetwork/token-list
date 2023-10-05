@@ -403,5 +403,11 @@
     "contract": "fortisledger",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/Fortis.png"
-  }
+  }, {
+    "name": "Banana",
+    "symbol": "BANANA",
+    "contract": "banana.moon",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/banana.png"
+  },
 ]
