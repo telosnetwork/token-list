@@ -626,6 +626,17 @@
        "logoURI": "https://fortisnetwork.io/logos/White.svg",
        "decimals": 18,
        "tags": ["telosevm"]
+      },
+      {
+       "chainId": 40,
+       "address": "0x7097Ee02465FB494841740B1a2b63c21Eed655E7",
+       "symbol": "BANANA",
+       "name": "Banana",
+       "coingeckoId": false,
+       "cmcId": false,
+       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/banana.png",
+       "decimals": 4,
+       "tags": ["telosevm"]
       }
   ],
   "version": {
