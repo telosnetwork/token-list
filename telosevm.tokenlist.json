@@ -132,6 +132,19 @@
     },
     {
       "chainId": 40,
+      "address": "0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50",
+      "symbol": "ETH",
+      "issuer": "LayerZero",
+      "issuer_link": "https://layerzero.network/",
+      "name": "Ethereum",
+      "coingeckoId": "ethereum",
+      "cmcId": 1027,
+      "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+      "decimals": 18,
+      "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
       "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
       "symbol": "USDC",
       "issuer": "Multichain",
