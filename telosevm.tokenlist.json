@@ -186,7 +186,7 @@
       "chainId": 40,
       "address": "0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f",
       "symbol": "USDT",
-      "issuer": "Multichain",
+      "issuer": "LayerZero",
       "issuer_link": "https://layerzero.network/",
       "name": "Tether Stable Coin",
       "coingeckoId" : "tether",
