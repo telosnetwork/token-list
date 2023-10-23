@@ -158,6 +158,19 @@
     },
     {
       "chainId": 40,
+      "address": "0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f",
+      "symbol": "USDT",
+      "issuer": "Multichain",
+      "issuer_link": "https://layerzero.network/",
+      "name": "Tether Stable Coin",
+      "coingeckoId" : "tether",
+      "cmcId": 825,
+      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
+      "decimals": 6,
+      "tags": ["stablecoin", "telosevm"]
+    },
+    {
+      "chainId": 40,
       "address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
       "symbol": "BUSD",
       "issuer": "Multichain",
