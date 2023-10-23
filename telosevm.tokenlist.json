@@ -106,6 +106,19 @@
     },
     {
       "chainId": 40,
+      "address": "0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC",
+      "symbol": "BTC.b",
+      "issuer": "LayerZero",
+      "issuer_link": "https://layerzero.network/",
+      "name": "Bitcoin",
+      "coingeckoId": "bitcoin",
+      "cmcId": 1,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/BTCb_logo.jpg",
+      "decimals": 8,
+      "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
       "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
       "symbol": "ETH",
       "issuer": "Multichain",
