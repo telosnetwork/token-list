@@ -132,6 +132,19 @@
     },
     {
       "chainId": 40,
+      "address": " 0x8D97Cea50351Fb4329d591682b148D43a0C3611b",
+      "symbol": "USDC",
+      "issuer": "LayerZero",
+      "issuer_link": "https://layerzero.network/",
+      "name": "USD Coin",
+      "coingeckoId" : "usd-coin",
+      "cmcId": 3408,
+      "decimals": 6,
+      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "tags": ["stablecoin", "telosevm"]
+    },
+    {
+      "chainId": 40,
       "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
       "symbol": "USDT",
       "issuer": "Multichain",
