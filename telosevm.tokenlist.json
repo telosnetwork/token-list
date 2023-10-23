@@ -288,6 +288,19 @@
     },
     {
       "chainId": 40,
+      "address": "0x26Ed0F16e777C94A6FE798F9E20298034930Bae8",
+      "symbol": "BNB",
+      "issuer": "LayerZero",
+      "issuer_link": "https://layerzero.network/",
+      "name": "Binance Coin",
+      "coingeckoId" : "binancecoin",
+      "cmcId": 1839,
+      "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
+      "decimals": 18,
+      "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
       "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
       "symbol": "FTM",
       "issuer": "Multichain",
