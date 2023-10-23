@@ -113,7 +113,7 @@
       "name": "Bitcoin",
       "coingeckoId": "bitcoin",
       "cmcId": 1,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/ac55b12933f2d8e8434405b990e6417c3ce114c1/logos/BTCb_logo.jpg",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/BTC.b.png",
       "decimals": 8,
       "tags": ["telosevm"]
     },
