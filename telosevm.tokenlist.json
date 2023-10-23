@@ -158,7 +158,7 @@
     },
     {
       "chainId": 40,
-      "address": " 0x8D97Cea50351Fb4329d591682b148D43a0C3611b",
+      "address": "0x8D97Cea50351Fb4329d591682b148D43a0C3611b",
       "symbol": "USDC",
       "issuer": "LayerZero",
       "issuer_link": "https://layerzero.network/",
