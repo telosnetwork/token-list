@@ -28,12 +28,12 @@
     },
     {
       "name": "Swapsicle",
-      "url": "https://www.swapsicle.io/",
+      "url": "https://swapsicle.io/",
       "factoryContracts": {
-        "mainnet": "0xb630f53df13645bff0ef55eb44a8a490a7dd4514",
-        "testnet": ""
+        "mainnet": "0xA09BAbf9A48003ae9b9333966a8Bda94d820D0d9",
+        "testnet": "0x2746B1a7B780f128F0db99d9fc60C2DB3E4a7bd5"
       },
-      "tags": ["uniswapv2"]
+      "tags": ["algebra", "uniswapv3"]
     },
     {
       "name": "Archly",
@@ -43,7 +43,7 @@
         "testnet": "0xCEE3e7189913335D83c41aDfC3089B2B17a6a740"
       },
       "tags": ["solidly"]
-    },
+    }
   ],
   "version": {
     "major": 1,
