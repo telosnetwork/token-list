@@ -694,6 +694,39 @@
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/banana.png",
       "decimals": 4,
       "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
+      "address": "0x7bD3ffe9f0C9CF08FD60e102FEa455A6EA580276",
+      "symbol": "USDT",
+      "name": "syUSDT",
+      "coingeckoId": false,
+      "cmcId": false,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "decimals": 6,
+      "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
+      "address": "0x63d71E79AdF0886c989A23b04a0E86F1489b6BC3",
+      "symbol": "WETH",
+      "name": "syWETH",
+      "coingeckoId": false,
+      "cmcId": false,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "decimals": 18,
+      "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
+      "address": "0xe6E5f3d264117E030C21920356641DbD5B3d660c",
+      "symbol": "USDC",
+      "name": "syUSDC",
+      "coingeckoId": false,
+      "cmcId": false,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "decimals": 6,
+      "tags": ["telosevm"]
     }
   ],
   "version": {
