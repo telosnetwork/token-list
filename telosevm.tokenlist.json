@@ -1,6 +1,6 @@
 {
   "name": "TelosEVM Token List",
-  "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png",
   "keywords": [
     "audited",
     "Telos",
@@ -28,7 +28,7 @@
       "name": "Wrapped TLOS",
       "coingeckoId": "telos",
       "cmcId": 4660,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png",
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -39,7 +39,7 @@
       "name": "Wrapped TLOS",
       "coingeckoId": "telos",
       "cmcId": 4660,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/images/master/logos_2021/Symbol%202.svg",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png",
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -83,7 +83,7 @@
       "name": "Staked TLOS",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/stlos.png",
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -94,7 +94,7 @@
       "name": "Staked TLOS",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/teloscan/master/public/stlos-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/stlos.png",
       "decimals": 18,
       "tags": ["telosevm"]
     },
