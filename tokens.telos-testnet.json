@@ -53,7 +53,7 @@
     "symbol": "TLOS",
     "contract": "eosio.token",
     "precision": 4,
-    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/telos.png"
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png"
   },
   {
     "name": "Tether (telos)",
