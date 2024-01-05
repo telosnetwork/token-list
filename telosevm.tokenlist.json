@@ -295,7 +295,7 @@
       "name": "Archly Arc v1",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5.png",
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/arc-logo.png",
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -416,7 +416,7 @@
       "name": "Archly Arc v2",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5.png",
+      "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/arc-logo.png",
       "decimals": 18,
       "tags": ["telosevm"]
     }
