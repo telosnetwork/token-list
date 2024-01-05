@@ -292,7 +292,7 @@
       "chainId": 40,
       "address": "0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5",
       "symbol": "Arc",
-      "name": "Archly Arc",
+      "name": "Archly Arc v1",
       "coingeckoId": false,
       "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5.png",
@@ -407,6 +407,17 @@
       "cmcId": false,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/banana.png",
       "decimals": 4,
+      "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
+      "address": "0xe8876189A80B2079D8C0a7867e46c50361D972c1",
+      "symbol": "Arc",
+      "name": "Archly Arc v2",
+      "coingeckoId": false,
+      "cmcId": false,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5.png",
+      "decimals": 18,
       "tags": ["telosevm"]
     }
   ],
