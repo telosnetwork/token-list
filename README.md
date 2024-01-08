@@ -4,6 +4,7 @@ We are working to keep updated all native standard tokens from all Antilope bloc
 Update ists are:
 
 **Telos:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.telos.json   
+**Telos EVM:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.telosevm.json   
 **Testnet:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.testnet.json   
 **EOS:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.eos.json   
 **WAX:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.wax.json   

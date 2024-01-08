@@ -1,0 +1,30 @@
+[
+  {
+    "name": "BANANA",
+    "symbol": "BANANA",
+    "contract": "0x7097Ee02465FB494841740B1a2b63c21Eed655E7",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/banana-logo.png"
+  },
+  {
+    "name": "LVC",
+    "symbol": "LVC",
+    "contract": "0x7d637d806b750B9C9f5d8e4e3634AA6639246924",
+    "precision": 18,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/LVC.png"
+  },
+  {
+    "name": "RF",
+    "symbol": "RF",
+    "contract": "0xb99C43d3bce4c8Ad9B95a4A178B04a7391b2a6EB",
+    "precision": 18,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/RF.webp"
+  },
+  {
+    "name": "VC",
+    "symbol": "VC",
+    "contract": "0xcB61BC4aE1613abf8662B7003BaD0E2aa3F7D746",
+    "precision": 18,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/VC.png"
+  }
+]
