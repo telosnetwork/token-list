@@ -28,7 +28,7 @@
       "name": "Wrapped TLOS",
       "coingeckoId": "telos",
       "cmcId": 4660,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png",
       "decimals": 18,
       "tags": ["telosevm"]
     },
@@ -39,7 +39,7 @@
       "name": "Wrapped TLOS",
       "coingeckoId": "telos",
       "cmcId": 4660,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png",
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png",
       "decimals": 18,
       "tags": ["telosevm"]
     },
