@@ -5,13 +5,14 @@ Update ists are:
 
 **Telos:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.telos.json   
 **Telos EVM:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.telosevm.json   
+
 **Testnet:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.testnet.json   
 **EOS:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.eos.json   
 **WAX:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.wax.json   
 
 ------
 
-The following JSON files have been deprecated and are intended to be replaced by the previous version. However, they will be retained for an indefinite period.
+The following JSON files have been deprecated and are intended to be replaced by the current version. However, they will be retained for an indefinite period.
 
 EVM Tokenlist URL
 https://raw.githubusercontent.com/telosnetwork/token-list/main/telosevm.tokenlist.json
