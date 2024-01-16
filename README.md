@@ -2,7 +2,7 @@
 List of deployed EVM and Antelope token contract addresses/accounts and token image files
 
 ## Add Token
-- To add a token to the list, submiti a pull request by adding token image file to the [logos](https://github.com/telosnetwork/token-list/tree/main/logos) directy and add an entry to the appropriate list found below. 
+- To add a token to the list, submit a pull request by adding token image file to the [logos](https://github.com/telosnetwork/token-list/tree/main/logos) directy and add an entry to the appropriate list found below 
 
 ## EVM
 - **Telos EVM:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.telosevm.json   
@@ -16,7 +16,7 @@ List of deployed EVM and Antelope token contract addresses/accounts and token im
 ------
 
 ## Deprecated Lists
-The following JSON files have been deprecated and are intended to be replaced by the current version. However, they will be retained for an indefinite period.
+The following JSON files have been deprecated and are intended to be replaced by the current version. While we will retain these lists indefinitely, they will no longer be maintained or updated.
 
 - **EVM** https://raw.githubusercontent.com/telosnetwork/token-list/main/telosevm.tokenlist.json
 
