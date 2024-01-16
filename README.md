@@ -1,12 +1,12 @@
 # token-list
-We are working to keep updated all native standard tokens from all Antilope blockchains. We just started...
+To add your token, add your token image file to the [logos]([url](https://github.com/telosnetwork/token-list/tree/main/logos)) directory and add an entry to the appropriate token list below.
 
-Update ists are:
-
-**Telos:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.telos.json   
+EVM:
 **Telos EVM:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.telosevm.json   
 
-**Testnet:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.testnet.json   
+Antelope:
+**Telos Zero:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.telos.json   
+**Telos Zero Testnet:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.testnet.json   
 **EOS:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.eos.json   
 **WAX:** https://raw.githubusercontent.com/telosnetwork/token-list/main/tokens.wax.json   
 
