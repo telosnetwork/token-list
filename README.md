@@ -16,7 +16,7 @@ To add a token to the list, submit a pull request after adding an entry to the a
 ------
 
 ## Deprecated Lists
-The following JSON files have been deprecated and are intended to be replaced by the current version. While we will retain these lists indefinitely, they will no longer be maintained or updated.
+The following lists are no longer maintained or updated. While we will retain these lists indefinitely, references should be replaced with the current version.
 
 - Telos EVM: https://raw.githubusercontent.com/telosnetwork/token-list/main/telosevm.tokenlist.json
 
