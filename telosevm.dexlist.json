@@ -36,10 +36,19 @@
       "tags": ["algebra", "uniswapv3"]
     },
     {
-      "name": "Archly",
-      "url": "https://archly.fi/",
+      "name": "Archly DEX v1",
+      "url": "https://v1.archly.fi/",
       "factoryContracts": {
         "mainnet": "0x39fdd4Fec9b41e9AcD339a7cf75250108D32906c",
+        "testnet": "0xCEE3e7189913335D83c41aDfC3089B2B17a6a740"
+      },
+      "tags": ["solidly"]
+    },
+    {
+      "name": "Archly DEX v2",
+      "url": "https://archly.fi/",
+      "factoryContracts": {
+        "mainnet": "0x12508dd9108Abab2c5fD8fC6E4984E46a3CF7824",
         "testnet": "0xCEE3e7189913335D83c41aDfC3089B2B17a6a740"
       },
       "tags": ["solidly"]
