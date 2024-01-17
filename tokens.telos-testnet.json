@@ -49,6 +49,13 @@
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/acorn.png"
   },
   {
+    "name": "Boid.com",
+    "symbol": "BOID",
+    "contract": "token.boid",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/animuslabs/boid-branding/main/token-logo-sm.png"
+  },
+  {
     "name": "Telos",
     "symbol": "TLOS",
     "contract": "eosio.token",
