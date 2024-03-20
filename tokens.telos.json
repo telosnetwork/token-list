@@ -416,5 +416,11 @@
     "contract": "banana.moon",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/banana.png"
+  }, {
+    "name": "Sholism",
+    "symbol": "SHOLISM",
+    "contract": "sholi.sm",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/SHOLISM.png"
   }
 ]
