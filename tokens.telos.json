@@ -14,6 +14,13 @@
     "logo": "https://raw.githubusercontent.com/animuslabs/boid-branding/main/token-logo-sm.png"
   },
   {
+    "name": "MEOW",
+    "symbol": "MEOW",
+    "contract": "simpletokens",
+    "precision": 4,
+    "logo": "https://ipfs.pintastic.link/ipfs/QmRHsBrP3NAHEKcaMhDWVSDNXn3jPbi8MMsmWDLYCTmtLY"
+  },
+  {
     "name": "Qubicles",
     "symbol": "QBE",
     "contract": "qubicletoken",
