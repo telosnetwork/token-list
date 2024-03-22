@@ -416,5 +416,11 @@
     "contract": "banana.moon",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/banana.png"
+  }, {
+    "name": "Silly Car",
+    "symbol": "CAR",
+    "contract": "simpletokens",
+    "precision": 0,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/silly-car.jpg"
   }
 ]
