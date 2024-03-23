@@ -422,5 +422,11 @@
     "contract": "simpletokens",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/silly-car.jpg"
+  }, {
+    "name": "John Wif Headphones",
+    "symbol": "WIFJOHN",
+    "contract": "simpletokens",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/wifjohn.png"
   }
 ]
