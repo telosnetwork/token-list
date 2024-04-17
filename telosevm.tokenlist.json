@@ -31,7 +31,7 @@
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png",
       "decimals": 18,
       "tags": ["telosevm"],
-      "issuer": "TCD",
+      "issuer": "Telos",
       "issuer_link": "https://telos.net/"
     },
     {
@@ -44,7 +44,7 @@
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png",
       "decimals": 18,
       "tags": ["telosevm"],
-      "issuer": "TCD",
+      "issuer": "Telos",
       "issuer_link": "https://telos.net/"
     },
     {
@@ -68,7 +68,7 @@
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xD159C4E586421a507907faD705e067bfB350dc07.png",
       "decimals": 4,
       "tags": ["telosevm"],
-      "issuer": "TCD"
+      "issuer": "Telos"
     },
     {
       "chainId": 41,
@@ -80,7 +80,7 @@
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xd9151F839a9d8D280C0a3a694C82b6865BbCa099.png",
       "decimals": 18,
       "tags": ["telosevm"],
-      "issuer": "TCD",
+      "issuer": "Telos",
       "issuer_link": "https://telos.net/"
     },
     {
@@ -93,7 +93,7 @@
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/stlos.png",
       "decimals": 18,
       "tags": ["telosevm"],
-      "issuer": "TCD",
+      "issuer": "Telos",
       "issuer_link": "https://telos.net/"
     },
     {
@@ -106,7 +106,7 @@
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/stlos.png",
       "decimals": 18,
       "tags": ["telosevm"],
-      "issuer": "TCD",
+      "issuer": "Telos",
       "issuer_link": "https://telos.net/"
     },
     {
