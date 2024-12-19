@@ -1,0 +1,30 @@
+{
+  "name": "TelosZKEVM Token List",
+  "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png",
+  "keywords": [
+    "audited",
+    "Telos",
+    "verified",
+    "special tokens",
+    "Layer 2 ZKEVM",
+    "DeFi tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "teloszkevm": {
+      "name": "TelosZKEVM Native",
+      "description": "Tokens that are native to TelosZKEVM."
+    }
+  },
+  "timestamp": "2024-12-18T00:00:00+00:00",
+  "tokens": 
+   [],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
