@@ -430,6 +430,17 @@
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/arc-logo.png",
       "decimals": 18,
       "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
+      "address": "0xbB5cA1404CeEd710487af13879e8aa9e36DE1Ac3",
+      "symbol": "TAPA",
+      "name": "Tapas",
+      "coingeckoId": false,
+      "cmcId": false,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/tapas.svg",
+      "decimals": 18,
+      "tags": ["telosevm"]
     }
   ],
   "version": {
