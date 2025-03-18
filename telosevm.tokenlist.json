@@ -430,6 +430,19 @@
       "logoURI": "https://raw.githubusercontent.com/ArchlyFi/token-list/main/logos/arc-logo.png",
       "decimals": 18,
       "tags": ["telosevm"]
+    },
+    {
+      "chainId": 40,
+      "address": "0xF07f8D13F57dF3572b284FB701cEF021C62a68Ab",
+      "symbol": "BOID",
+      "issuer": "boid.com",
+      "issuer_link": "https://boid.com",
+      "name": "BOID",
+      "coingeckoId": false,
+      "cmcId": false,
+      "decimals": 18,
+      "logoURI": "https://ipfs.pintastic.link/ipfs/QmWVH1t4UgbWv2CcRDCJDrGHL32AkKATS5inQC227QNgfZ",
+      "tags": ["ai", "telosevm", "gaming", "metaverse", "computing"]
     }
   ],
   "version": {
