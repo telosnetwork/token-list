@@ -428,5 +428,12 @@
     "contract": "simpletokens",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/wifjohn.png"
+  },
+    {
+    "name": "teloscache",
+    "symbol": "TCACHE",
+    "contract": "antelopcache",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/TCACHE.png"
   }
 ]
