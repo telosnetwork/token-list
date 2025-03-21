@@ -23,6 +23,19 @@
   "tokens": [
     {
       "chainId": 40,
+      "address": "0x02Ea28694Ae65358Be92bAFeF5Cb8C211f33Db1A",
+      "symbol": "TLOS",
+      "name": "TLOS (Layer Zero)",
+      "coingeckoId": "telos",
+      "cmcId": 4660,
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png",
+      "decimals": 18,
+      "tags": ["telosevm", "layerzero"],
+      "issuer": "Telos",
+      "issuer_link": "https://telos.net/"
+    },
+    {
+      "chainId": 40,
       "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
       "symbol": "WTLOS",
       "name": "Wrapped TLOS",
@@ -120,7 +133,7 @@
       "cmcId": 1,
       "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/BTC.b.png",
       "decimals": 8,
-      "tags": ["telosevm"]
+      "tags": ["telosevm", "layerzero"]
     },
     {
       "chainId": 40,
@@ -133,7 +146,7 @@
       "cmcId": 1027,
       "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
       "decimals": 18,
-      "tags": ["telosevm"]
+      "tags": ["telosevm", "layerzero"]
     },
     {
       "chainId": 40,
@@ -146,7 +159,7 @@
       "cmcId": 3408,
       "decimals": 6,
       "logoURI": "https://ipfs.telos.net/ipfs/QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
-      "tags": ["stablecoin", "telosevm"]
+      "tags": ["stablecoin", "telosevm", "layerzero"]
     },
     {
       "chainId": 40,
@@ -159,7 +172,7 @@
       "cmcId": 825,
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
       "decimals": 6,
-      "tags": ["stablecoin", "telosevm"]
+      "tags": ["stablecoin", "telosevm", "layerzero"]
     },
     {
       "chainId": 40,
@@ -172,7 +185,7 @@
       "cmcId": 1839,
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
       "decimals": 18,
-      "tags": ["telosevm"]
+      "tags": ["telosevm", "layerzero"]
     },
     {
       "chainId": 40,
@@ -447,7 +460,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 13,
+    "minor": 14,
     "patch": 0
   }
 }
