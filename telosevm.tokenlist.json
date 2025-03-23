@@ -238,13 +238,14 @@
       "coingeckoId": false,
       "cmcId": false,
       "decimals": 18,
-      "tags": ["telosevm"]
+      "tags": ["telosevm"],
+      "broken": true
     },
     {
       "chainId": 40,
       "address": "0xEC0a873cdBE667E5bD68AF47932c948f872032d6",
       "symbol": "GATe",
-      "logoURI": "https://gat.network/gat-logo-200x200.png",
+      "logoURI": "https://gat.network/assets/GmtCoin.png",
       "name": "Game Ace Token Extended",
       "coingeckoId": false,
       "cmcId": false,
@@ -396,7 +397,8 @@
       "cmcId": false,
       "logoURI": "https://app.fortisfinance.io/Fortis.png",
       "decimals": 18,
-      "tags": ["telosevm"]
+      "tags": ["telosevm"],
+      "broken": true
     },
     {
       "chainId": 40,
@@ -407,7 +409,8 @@
       "cmcId": false,
       "logoURI": "https://fortisnetwork.io/logos/White.svg",
       "decimals": 18,
-      "tags": ["telosevm"]
+      "tags": ["telosevm"],
+      "broken": true
     },
     {
       "chainId": 40,
