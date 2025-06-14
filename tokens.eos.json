@@ -1580,5 +1580,12 @@
     "contract": "token.list",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/LIUAIEV.png"
+  },
+  {
+    "name": "eoscache",
+    "symbol": "ECACHE",
+    "contract": "antelopcache",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ECACHE.png"
   }
 ]

@@ -54,5 +54,12 @@
     "contract": "tribalbooksm",
     "precision": 0,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/mana.png"
+  },
+  {
+    "name": "waxcache",
+    "symbol": "WCACHE",
+    "contract": "antelopcache",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/WCACHE.png"
   }
 ]
