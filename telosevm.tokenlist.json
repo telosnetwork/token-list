@@ -193,13 +193,14 @@
       "symbol": "BNB",
       "issuer": "LayerZero",
       "issuer_link": "https://layerzero.network/",
-      "name": "Binance Coin",
+      "name": "Binance Coin (Legacy)",
       "coingeckoId": "binancecoin",
       "cmcId": 1839,
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png",
       "decimals": 18,
       "tags": [
-        "telosevm"
+        "telosevm",
+        "legacy"
       ]
     },
     {
