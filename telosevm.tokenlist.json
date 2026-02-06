@@ -1,6 +1,6 @@
 {
   "name": "TelosEVM Token List",
-  "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/telos.png",
+  "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/telos.png",
   "keywords": [
     "audited",
     "Telos",
@@ -28,7 +28,7 @@
       "name": "Wrapped TLOS",
       "coingeckoId": "telos",
       "cmcId": 4660,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png",
+      "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/wtlos.png",
       "decimals": 18,
       "tags": [
         "telosevm"
@@ -43,7 +43,7 @@
       "name": "Wrapped TLOS",
       "coingeckoId": "telos",
       "cmcId": 4660,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png",
+      "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/wtlos.png",
       "decimals": 18,
       "tags": [
         "telosevm"
@@ -69,7 +69,7 @@
       "name": "Inflationary Asset (DEX Demo)",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xD159C4E586421a507907faD705e067bfB350dc07.png",
+      "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/0xD159C4E586421a507907faD705e067bfB350dc07.png",
       "decimals": 4,
       "tags": [
         "telosevm"
@@ -83,7 +83,7 @@
       "name": "PancakeSwap (DEX Demo)",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xd9151F839a9d8D280C0a3a694C82b6865BbCa099.png",
+      "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/0xd9151F839a9d8D280C0a3a694C82b6865BbCa099.png",
       "decimals": 18,
       "tags": [
         "telosevm"
@@ -98,7 +98,7 @@
       "name": "Staked TLOS",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/stlos.png",
+      "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/stlos.png",
       "decimals": 18,
       "tags": [
         "telosevm"
@@ -113,7 +113,7 @@
       "name": "Staked TLOS",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/stlos.png",
+      "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/stlos.png",
       "decimals": 18,
       "tags": [
         "telosevm"
@@ -130,7 +130,7 @@
       "name": "Bitcoin",
       "coingeckoId": "bitcoin",
       "cmcId": 1,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/BTC.b.png",
+      "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/BTC.b.png",
       "decimals": 8,
       "tags": [
         "telosevm"
@@ -242,7 +242,7 @@
       "name": "Charm Dojo",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64.svg",
+      "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64.svg",
       "decimals": 18,
       "tags": [
         "telosevm"
@@ -291,7 +291,7 @@
       "chainId": 40,
       "address": "0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4",
       "symbol": "APISH",
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4.png",
+      "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/0x11fbfdf906d32753fa2a083dbd4fb25c1094c6c4.png",
       "name": "APISH ME",
       "coingeckoId": false,
       "cmcId": false,
@@ -424,7 +424,7 @@
       "name": "Robinos",
       "coingeckoId": false,
       "cmcId": false,
-      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63.png",
+      "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63.png",
       "decimals": 6,
       "tags": [
         "telosevm"
