@@ -127,13 +127,14 @@
       "symbol": "BTC.b",
       "issuer": "LayerZero",
       "issuer_link": "https://layerzero.network/",
-      "name": "Bitcoin",
+      "name": "Bitcoin (Legacy)",
       "coingeckoId": "bitcoin",
       "cmcId": 1,
       "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/BTC.b.png",
       "decimals": 8,
       "tags": [
-        "telosevm"
+        "telosevm",
+        "legacy"
       ]
     },
     {
@@ -142,13 +143,14 @@
       "symbol": "ETH",
       "issuer": "LayerZero",
       "issuer_link": "https://layerzero.network/",
-      "name": "Ethereum",
+      "name": "Ethereum (Legacy)",
       "coingeckoId": "ethereum",
       "cmcId": 1027,
       "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
       "decimals": 18,
       "tags": [
-        "telosevm"
+        "telosevm",
+        "legacy"
       ]
     },
     {
@@ -157,14 +159,15 @@
       "symbol": "USDC",
       "issuer": "LayerZero",
       "issuer_link": "https://layerzero.network/",
-      "name": "USD Coin",
+      "name": "USD Coin (Legacy)",
       "coingeckoId": "usd-coin",
       "cmcId": 3408,
       "decimals": 6,
       "logoURI": "https://ipfs.telos.net/ipfs/QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": [
         "stablecoin",
-        "telosevm"
+        "telosevm",
+        "legacy"
       ]
     },
     {
@@ -173,14 +176,15 @@
       "symbol": "USDT",
       "issuer": "LayerZero",
       "issuer_link": "https://layerzero.network/",
-      "name": "Tether Stable Coin",
+      "name": "Tether Stable Coin (Legacy)",
       "coingeckoId": "tether",
       "cmcId": 825,
       "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png",
       "decimals": 6,
       "tags": [
         "stablecoin",
-        "telosevm"
+        "telosevm",
+        "legacy"
       ]
     },
     {
