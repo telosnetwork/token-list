@@ -163,7 +163,7 @@
       "coingeckoId": "usd-coin",
       "cmcId": 3408,
       "decimals": 6,
-      "logoURI": "https://ipfs.telos.net/ipfs/QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "logoURI": "https://raw.githubusercontent.com/molty365/token-list/main/logos/usdc.png",
       "tags": [
         "stablecoin",
         "telosevm",
