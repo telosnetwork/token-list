@@ -48,5 +48,15 @@
     "url": "https://wallet.telos.net",
     "categories": ["Wallet", "Staking"],
     "author": "Telos Foundation"
+  },
+  {
+    "id": "rarible",
+    "title": "Rarible",
+    "logo": "https://rarible.com/favicon.ico",
+    "shortDescription": "Create, sell, and collect NFTs",
+    "description": "Rarible is a community-owned NFT marketplace. Create, buy, and sell digital collectibles on Telos EVM with low gas fees.",
+    "url": "https://rarible.com",
+    "categories": ["NFT", "Marketplace"],
+    "author": "Rarible"
   }
 ]
