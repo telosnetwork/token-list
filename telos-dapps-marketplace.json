@@ -1,0 +1,42 @@
+[
+  {
+    "id": "oku-trade",
+    "title": "Oku Trade",
+    "logo": "https://oku.trade/favicon.ico",
+    "shortDescription": "Trade tokens on Uniswap V3 with advanced analytics",
+    "description": "Oku Trade is a professional DEX interface built on Uniswap V3. Swap tokens, provide liquidity, and access advanced trading analytics on Telos EVM.",
+    "url": "https://oku.trade",
+    "categories": ["DeFi", "DEX"],
+    "author": "GFX Labs"
+  },
+  {
+    "id": "telos-bridge",
+    "title": "Telos Bridge",
+    "logo": "https://bridge.telos.net/favicon.ico",
+    "shortDescription": "Bridge assets to and from Telos",
+    "description": "Bridge tokens between Telos and 35+ chains including Ethereum, BSC, Polygon, Arbitrum and more. Powered by Superbridge with support for TLOS, USDC, USDT, WBTC, and ETH.",
+    "url": "https://bridge.telos.net",
+    "categories": ["DeFi", "Bridge"],
+    "author": "Telos Foundation"
+  },
+  {
+    "id": "meridian-mint",
+    "title": "Meridian Mint",
+    "logo": "https://mint.meridianfinance.net/favicon.ico",
+    "shortDescription": "Mint USDM stablecoin using TLOS collateral",
+    "description": "Meridian Mint allows users to deposit TLOS as collateral and mint USDM, a decentralized stablecoin on Telos EVM. Manage your debt positions with competitive collateral ratios.",
+    "url": "https://mint.meridianfinance.net/",
+    "categories": ["DeFi", "Stablecoin"],
+    "author": "Meridian Finance"
+  },
+  {
+    "id": "meridian-lend",
+    "title": "Meridian Lend",
+    "logo": "https://lend.meridianfinance.net/favicon.ico",
+    "shortDescription": "Lend and borrow assets on Telos",
+    "description": "Meridian Lend is a decentralized lending and borrowing protocol on Telos EVM. Supply assets to earn yield or borrow against your collateral with competitive rates.",
+    "url": "https://lend.meridianfinance.net/",
+    "categories": ["DeFi", "Lending"],
+    "author": "Meridian Finance"
+  }
+]
