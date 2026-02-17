@@ -58,5 +58,15 @@
     "url": "https://rarible.com",
     "categories": ["NFT", "Marketplace"],
     "author": "Rarible"
+  },
+  {
+    "id": "houdiniswap",
+    "title": "HoudiniSwap",
+    "logo": "https://cdn.prod.website-files.com/69143df941a2491956546ef7/6914b081e55336d7f306f5ba_H%20logo%20purple%20256px.png",
+    "shortDescription": "Private cross-chain swaps",
+    "description": "HoudiniSwap enables private, cross-chain token swaps. Swap between TLOS and 100+ tokens across multiple chains with built-in privacy features.",
+    "url": "https://app.houdiniswap.com/?tokenOut=TLOS&tokenIn=USDC&amount=100",
+    "categories": ["DeFi", "DEX", "Privacy"],
+    "author": "HoudiniSwap"
   }
 ]
