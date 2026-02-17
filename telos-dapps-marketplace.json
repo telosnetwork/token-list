@@ -68,5 +68,15 @@
     "url": "https://app.houdiniswap.com/?tokenOut=TLOS&tokenIn=USDC&amount=100",
     "categories": ["DeFi", "DEX", "Privacy"],
     "author": "HoudiniSwap"
+  },
+  {
+    "id": "rocketx",
+    "title": "RocketX",
+    "logo": "https://app.rocketx.exchange/images/common/favicon.png",
+    "shortDescription": "Cross-chain swap aggregator",
+    "description": "RocketX is a cross-chain swap aggregator that finds the best rates across DEXs and bridges. Swap between Telos and 100+ chains with optimal routing.",
+    "url": "https://app.rocketx.exchange/swap/ETHEREUM.ethereum/TELOSEVM.telos/1?from=Ethereum&to=Telos&mode=w",
+    "categories": ["DeFi", "DEX", "Bridge"],
+    "author": "RocketX"
   }
 ]
