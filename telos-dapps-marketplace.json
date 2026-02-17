@@ -38,5 +38,15 @@
     "url": "https://lend.meridianfinance.net/",
     "categories": ["DeFi", "Lending"],
     "author": "Meridian Finance"
+  },
+  {
+    "id": "telos-wallet",
+    "title": "Telos Wallet",
+    "logo": "https://wallet.telos.net/favicon.ico",
+    "shortDescription": "Official Telos web wallet",
+    "description": "The official Telos Wallet for managing TLOS and EVM tokens. Send, receive, stake TLOS, vote for block producers, and interact with Telos native and EVM networks.",
+    "url": "https://wallet.telos.net",
+    "categories": ["Wallet", "Staking"],
+    "author": "Telos Foundation"
   }
 ]
