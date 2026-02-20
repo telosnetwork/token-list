@@ -1,0 +1,90 @@
+[
+  {
+    "id": "oku-trade",
+    "title": "Oku Trade",
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/dapp-oku.png",
+    "shortDescription": "Trade tokens on Uniswap V3 with advanced analytics",
+    "description": "Oku Trade is a professional DEX interface built on Uniswap V3. Swap tokens, provide liquidity, and access advanced trading analytics on Telos EVM.",
+    "url": "https://oku.trade",
+    "external": true,
+    "categories": ["DeFi", "DEX"],
+    "author": "GFX Labs"
+  },
+  {
+    "id": "telos-bridge",
+    "title": "Telos Bridge",
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/dapp-telos.png",
+    "shortDescription": "Bridge assets to and from Telos",
+    "description": "Bridge tokens between Telos and 35+ chains including Ethereum, BSC, Polygon, Arbitrum and more. Powered by Superbridge with support for TLOS, USDC, USDT, WBTC, and ETH.",
+    "url": "https://bridge.telos.net",
+    "external": true,
+    "categories": ["DeFi", "Bridge"],
+    "author": "Telos Foundation"
+  },
+  {
+    "id": "meridian-mint",
+    "title": "Meridian Mint",
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/dapp-meridian.png",
+    "shortDescription": "Mint USDM stablecoin using TLOS collateral",
+    "description": "Meridian Mint allows users to deposit TLOS as collateral and mint USDM, a decentralized stablecoin on Telos EVM. Manage your debt positions with competitive collateral ratios.",
+    "url": "https://mint.meridianfinance.net/",
+    "external": true,
+    "categories": ["DeFi", "Stablecoin"],
+    "author": "Meridian Finance"
+  },
+  {
+    "id": "meridian-lend",
+    "title": "Meridian Lend",
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/dapp-meridian.png",
+    "shortDescription": "Lend and borrow assets on Telos",
+    "description": "Meridian Lend is a decentralized lending and borrowing protocol on Telos EVM. Supply assets to earn yield or borrow against your collateral with competitive rates.",
+    "url": "https://lend.meridianfinance.net/",
+    "external": true,
+    "categories": ["DeFi", "Lending"],
+    "author": "Meridian Finance"
+  },
+  {
+    "id": "telos-wallet",
+    "title": "Telos Wallet",
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/dapp-telos.png",
+    "shortDescription": "Official Telos web wallet",
+    "description": "The official Telos Wallet for managing TLOS and EVM tokens. Send, receive, stake TLOS, vote for block producers, and interact with Telos native and EVM networks.",
+    "url": "https://wallet.telos.net",
+    "external": true,
+    "categories": ["Wallet", "Staking"],
+    "author": "Telos Foundation"
+  },
+  {
+    "id": "rarible",
+    "title": "Rarible",
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/dapp-rarible.png",
+    "shortDescription": "Create, sell, and collect NFTs",
+    "description": "Rarible is a community-owned NFT marketplace. Create, buy, and sell digital collectibles on Telos EVM with low gas fees.",
+    "url": "https://rarible.com",
+    "external": true,
+    "categories": ["NFT", "Marketplace"],
+    "author": "Rarible"
+  },
+  {
+    "id": "houdiniswap",
+    "title": "HoudiniSwap",
+    "logo": "https://cdn.prod.website-files.com/69143df941a2491956546ef7/6914b081e55336d7f306f5ba_H%20logo%20purple%20256px.png",
+    "shortDescription": "Private cross-chain swaps",
+    "description": "HoudiniSwap enables private, cross-chain token swaps. Swap between TLOS and 100+ tokens across multiple chains with built-in privacy features.",
+    "url": "https://app.houdiniswap.com/?tokenOut=TLOS&tokenIn=USDC&amount=100",
+    "external": true,
+    "categories": ["DeFi", "DEX", "Privacy"],
+    "author": "HoudiniSwap"
+  },
+  {
+    "id": "rocketx",
+    "title": "RocketX",
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/dapp-rocketx.png",
+    "shortDescription": "Cross-chain swap aggregator",
+    "description": "RocketX is a cross-chain swap aggregator that finds the best rates across DEXs and bridges. Swap between Telos and 100+ chains with optimal routing.",
+    "url": "https://app.rocketx.exchange/swap/ETHEREUM.ethereum/TELOSEVM.telos/1?from=Ethereum&to=Telos&mode=w",
+    "external": true,
+    "categories": ["DeFi", "DEX", "Bridge"],
+    "author": "RocketX"
+  }
+]
