@@ -119,7 +119,14 @@
       "logo_lg": "https://raw.githubusercontent.com/animuslabs/boid-branding/main/token-logo.png",
       "symbol": "BOID",
       "account": "token.boid"
-    }
+    },
+    {
+      "name": "MEOW",
+      "symbol": "MEOW",
+      "contract": "simpletokens",
+      "precision": 4,
+      "logo": "https://ipfs.pintastic.link/ipfs/QmRHsBrP3NAHEKcaMhDWVSDNXn3jPbi8MMsmWDLYCTmtLY"
+    },
   ],
   "version": {
     "major": 0,
