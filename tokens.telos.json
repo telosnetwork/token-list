@@ -428,5 +428,68 @@
     "contract": "simpletokens",
     "precision": 4,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/wifjohn.png"
+  },
+  {
+    "name": "USD Coin (Alcor Bridge)",
+    "symbol": "USDC",
+    "contract": "wrap.alcor",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/usdc.png"
+  },
+  {
+    "name": "Tether (Alcor Bridge)",
+    "symbol": "USDT",
+    "contract": "wrap.alcor",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/USDT.png"
+  },
+  {
+    "name": "Ether (Alcor Bridge)",
+    "symbol": "ETH",
+    "contract": "wrap.alcor",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/alcor-eth.png"
+  },
+  {
+    "name": "BNB (Alcor Bridge)",
+    "symbol": "BNB",
+    "contract": "wrap.alcor",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/alcor-bnb.png"
+  },
+  {
+    "name": "POL (Alcor Bridge)",
+    "symbol": "POL",
+    "contract": "wrap.alcor",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/alcor-pol.png"
+  },
+  {
+    "name": "Sui (Alcor Bridge)",
+    "symbol": "SUI",
+    "contract": "wrap.alcor",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/alcor-sui.png"
+  },
+  {
+    "name": "NEAR (Alcor Bridge)",
+    "symbol": "NEAR",
+    "contract": "wrap.alcor",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/alcor-near.png"
+  },
+  {
+    "name": "WAX (Alcor Bridge)",
+    "symbol": "WAX",
+    "contract": "wrap.alcor",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/wax.png"
+  },
+  {
+    "name": "XPR (Alcor Bridge)",
+    "symbol": "XPR",
+    "contract": "wrap.alcor",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/xpr.png"
   }
 ]

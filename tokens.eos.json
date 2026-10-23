@@ -1580,5 +1580,26 @@
     "contract": "token.list",
     "precision": 8,
     "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/LIUAIEV.png"
+  },
+  {
+    "name": "USD Coin (Alcor Bridge)",
+    "symbol": "USDC",
+    "contract": "wrap.alcor",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/usdc.png"
+  },
+  {
+    "name": "Tether (Alcor Bridge)",
+    "symbol": "USDT",
+    "contract": "wrap.alcor",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/USDT.png"
+  },
+  {
+    "name": "Ether (Alcor Bridge)",
+    "symbol": "ETH",
+    "contract": "wrap.alcor",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/alcor-eth.png"
   }
 ]
