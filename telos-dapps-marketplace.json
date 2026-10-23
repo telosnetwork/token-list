@@ -86,5 +86,16 @@
     "external": true,
     "categories": ["DeFi", "DEX", "Bridge"],
     "author": "RocketX"
+  },
+  {
+    "id": "alcor-exchange",
+    "title": "Alcor Exchange",
+    "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/dapp-alcor.png",
+    "shortDescription": "Trustless bridge and DEX on Telos",
+    "description": "Alcor Exchange brings ETH, BNB, USDC, USDT, SUI, NEAR, WAX and XPR to Telos over its own trust-minimized bridge, verified by on-chain light clients rather than a multisig or a custodian, and trades them in concentrated-liquidity pools. Sign in with a passkey, deposit from an exchange to a personal address, then swap, provide liquidity or farm.",
+    "url": "https://app.alcor.exchange",
+    "external": true,
+    "categories": ["DeFi", "DEX", "Bridge"],
+    "author": "Alcor"
   }
 ]
